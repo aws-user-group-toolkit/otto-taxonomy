@@ -4,7 +4,7 @@ created_by: your_github_username
 domain: community_events
 seed_examples:
   - question: What is the AWS User Group Vienna?
-    answer: A community for AWS enthusiasts in Vienna and Austria, hosting monthly meetups for knowledge sharing and networking.
+    answer: A community for AWS enthusiasts in Vienna and Austria, hosting monthly meetups.
   - question: How often are the meetups held?
     answer: Monthly, typically on the second Tuesday to Thursday of each month.
   - question: Where are the meetups held?

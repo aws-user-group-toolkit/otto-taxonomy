@@ -1,5 +1,5 @@
 version: 2
-task_description: 'Provide information about organizing AWS User Group meetups in Vienna and general event organization guidelines.'
+task_description: 'Provide information about organizing AWS User Group meetups in Vienna.'
 created_by: your_github_username
 domain: event_management
 seed_examples:
