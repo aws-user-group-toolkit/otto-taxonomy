@@ -44,7 +44,7 @@ seed_examples:
   - question: What benefits do sponsors receive for supporting AWS User Groups?
     answer: Increased visibility, connect with AWS professionals, showcase support for community initiatives.
 document:
- repo: https://awscommunityaustria.notion.site/AWS-User-Group-Vienna-2363233192eb4937a28a66ff4d16cb0f
- commit: e1744af
- patterns:
-   - aws_dach_community_day.md
+  repo: https://awscommunityaustria.notion.site/AWS-User-Group-Vienna-2363233192eb4937a28a66ff4d16cb0f
+  commit: e1744af
+  patterns:
+    - aws_dach_community_day.md

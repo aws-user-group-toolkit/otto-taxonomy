@@ -24,7 +24,7 @@ seed_examples:
   - question: What are the benefits of attending AWS Community Day DACH?
     answer: Gain insights, learn AWS developments, network, participate in labs, and grow your community.
 document:
- repo: https://github.com/aws-user-group-toolkit
- commit: e1744af
- patterns:
-   - aws_meetup_vienna_event_organization.md
+  repo: https://github.com/aws-user-group-toolkit
+  commit: e1744af
+  patterns:
+    - aws_meetup_vienna_event_organization.md

@@ -44,7 +44,7 @@ seed_examples:
   - question: How can I leverage social media to enhance my meetup?
     answer: Promote events, share updates, engage attendees, and create a community.
 document:
- repo: https://github.com/aws-user-group-toolkit
- commit: e1744af
- patterns:
-   - aws_meetup_vienna_event_organization.md
+  repo: https://github.com/aws-user-group-toolkit
+  commit: e1744af
+  patterns:
+    - aws_meetup_vienna_event_organization.md
