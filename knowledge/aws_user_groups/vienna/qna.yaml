@@ -47,4 +47,4 @@ document:
   repo: https://github.com/aws-user-group-toolkit
   commit: 51e420e
   patterns:
-    - aws_ug_vienna.md
+    - knowledge/aws_user_groups/vienna/aws_ug_vienna.md

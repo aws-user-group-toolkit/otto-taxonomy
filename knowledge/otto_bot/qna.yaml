@@ -35,6 +35,6 @@ seed_examples:
       The main users are the human User Group leaders who interact with OTTO via Slack.
 document:
   repo: https://github.com/aws-user-group-toolkit
-  commit: e1744af
+  commit: e1a8897
   patterns:
-    - aws_meetup_vienna_event_organization.md
+    - knowledge/otto_bot/otto.md
