@@ -34,7 +34,7 @@ seed_examples:
       Community members can ask in the Slack channel about things like the next meetups, and OTTO will respond.
       The main users are the human User Group leaders who interact with OTTO via Slack.
 document:
-  repo: https://github.com/aws-user-group-toolkit
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
   commit: e1a8897
   patterns:
     - knowledge/otto_bot/otto.md

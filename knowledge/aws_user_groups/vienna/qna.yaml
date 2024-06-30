@@ -44,7 +44,7 @@ seed_examples:
   - question: What benefits do sponsors receive for supporting AWS User Groups?
     answer: Increased visibility, connect with AWS professionals, showcase support for community initiatives.
 document:
-  repo: https://github.com/aws-user-group-toolkit
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
   commit: 51e420e
   patterns:
     - knowledge/aws_user_groups/vienna/aws_ug_vienna.md
