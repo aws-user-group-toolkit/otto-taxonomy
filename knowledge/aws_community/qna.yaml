@@ -23,3 +23,8 @@ seed_examples:
     answer: No, they are community-driven and not funded by AWS. Sponsorships are transparent and unbiased.
   - question: Why is it important to maintain independence as a user group?
     answer: Ensures unbiased content, fosters genuine discussions, and prevents commercial interests from overshadowing the group's objectives.
+document:
+ repo: https://github.com/aws-user-group-toolkit
+ commit: e1744af
+ patterns:
+   - aws_meetup_vienna_event_organization.md
