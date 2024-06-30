@@ -1,0 +1,45 @@
+version: 2
+task_description: 'Provide information about organizing AWS User Group meetups in Vienna and general event organization guidelines.'
+created_by: your_github_username
+domain: event_management
+seed_examples:
+  - question: What are the first steps in organizing a meetup?
+    answer: Define purpose, audience, date, time, venue, and create an agenda.
+  - question: How do I choose a suitable venue for a meetup?
+    answer: Consider attendee number, accessibility, facilities, and budget. Visit beforehand.
+  - question: What should be included in a meetup agenda?
+    answer: Include networking, introductions, main presentations, Q&A, and closing remarks.
+  - question: How can I promote my meetup effectively?
+    answer: Use social media, mailing lists, event websites, and collaborate with local groups.
+  - question: What is the role of a meetup organizer?
+    answer: Plan and execute the event, manage logistics, coordinate speakers, and promote.
+  - question: How do I manage RSVPs and attendance?
+    answer: Use tools like Meetup.com, send reminders, and have a check-in process.
+  - question: What are some effective ways to engage attendees during a meetup?
+    answer: Encourage interactive sessions, Q&A, group activities, and social media feedback.
+  - question: How can I find and select speakers for my meetup?
+    answer: Identify potential speakers, reach out to experts, and align with meetup goals.
+  - question: What should I include in a follow-up after the meetup?
+    answer: Send thank-you notes, share highlights, materials, and solicit feedback.
+  - question: How do I handle event sponsorships?
+    answer: Identify sponsors, create packages, and maintain transparent communication.
+  - question: What tools can help with event organization?
+    answer: Use tools like Meetup.com, Slack, Trello, Asana, and Google Workspace.
+  - question: How do I ensure the safety and accessibility of my event?
+    answer: Choose accessible venues, provide clear instructions, and have safety measures.
+  - question: How can I measure the success of my meetup?
+    answer: Evaluate attendance, engagement, feedback, social media interactions, and goals.
+  - question: What are common challenges in organizing meetups and how can they be addressed?
+    answer: Address low attendance, technical issues, and logistics with planning and backup plans.
+  - question: How do I handle cancellations or changes to the meetup?
+    answer: Communicate changes promptly via email, social media, and the event page.
+  - question: What are some tips for creating engaging event content?
+    answer: Focus on relevant topics, use various formats, and invite dynamic speakers.
+  - question: How can I make my meetup inclusive and welcoming?
+    answer: Foster respect, ensure accessibility, use inclusive language, and promote a code of conduct.
+  - question: What are the benefits of hosting regular meetups?
+    answer: Build community, foster networking, keep members engaged, and share knowledge.
+  - question: How do I manage the budget for a meetup?
+    answer: Create a budget plan, track expenses, seek sponsorships, and allocate funds wisely.
+  - question: How can I leverage social media to enhance my meetup?
+    answer: Promote events, share updates, engage attendees, and create a community.
