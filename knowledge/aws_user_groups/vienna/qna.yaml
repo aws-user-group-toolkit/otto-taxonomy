@@ -1,0 +1,55 @@
+version: 2
+task_description: 'Provide information about the AWS User Group meetups in Vienna.'
+created_by: your_github_username
+domain: community_events
+seed_examples:
+  - question: What is the AWS User Group Vienna?
+    answer: The AWS User Group Vienna is a community for AWS enthusiasts in Vienna and Austria, facilitating monthly meetups for knowledge sharing and networking.
+  - question: How often are the meetups held?
+    answer: Meetups are held monthly, typically on the second Tuesday to Thursday of each month.
+  - question: Where are the meetups held?
+    answer: Meetups take place at various venues, including EBCONT and the AWS office.
+  - question: Who can join the meetups?
+    answer: The meetups are inclusive and open to all AWS enthusiasts.
+  - question: How can I submit a talk for a meetup?
+    answer: You can submit your talk proposals via Sessionize.
+  - question: What time do meetups usually start?
+    answer: Doors open at 5 PM, with introductions starting at 6 PM.
+  - question: What is the usual agenda for a meetup?
+    answer: The agenda typically includes entry and networking from 5-6 PM, welcome and introductions from 6-6:20 PM, followed by two talks with a short Q&A session after each, and concludes with networking.
+  - question: How many participants are usually accommodated?
+    answer: Meetups are usually scheduled for 40 seats, which may be expanded to 60.
+  - question: How is the promotion for meetups handled?
+    answer: Promotion graphics are prepared by the organizers, and social media promotion begins 1-2 weeks before the meetup.
+  - question: What is the inclusivity policy?
+    answer: The group welcomes participants from all backgrounds and interests, emphasizing respect and a friendly environment.
+  - question: What is the code of conduct?
+    answer: The code of conduct includes maintaining a respectful interaction, avoiding offensive jokes, and ensuring a safe environment for all attendees. Harassment in any form is not tolerated, and the policy applies to both online and offline spaces.
+  - question: What are examples of harassment according to the code of conduct?
+    answer: Harassment includes offensive comments related to gender, sexual orientation, disability, physical appearance, race, or religion, unwelcome comments about lifestyle choices, deliberate misgendering, physical contact without consent, threats of violence, stalking, and unwelcome sexual attention.
+  - question: How can harassment be reported?
+    answer: Harassment can be reported to the AWS Meetup Organizers via meetup.com or in person during events. The organizers will respond promptly and take appropriate actions.
+  - question: How are attendee badges managed?
+    answer: Attendee badges identify different roles such as Event Organizer, Location & Food Sponsor, Today's Speaker, and New to the Meetup, to facilitate networking and assistance.
+  - question: What does the Event Organizer (=User Group Leader) badge signify?
+    answer: The Event Organizer (=User Group Leader) badge signifies that the wearer is responsible for managing the event, answering questions, receiving suggestions, and addressing safety concerns. The Event Organizers of an AWS User Group Meetup are typically AWS User Group Leaders.
+  - question: What does the Location & Food Sponsor badge signify?
+    answer: The Location & Food Sponsor badge indicates that the wearer represents the sponsor providing the venue and refreshments, and they are available to discuss their contributions and services.
+  - question: What does the Today's Speaker badge signify?
+    answer: The Today's Speaker badge identifies the individual giving a talk at the meetup. Attendees can approach them for discussions about the topic presented.
+  - question: What does the New to the Meetup badge signify?
+    answer: The New to the Meetup badge is for first-time attendees, encouraging others to welcome them and help them integrate into the community.
+  - question: What is the role of the organizers in handling harassment reports?
+    answer: The organizers will handle harassment reports confidentially, recuse themselves if necessary, and take actions ranging from warnings to expulsion from the meetup spaces.
+  - question: What are the responsibilities of an AWS User Group Leader?
+    answer: An AWS User Group Leader is responsible for organizing and managing meetups, engaging with the community, finding speakers, promoting events, and ensuring a welcoming and inclusive environment. They work with co-organizers and the AWS community to facilitate learning and networking opportunities.
+  - question: What is AWS Stammtisch?
+    answer: AWS Stammtisch is an informal meetup that happens in Vienna when there is a sponsor. It provides a relaxed environment for AWS enthusiasts to network, share experiences, and discuss AWS-related topics over drinks and snacks.
+  - question: How can members contribute to the AWS User Group Vienna?
+    answer: Members can contribute by proposing talks, volunteering to help organize events, participating in discussions, sharing knowledge and experiences, and providing feedback to improve meetups.
+  - question: What is the importance of maintaining independence in AWS User Group Vienna?
+    answer: Maintaining independence allows the AWS User Group Vienna to provide unbiased, community-driven content and discussions. It ensures that the focus remains on education, knowledge sharing, and networking without commercial interests influencing the agenda.
+  - question: How are sponsorships managed in AWS User Group Vienna?
+    answer: Sponsorships are managed transparently, with clear communication about the sponsor's role and contributions. Sponsors provide support such as venues, refreshments, and promotional materials, but do not influence the content or discussions during the meetups.
+  - question: What benefits do sponsors receive for supporting AWS User Groups?
+    answer: Sponsors benefit from increased visibility within the AWS community, the opportunity to connect with AWS professionals, and the ability to showcase their support for community-driven initiatives. This can enhance their reputation and foster positive relationships with potential customers.

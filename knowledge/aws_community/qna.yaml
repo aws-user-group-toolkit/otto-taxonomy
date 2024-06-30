@@ -1,0 +1,25 @@
+version: 2
+task_description: 'Provide information about the AWS Community.'
+created_by: your_github_username
+domain: community_events
+seed_examples:
+  - question: What is the AWS Community?
+    answer: The AWS Community is a global network of AWS enthusiasts who come together to share knowledge, network, and learn about AWS. This includes AWS User Groups, AWS Community Days, and programs like AWS Heroes and AWS Community Builders, which recognize and support active community members and leaders.
+  - question: What are AWS Community Builders?
+    answer: AWS Community Builders are individuals recognized for their enthusiasm and contributions to the AWS community. They create technical resources, mentor others, and help build a strong network of AWS users.
+  - question: What is an AWS Hero?
+    answer: An AWS Hero is an individual recognized by AWS for their significant contributions to the community, including writing blog posts, speaking at events, and creating educational content.
+  - question: How do AWS User Groups support the community?
+    answer: AWS User Groups support the community by providing regular meetups for learning and networking, fostering a sense of belonging, and sharing practical knowledge on AWS services and best practices.
+  - question: How can I become more involved in the AWS community?
+    answer: You can become more involved in the AWS community by joining a local AWS User Group, attending meetups and events, participating in AWS Community Days, contributing to discussions online, and applying to become an AWS Community Builder or AWS Hero.
+  - question: What role do AWS User Groups play in the broader AWS community?
+    answer: AWS User Groups play a crucial role in the broader AWS community by fostering local communities of practice, enabling knowledge sharing, and providing networking opportunities for AWS enthusiasts of all levels.
+  - question: What are AWS Community Days?
+    answer: AWS Community Days are larger, day-long events that bring together multiple user groups for a series of talks, workshops, and networking opportunities. They are more comprehensive than regular meetups and often feature prominent speakers and hands-on labs.
+  - question: How can I find an AWS User Group near me?
+    answer: You can find an AWS User Group near you by visiting the AWS User Groups page on the AWS website or using platforms like Meetup.com to search for local groups. The AWS Community DACH page also lists user groups in the DACH region.
+  - question: Are AWS community events funded by AWS?
+    answer: No, AWS community events are community-driven and not funded by AWS. All sponsorship activities are transparent, and there is no influence from any companies, including AWS, on the content of the meetups.
+  - question: Why is it important to maintain independence as a user group?
+    answer: Maintaining independence as a user group is important to ensure unbiased content, foster genuine community-driven discussions, and prevent commercial interests from overshadowing the group's educational and networking objectives. This helps build trust and credibility within the community.

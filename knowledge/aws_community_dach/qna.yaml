@@ -1,0 +1,25 @@
+version: 2
+task_description: 'Provide information about the AWS Community in the DACH region.'
+created_by: your_github_username
+domain: community_events
+seed_examples:
+  - question: What is AWS Community Day DACH?
+    answer: AWS Community Day DACH is an annual event organized by the AWS user groups in the DACH region (Germany, Austria, Switzerland). It features technical discussions, workshops, and networking opportunities led by AWS experts and community leaders&#8203;:citation[oaicite:19]{index=19}&#8203;&#8203;:citation[oaicite:18]{index=18}&#8203;.
+  - question: What are the main activities at AWS Community Day DACH?
+    answer: The main activities include technical talks, hands-on workshops, networking sessions, and discussions on best practices and new AWS services. The event aims to provide a platform for learning and collaboration among AWS users in the DACH region&#8203;:citation[oaicite:17]{index=17}&#8203;&#8203;:citation[oaicite:16]{index=16}&#8203;.
+  - question: Who can attend AWS Community Day DACH?
+    answer: AWS Community Day DACH is open to all AWS enthusiasts, including developers, architects, business leaders, and students from the DACH region. The event encourages participation from all levels of AWS expertise&#8203;:citation[oaicite:15]{index=15}&#8203;&#8203;:citation[oaicite:14]{index=14}&#8203;.
+  - question: How can I register for AWS Community Day DACH?
+    answer: Registration for AWS Community Day DACH can be completed online through the event's official website. Detailed instructions and deadlines are provided on the site&#8203;:citation[oaicite:13]{index=13}&#8203;&#8203;:citation[oaicite:12]{index=12}&#8203;.
+  - question: What kind of sessions are offered at AWS Community Day DACH?
+    answer: Sessions at AWS Community Day DACH range from introductory talks to advanced technical discussions, covering topics like cloud-native development, machine learning, IoT, big data, and security&#8203;:citation[oaicite:11]{index=11}&#8203;&#8203;:citation[oaicite:10]{index=10}&#8203;.
+  - question: How is AWS Community Day DACH organized?
+    answer: AWS Community Day DACH is a community-led event organized by AWS user groups in the DACH region. The planning and execution are managed by volunteers from the community&#8203;:citation[oaicite:9]{index=9}&#8203;&#8203;:citation[oaicite:8]{index=8}&#8203;.
+  - question: What opportunities are there for networking at AWS Community Day DACH?
+    answer: The event provides ample opportunities for networking through dedicated sessions, breaks, and informal gatherings. Attendees can connect with peers, industry experts, and AWS professionals&#8203;:citation[oaicite:7]{index=7}&#8203;&#8203;:citation[oaicite:6]{index=6}&#8203;.
+  - question: Are there any hands-on activities at AWS Community Day DACH?
+    answer: Yes, AWS Community Day DACH includes hands-on workshops and labs where participants can get practical experience with AWS services and solutions under the guidance of experts&#8203;:citation[oaicite:5]{index=5}&#8203;&#8203;:citation[oaicite:4]{index=4}&#8203;.
+  - question: How can I submit a talk proposal for AWS Community Day DACH?
+    answer: Talk proposals for AWS Community Day DACH can be submitted through the official Call for Speakers page, typically hosted on platforms like Sessionize. Details about submission deadlines and requirements are provided on the event's website&#8203;:citation[oaicite:3]{index=3}&#8203;.
+  - question: What are the benefits of attending AWS Community Day DACH?
+    answer: Benefits include gaining insights from AWS experts, learning about the latest AWS developments, networking with like-minded professionals, participating in hands-on labs, and contributing to the AWS community's growth and knowledge sharing&#8203;:citation[oaicite:2]{index=2}&#8203;&#8203;:citation[oaicite:1]{index=1}&#8203;&#8203;:citation[oaicite:0]{index=0}&#8203;.
