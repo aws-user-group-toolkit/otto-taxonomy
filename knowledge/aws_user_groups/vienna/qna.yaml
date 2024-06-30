@@ -45,6 +45,6 @@ seed_examples:
     answer: Increased visibility, connect with AWS professionals, showcase support for community initiatives.
 document:
   repo: https://github.com/aws-user-group-toolkit
-  commit: e1744af
+  commit: 51e420e
   patterns:
     - aws_ug_vienna.md
