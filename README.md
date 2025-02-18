@@ -1,4 +1,4 @@
-# README: AWS User Group Vienna Taxonomy
+# OTTO - AWS User Group Vienna Taxonomy
 
 ## Overview
 
