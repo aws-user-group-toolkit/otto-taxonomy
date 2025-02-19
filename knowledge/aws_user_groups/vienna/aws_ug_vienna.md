@@ -3,7 +3,7 @@
 ## Overview
 This dataset is designed to fine-tune an LLM to act as an organizer and assistant for the AWS User Group Vienna. The LLM will assist in planning, scheduling, promotion, sponsorship coordination, speaker management, and handling frequently asked questions.
 
-## 1️⃣ General Information
+## 1 General Information
 
 ### About AWS User Group Vienna
 - **Community Name**: AWS User Group Vienna
@@ -28,7 +28,7 @@ In addition to AWS User Group Vienna, we also organize and support other AWS-foc
 - **AWS Stammtisch**: Informal networking events held in a casual setting, typically a Biergarten, allowing AWS enthusiasts to connect without formal presentations.
 - **AWS GameDays & Hands-On Workshops**: Practical, scenario-based AWS training events where participants solve challenges using AWS services in a team-based environment.
 
-## 2️⃣ Meetup Planning and Organization
+## 2 Meetup Planning and Organization
 
 ### 2.1 Meetup Frequency and Format
 - **Meetup Schedule**: The AWS User Group Vienna meets **once per month**, usually on the **second Wednesday** of each month. However, it can also be held on **Tuesday or Thursday** if needed.
@@ -69,13 +69,13 @@ AWS User Group Vienna organizes a variety of meetups to accommodate different au
 The planning process is structured to ensure each event is well-organized:
 
 #### **2 Months Before the Meetup**
-✅ **Pick a Date & Venue**
+**Pick a Date & Venue**
 - Confirm the event date with AWS User Group Leaders.
 - Secure a venue (host sponsors preferred; fallback AWS or EBCONT office).
 - If no venue is available, discuss alternatives with sponsors.
 
 #### **4-6 Weeks Before the Meetup**
-✅ **Pick a Topic and Find Speakers**
+**Pick a Topic and Find Speakers**
 - **Select a topic that aligns with AWS themes** (e.g., Serverless, AI, Security, etc.).
 - **Find two speakers** (one from the community, one from an AWS Partner or Sponsor if possible).
 - **Confirm speaker availability** and schedule prep call.
@@ -86,7 +86,7 @@ The planning process is structured to ensure each event is well-organized:
   - Talk Summary (500-1000 characters)
 
 #### **3-4 Weeks Before the Meetup**
-✅ **Prepare Promotion & Schedule Meetup**
+**Prepare Promotion & Schedule Meetup**
 - **Create Meetup event on [meetup.com](https://www.meetup.com/amazon-web-services-aws-vienna/)**.
 - **Generate promotional graphics** (Canva template available).
 - **Distribute promo material:**
@@ -95,13 +95,13 @@ The planning process is structured to ensure each event is well-organized:
   - Share with **speakers and sponsors** for wider reach.
 
 #### **2 Weeks Before the Meetup**
-✅ **Expand Registration & Drive Awareness**
+**Expand Registration & Drive Awareness**
 - **Initial seats open: 40 attendees**.
 - **Expand to 60 if full, then up to 100 based on no-show rate**.
 - **Reminder emails and LinkedIn posts to boost attendance**.
 
 #### **On Meetup Day**
-✅ **Event Execution**
+**Event Execution**
 - Arrive early (check-in starts at **17:00**).
 - Setup room (seating, projector, microphone, name tags, food & drinks).
 - Coordinate with sponsors and speakers.
@@ -143,108 +143,108 @@ We **do not** guarantee acceptance of all submissions. Talks are selected based 
 - We aim for **neutral, knowledge-sharing sessions** that benefit the **entire community**.
 - **Live demos and hands-on presentations** are encouraged but must be tested in advance.
 
-💡 **If you're passionate about AWS and want to share your expertise, we’d love to hear from you!**
+**If you're passionate about AWS and want to share your expertise, we’d love to hear from you!**
 
 # The Role of a User Group Leader at AWS User Group Vienna
 
 ## Overview
 User Group Leaders (UG Leaders) play a crucial role in managing and organizing AWS User Group Vienna meetups and related activities. Their responsibilities range from **event planning, speaker selection, sponsorship coordination, community engagement, and ensuring high-quality content**. The role is voluntary and driven by the passion for **knowledge-sharing, community building, and fostering collaboration in the AWS ecosystem**.
 
-## 1️⃣ Core Responsibilities
+## 1 Core Responsibilities
 
-### 🗓️ Event Planning and Execution
+### Event Planning and Execution
 - Schedule **monthly meetups**, securing a **venue and sponsorships** for food & drinks.
 - Define **event topics** and select **community-driven speakers**.
 - Coordinate **logistics**, including venue setup, streaming, and networking space.
 - Ensure a structured **meetup agenda**, including welcome introductions, talks, and networking time.
 
-### 🔍 Speaker and Content Curation
+### Speaker and Content Curation
 - Identify and **invite speakers** from the AWS community, AWS partners, or customers.
 - Manage talk submissions through **[Sessionize](https://sessionize.com/aws-community-austria/)**
 - Ensure presentations are **educational** and **not sales pitches**.
 - Provide feedback to speakers and **assist with their preparation**.
 
-### 🤝 Sponsorship and Partnerships
+### Sponsorship and Partnerships
 - Engage with **potential sponsors** to cover venue, catering, or swag.
 - Work with sponsors to **ensure compliance** with community guidelines.
 - Maintain **transparency**—sponsorship does not grant influence over content.
 
-### 📢 Promotion & Community Engagement
+### Promotion & Community Engagement
 - Promote events via **LinkedIn, Twitter, Meetup.com**, and **Slack**.
 - Respond to **questions from attendees, sponsors, and speakers**.
 - Foster an inclusive environment, encouraging **newcomers to participate**.
 
-### 📋 Post-Event Follow-up
+### Post-Event Follow-up
 - Share meetup highlights and photos on social media.
 - Gather **feedback from attendees and sponsors** to improve future meetups.
 - Maintain **records of past events, sponsors, and speaker contacts**.
 
 ---
 
-## 2️⃣ Leadership Expectations
+## 2 Leadership Expectations
 
-### 🎯 Commitment & Involvement
+### Commitment & Involvement
 - Attend and **actively participate in 50% of meetups** over a six-month period.
 - Lead **at least one event per year**, handling logistics and speaker coordination.
 - Collaborate with fellow UG Leaders to **define group strategy and activities**.
 
-### 🤲 Community-First Approach
+### Community-First Approach
 - Ensure **content remains community-driven**, prioritizing **learning over sales**.
 - Promote **inclusivity and diversity**, ensuring an open and welcoming environment.
 - Actively **engage with attendees**, making them feel part of the AWS Vienna family.
 
-### 🔄 Continuous Learning & Improvement
+### Continuous Learning & Improvement
 - Stay updated on **AWS technologies** and industry trends.
 - Actively **seek feedback** from attendees, speakers, and sponsors.
 - Adapt to changing **community interests and event formats**.
 
 ---
 
-## 3️⃣ Typical User Group Leader Workflow
+## 3 Typical User Group Leader Workflow
 
-### **🔹 Two Months Before the Meetup**
+### **Two Months Before the Meetup**
 - Pick a **date** and confirm the **venue**.
 - Align with sponsors on **food, drinks, and logistics**.
 - Reach out to potential **speakers** and finalize topics.
 
-### **🔹 Four to Six Weeks Before**
+### **Four to Six Weeks Before**
 - Collect **speaker details** via **Sessionize**.
 - Review and provide **feedback on presentations**.
 - Draft the **Meetup.com event** and prepare promo material.
 
-### **🔹 Three to Four Weeks Before**
+### **Three to Four Weeks Before**
 - Promote the event across **social media, Slack, and LinkedIn**.
 - Expand **registration limits** as needed.
 - Prepare the **opening slides and event agenda**.
 
-### **🔹 Meetup Day**
+### **Meetup Day**
 - Arrive early to **set up venue, check sound, and welcome attendees**.
 - Run the **event intro, introduce speakers, and moderate Q&A**.
 - Capture **photos/videos** for social media.
 
-### **🔹 Post-Meetup**
+### **Post-Meetup**
 - Post **event recap** and thank sponsors & speakers.
 - Gather **feedback from attendees**.
 - Update **UG documentation with learnings and improvements**.
 
 ---
 
-## 4️⃣ How to Become a User Group Leader?
+## 4 How to Become a User Group Leader?
 We welcome **motivated and engaged community members** to join as UG Leaders. If you’re interested in contributing:
 - Attend at least **3 meetups** to understand how we operate.
 - Volunteer for **organizing one event** to gain experience.
 - Express your interest by reaching out to **current UG Leaders**.
 
-💡 **Being a UG Leader is a rewarding experience, allowing you to shape the AWS community, network with industry experts, and contribute to knowledge-sharing in the cloud space!**
+**Being a UG Leader is a rewarding experience, allowing you to shape the AWS community, network with industry experts, and contribute to knowledge-sharing in the cloud space!**
 
 # AWS User Group Vienna - Meetup Structure and Goals
 
-## 1️⃣ Overview
+## 1 Overview
 The **AWS User Group Vienna** organizes **regular meetups** for AWS professionals, enthusiasts, and newcomers to connect, learn, and share knowledge. These meetups are designed to be **technical, educational, and community-driven**, ensuring that **everyone, regardless of experience level, can benefit**.
 
 AWS UG Vienna follows a structured schedule with **monthly meetups**, occasional **AWS Stammtisch networking events**, and annual **AWS Community Days**. The community also **participates in the global AWS ecosystem** by **exchanging speakers with other AWS User Groups and running special events like re:Invent Recaps**.
 
-## 2️⃣ Goals of the AWS User Group Vienna Meetups
+## 2 Goals of the AWS User Group Vienna Meetups
 The meetups aim to:
 - **Educate**: Provide high-quality, vendor-neutral AWS content for all skill levels.
 - **Connect**: Create a space where **AWS professionals and enthusiasts** can network.
@@ -252,29 +252,14 @@ The meetups aim to:
 - **Foster Innovation**: Inspire attendees to experiment with AWS technologies.
 - **Support Career Growth**: Enable **learning opportunities** for job seekers and those looking to upskill.
 
-## 3️⃣ Meetup Frequency & Structure
+## 3 Meetup Frequency & Structure
 AWS UG Vienna hosts **meetups 10 times per year** with a mix of **technical talks, hands-on sessions, and networking opportunities**.
-
-| Month | Event Type |
-|---|---|
-| **January** | Standard Meetup |
-| **February** | Standard Meetup |
-| **March** | **AWS Community Day Milano & AWS Community Day Romania** |
-| **April** | Standard Meetup |
-| **May** | **AWS Community Day CEE** |
-| **June** | Standard Meetup |
-| **July** | **AWS Stammtisch (Casual Networking Event, No Talks)** |
-| **August** | **AWS Stammtisch (Casual Networking Event, No Talks)** |
-| **September** | Standard Meetup |
-| **October** | **AWS Community Day DACH** |
-| **November** | Standard Meetup |
-| **December** | **AWS re:Invent Recap Special** |
 
 Meetups are usually held on the **second Wednesday** of each month but may occasionally move to **Tuesday or Thursday** depending on venue and speaker availability.
 
 ---
 
-## 4️⃣ Special Events
+## 4 Special Events
 
 ### **4.1 AWS Stammtisch - Informal Networking Event**
 During the summer months, AWS UG Vienna **takes a break from technical talks** and organizes AWS Stammtisch, an **informal networking event** where AWS professionals and enthusiasts can meet in a **casual Biergarten setting**.
@@ -319,7 +304,7 @@ This event is an **essential knowledge-sharing opportunity** for the AWS communi
 
 ---
 
-## 5️⃣ Meetup Content & Speaker Selection
+## 5 Meetup Content & Speaker Selection
 
 ### **5.1 What Content Do We Cover?**
 AWS UG Vienna prioritizes **high-quality, community-driven content** in the following areas:
@@ -369,11 +354,11 @@ AWS UG Vienna's **organizer team** selects speakers based on:
 - **Relevance**: Does the topic align with AWS trends and community interest?
 - **Speaker Expertise**: Does the speaker have hands-on AWS experience?
 
-💡 If you are interested in **presenting**, submit a talk proposal via **[Sessionize](https://sessionize.com/aws-community-austria/)**.
+If you are interested in **presenting**, submit a talk proposal via **[Sessionize](https://sessionize.com/aws-community-austria/)**.
 
 ---
 
-## 6️⃣ Meetup Logistics & How We Organize
+## 6 Meetup Logistics & How We Organize
 AWS UG Vienna's meetups **are free and open to all**. To **ensure a smooth experience**, the organizers handle the following:
 
 ### **6.1 Meetup Planning Timeline**
@@ -391,13 +376,13 @@ AWS UG Vienna's meetups **are free and open to all**. To **ensure a smooth exper
 
 ---
 
-## 7️⃣ Join the Community & Stay Updated!
-📅 **Meetups Every Month**  
-🍺 **AWS Stammtisch in Summer**  
-📢 **re:Invent Recap & Community Days**  
-🎙️ **Speaker Opportunities Available!**
+## 7 Join the Community & Stay Updated!
+**Meetups Every Month**  
+**AWS Stammtisch in Summer**  
+**re:Invent Recap & Community Days**  
+**Speaker Opportunities Available!**
 
-🔗 **Join us on Slack**: [AWS Community DACH](https://join.slack.com/t/awscommunityde/)  
-📢 **Follow us on Meetup**: [AWS User Group Vienna](https://www.meetup.com/amazon-web-services-aws-vienna/)  
+**Join us on Slack**: [AWS Community DACH](https://join.slack.com/t/awscommunityde/)  
+**Follow us on Meetup**: [AWS User Group Vienna](https://www.meetup.com/amazon-web-services-aws-vienna/)  
 
-🚀 **Let's build and learn together!**
+**Let's build and learn together!**
