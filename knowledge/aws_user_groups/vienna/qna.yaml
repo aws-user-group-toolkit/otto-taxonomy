@@ -7,14 +7,17 @@ seed_examples:
       The AWS User Group Vienna is a community of AWS enthusiasts and professionals in Austria.
       They come together monthly to learn, share knowledge, and network around AWS topics.
       The group is open and inclusive, welcoming anyone interested in cloud technologies,
-      whether they are a beginner or an expert.
+      whether they are a beginner or an expert. Members can also participate in mentoring programs,
+      workshops, and collaborative projects to enhance their AWS expertise.
     questions_and_answers:
       - question: "What is the AWS User Group Vienna?"
         answer: "The AWS User Group Vienna is a monthly meetup in Vienna for anyone interested in learning and sharing knowledge about AWS."
       - question: "Who can attend AWS User Group Vienna meetups?"
         answer: "All AWS enthusiasts—beginners, experts, or anyone curious about AWS—are welcome at the AWS User Group Vienna events."
       - question: "Why might someone join the AWS User Group Vienna?"
-        answer: "Because it fosters networking, learning, and collaboration with a diverse community of AWS professionals and enthusiasts."
+        answer: "Because it fosters networking, learning, collaboration, mentorship, and hands-on experiences with a diverse AWS community."
+      - question: "How can someone join the AWS User Group Vienna?"
+        answer: "Just by joining the meetup group: https://www.meetup.com/amazon-web-services-aws-vienna/."
 
   - context: |
       Meetup Schedule and Format at AWS User Group Vienna:
@@ -25,20 +28,58 @@ seed_examples:
       - question: "How often does the AWS User Group Vienna meet?"
         answer: "The AWS User Group Vienna usually meets monthly on the second Tuesday, Wednesday, or Thursday."
       - question: "Where do AWS User Group Vienna meetups take place?"
-        answer: "Venues for the AWS User Group Vienna vary, but commonly include EBCONT, R-IT, tecRacer, and the AWS office."
+        answer: "Venues for the AWS User Group Vienna vary, but commonly include EBCONT, R-IT, and the AWS office."
       - question: "What time do AWS User Group Vienna meetups usually start?"
         answer: "The AWS User Group Vienna meetups typically open doors at 5 PM, with introductions starting at 6 PM."
       - question: "What is the usual agenda for an AWS User Group Vienna meetup?"
         answer: "Networking from 5 to 6 PM, introductions at 6 PM, followed by two talks with Q&A, then more networking."
+      - question: "Are there any prerequisites to attending AWS User Group Vienna meetups?"
+        answer: "No, there are no prerequisites. Anyone with an interest in AWS can attend, regardless of experience level."
+      - question: "What kind of professionals attend the AWS User Group Vienna meetups?"
+        answer: "Attendees include AWS practitioners, developers, architects, DevOps engineers, data scientists, and IT professionals from various industries."
 
   - context: |
-      Participation and Contributions in AWS User Group Vienna:
-      Members can actively contribute by proposing talks, sponsoring venues or food,
-      or assisting in other organizing tasks. Speaking proposals are submitted via Sessionize.
-      This offers opportunities for community engagement and knowledge sharing.
+      Special Initiatives at AWS User Group Vienna:
+      In addition to meetups, AWS User Group Vienna runs various initiatives, including:
+      - AWS certification study groups to help members prepare for exams with structured guidance and peer discussions.
+      - Hands-on workshops covering topics like serverless, containerization, and security best practices.
+      - Mentorship programs pairing experienced AWS professionals with newcomers.
+      - Annual hackathons where teams solve real-world cloud challenges using AWS services.
+      - Collaboration with AWS employees to bring the latest AWS announcements to the community.
+      These initiatives ensure that members gain hands-on experience and stay updated with AWS advancements.
     questions_and_answers:
+      - question: "What special initiatives does AWS User Group Vienna offer?"
+        answer: "The group provides certification study groups, hands-on workshops, mentorship programs, GameDays, and AWS knowledge-sharing events."
+      - question: "How does AWS User Group Vienna support AWS certification preparation?"
+        answer: "Members can join study groups, engage in guided discussions, and access peer support to prepare for AWS exams in our #ug-vienna Channel of the AWS Community DACH: https://join.slack.com/t/awscommunityde/shared_invite/zt-1kejzwl1t-RjbKkOFHYjYYNPD2omEEeA."
+      - question: "What kind of workshops does AWS User Group Vienna offer?"
+        answer: "Workshops focus on practical AWS topics such as serverless computing, cloud security, DevOps automation, AI/ML services and more."
+      - question: "Does AWS User Group Vienna have a mentorship program?"
+        answer: "Yes, the group pairs experienced AWS professionals with newcomers to guide them in their AWS journey - reach out to them directly."
+      - question: "What is the AWS GameDay organized by AWS User Group Vienna?"
+        answer: "It is a community-driven event where teams build AWS-based solutions to solve real-world challenges provided and supported by AWS."
+
+
+  - context: |
+      Participation and Contributions and Speaker Opportunities at AWS User Group Vienna:
+      The AWS User Group Vienna welcomes community members, AWS partners, and industry professionals to present at meetups.
+      Talks must be technical and educational, avoiding sales pitches.
+      Speakers can present on AWS services, real-world implementations, best practices, or personal projects.
+      Talks are selected based on community interest, technical depth, and relevance to AWS topics.
+      The group encourages new speakers by providing mentorship and feedback.
+    questions_and_answers:
+      - question: "Who can speak at AWS User Group Vienna meetups?"
+        answer: "Community members, AWS employees, partners, and professionals with AWS experience can speak at meetups."
+      - question: "How can I submit a talk for AWS User Group Vienna?"
+        answer: "Submit your talk proposal via Sessionize: https://sessionize.com/aws-community-austria/"
+      - question: "Are there any restrictions on talk content?"
+        answer: "Talks must be technical and educational. Sales pitches and product promotions are not allowed."
+      - question: "Does AWS User Group Vienna support first-time speakers?"
+        answer: "Yes, the group provides feedback and mentorship for new speakers to help them prepare."
+      - question: "What types of talks are most appreciated at AWS User Group Vienna?"
+        answer: "Deep technical talks, real-world AWS use cases, hands-on demonstrations, and best practice sessions."
       - question: "How can I propose a talk for an AWS User Group Vienna meetup?"
-        answer: "You can submit your talk ideas for the AWS User Group Vienna via Sessionize."
+        answer: "You can submit your talk ideas for the AWS User Group Vienna via Sessionize: https://sessionize.com/aws-community-austria/."
       - question: "How can members contribute to the AWS User Group Vienna?"
         answer: "They can propose talks, volunteer to help organize, sponsor a venue or food, and provide feedback to grow the AWS User Group Vienna."
       - question: "What is the best way to get involved as a new member of AWS User Group Vienna?"
@@ -60,17 +101,88 @@ seed_examples:
         answer: "They are managed transparently. Sponsors offer venues or refreshments but do not influence the meetup content."
 
   - context: |
-      Logistics and Sponsor Benefits at AWS User Group Vienna:
+      Meetup Logistics and Engagement at AWS User Group Vienna:
       The group typically accommodates around 40 participants, expandable to 60.
       Meetups are promoted via social media and community channels 1-2 weeks in advance.
       Sponsors gain visibility and the chance to connect with AWS professionals in Austria.
+      The group maintains a Slack channel for ongoing discussions and event updates.
     questions_and_answers:
       - question: "How many participants can an AWS User Group Vienna meetup accommodate?"
-        answer: "An AWS User Group Vienna meetup generally accommodates around 40 people, which can expand to 60 if needed."
+        answer: "An AWS User Group Vienna meetup generally accommodates between 40-80 people (sometimes up to 100), depending on the venue."
       - question: "How are AWS User Group Vienna meetups promoted?"
-        answer: "The organizers of the AWS User Group Vienna create promotional graphics and use social media 1-2 weeks before each event."
+        answer: "The organizers create promotional graphics and use social media 1-2 weeks before each event to maximize visibility."
       - question: "What benefits do sponsors receive by supporting the AWS User Group Vienna?"
         answer: "Sponsors gain increased visibility, connect with AWS professionals, and demonstrate their support for the AWS community."
+      - question: "Does AWS User Group Vienna have an online community?"
+        answer: "Yes, members can join the meetup group (https://www.meetup.com/amazon-web-services-aws-vienna/) and group's Slack channel (https://join.slack.com/t/awscommunityde/shared_invite/zt-1kejzwl1t-RjbKkOFHYjYYNPD2omEEeA) for ongoing discussions and networking."
+      - question: "How can first-time attendees get the most out of AWS User Group Vienna?"
+        answer: "Engage with other attendees, ask questions, join discussions, and participate in networking sessions."
+      - question: "Are AWS User Group Vienna events free to attend?"
+        answer: "Yes, all meetups and events are free to attend thanks to community sponsors."
+
+  - context: |
+      AWS User Group Vienna Community Engagement:
+      AWS User Group Vienna fosters an active and inclusive community.
+      Members can engage by participating in discussions, attending meetups, contributing content, and mentoring others.
+      The group collaborates with other AWS User Groups across Europe to share knowledge and experiences.
+      There are also informal networking events where attendees can casually meet and discuss AWS-related topics.
+    questions_and_answers:
+      - question: "How can I engage with AWS User Group Vienna beyond meetups?"
+        answer: "Join the AWS Community DACH Slack (https://join.slack.com/t/awscommunityde/shared_invite/zt-1kejzwl1t-RjbKkOFHYjYYNPD2omEEeA), participate in discussions, contribute content, or become a mentor."
+      - question: "Does AWS User Group Vienna collaborate with other AWS User Groups?"
+        answer: "Yes, the group regularly partners with AWS User Groups across Europe for joint events and speaker exchanges."
+      - question: "Are there any informal networking events organized by AWS User Group Vienna?"
+        answer: "Yes, AWS Stammtisch is an informal event for networking and casual AWS discussions."
+      - question: "How can experienced members contribute to the AWS User Group Vienna community?"
+        answer: "They can mentor newcomers, share knowledge in discussions, propose talks, or help organize meetups."
+
+  - context: |
+      AWS User Group Vienna's Role in Career Development:
+      The AWS User Group Vienna provides opportunities for networking, learning, and skill development.
+      Many members have found job opportunities through the connections they made at meetups.
+      Companies looking for AWS talent often attend meetups to engage with potential candidates.
+      The group also helps individuals prepare for AWS certifications through study groups and peer support.
+    questions_and_answers:
+      - question: "Can attending AWS User Group Vienna help with career growth?"
+        answer: "Yes, attendees can network with AWS professionals, learn new skills, and connect with potential employers."
+      - question: "Are there job opportunities shared in AWS User Group Vienna?"
+        answer: "Yes, job opportunities are frequently shared, and companies attend meetups to engage with potential hires."
+      - question: "Does AWS User Group Vienna provide resources for AWS certifications?"
+        answer: "Yes, the group runs AWS certification study groups and provides peer support for exam preparation."
+      - question: "How can I network effectively at AWS User Group Vienna events?"
+        answer: "Introduce yourself, participate in discussions, and connect with attendees and speakers during networking sessions."
+
+  - context: |
+      Diversity and Inclusion at AWS User Group Vienna:
+      AWS User Group Vienna is committed to creating a diverse and inclusive community.
+      The group actively supports AWS Women’s User Group Vienna to encourage more women in tech.
+      Events are designed to be welcoming, ensuring that newcomers feel comfortable and engaged.
+      The organizers promote diversity in speaker selection and work to create an open environment for all attendees.
+    questions_and_answers:
+      - question: "How does AWS User Group Vienna support diversity and inclusion?"
+        answer: "The group encourages diversity in speaker selection, supports AWS Women’s User Group Vienna, and creates an inclusive environment."
+      - question: "Is AWS User Group Vienna a welcoming space for newcomers?"
+        answer: "Yes, the group ensures that first-time attendees feel comfortable and engaged by providing introductions and networking opportunities."
+      - question: "How can women in tech get more involved in AWS User Group Vienna?"
+        answer: "Women in tech can join AWS Women’s User Group Vienna, propose talks, participate in mentorship programs, and connect with the community."
+      - question: "Does AWS User Group Vienna have initiatives to encourage underrepresented groups in tech?"
+        answer: "Yes, the group promotes inclusivity by ensuring diverse speaker representation and supporting mentorship programs."
+
+  - context: |
+      Technical Resources and Learning at AWS User Group Vienna:
+      AWS User Group Vienna provides various learning resources, including workshop materials, presentation slides, and online discussions.
+      Members can access recordings of select sessions and review AWS documentation shared during meetups.
+      The group also organizes AWS deep-dive sessions for those interested in advanced topics.
+    questions_and_answers:
+      - question: "Where can I find presentation slides and materials from AWS User Group Vienna meetups?"
+        answer: "Presentation slides and workshop materials are shared on Slack and sometimes made available online."
+      - question: "Are AWS User Group Vienna sessions recorded?"
+        answer: "Some sessions are recorded and shared with members who could not attend in person."
+      - question: "What learning opportunities does AWS User Group Vienna provide?"
+        answer: "The group offers deep-dive technical sessions, workshops, study groups, and AWS documentation reviews."
+      - question: "Does AWS User Group Vienna offer support for AWS hands-on labs?"
+        answer: "Yes, members can participate in hands-on labs during meetups or access AWS credits for experimentation."
+
 document_outline: |
   This document begins by offering an introduction to the AWS User Group Vienna,
   describing who it is for and what makes it an inclusive community for anyone

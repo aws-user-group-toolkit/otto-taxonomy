@@ -3,13 +3,13 @@
 ## Overview
 This dataset is designed to fine-tune an LLM to act as an organizer and assistant for the AWS User Group Vienna. The LLM will assist in planning, scheduling, promotion, sponsorship coordination, speaker management, and handling frequently asked questions.
 
-## 1️⃣ General Information
+## 1️ General Information
 
 ### About AWS User Group Vienna
 - **Community Name**: AWS User Group Vienna
 - **Region**: Vienna, Austria
 - **Community Website**: [Meetup Page](https://www.meetup.com/amazon-web-services-aws-vienna/)
-- **Main Communication Channel**: AWS Community DACH Slack
+- **Main Communication Channel**: [AWS Community DACH Slack](https://join.slack.com/t/awscommunityde/shared_invite/zt-1kejzwl1t-RjbKkOFHYjYYNPD2omEEeA)
 - **User Group Leaders**:
   - Linda Mohamed ([linda.mohamed@icloud.com](mailto:linda.mohamed@icloud.com))
   - Philipp Bergsmann ([philipp.bergsmann@redhat.com](mailto:philipp.bergsmann@redhat.com))
@@ -19,7 +19,7 @@ This dataset is designed to fine-tune an LLM to act as an organizer and assistan
 
 ### Additional User Groups Managed
 In addition to AWS User Group Vienna, we also organize and support other AWS-focused user groups:
-- **[AWS Women's User Group Vienna](https://www.meetup.com/aws-womens-user-group-vienna/)**: A community focusing on supporting women in cloud computing and AWS technologies.
+- **[AWS Women's User Group Vienna](https://www.meetup.com/aws-womens-user-group-vienna/)**: A new community focusing on supporting women in cloud computing and AWS technologies in Vienna, founded in 2025.
 - **[AWS User Group Linz](https://www.meetup.com/aws-user-group-linz/)**: A growing AWS user group supporting the tech community in Linz, Austria.
 
 ### Other Major Events We Organize & Support
@@ -46,24 +46,69 @@ In addition to AWS User Group Vienna, we also organize and support other AWS-foc
   - **19:40 - 19:45**: Thank You & Closing (Wrap-up and sponsor appreciation)
   - **19:45 - Open End**: Networking (Free discussion, drinks, and socializing)
 
-### 2.2 Meetup Types and Special Events
-AWS User Group Vienna organizes a variety of meetups to accommodate different audience interests and learning preferences. Here is an overview of all different formats within the different User Groups we manage:
+# AWS User Group Vienna - Meetup Types and Special Events
 
-#### **Technical Deep Dive Sessions**
-- Focused, in-depth explorations of AWS topics such as Kubernetes on AWS, AI/ML, Data Lakes, and security best practices.
-- Feature advanced talks by AWS Heroes, community experts, and AWS Solution Architects.
+## 2.2 Meetup Types and Special Events
 
-#### **Beginner-Friendly Sessions**
-- Designed for newcomers to AWS, covering foundational topics like IAM, EC2, and S3.
-- Interactive Q&A sessions to help attendees get started.
+AWS User Group Vienna organizes a variety of meetups to accommodate different audience interests and learning preferences. Here is an overview of the different formats within the User Groups we manage:
 
-#### **Lightning Talks and Panel Discussions**
-- Short, engaging presentations (5-10 minutes) where multiple speakers share quick insights.
-- Panel discussions featuring AWS experts and users sharing real-world cloud adoption experiences.
+### Technical Deep Dive Sessions
 
-#### **Hackathons & Hands-on Labs**
-- Hands-on AWS training where attendees can deploy real applications on AWS.
-- Live coding sessions and guided labs with AWS credits provided for experimentation.
+- **Description**: Focused, in-depth explorations of AWS topics such as Kubernetes on AWS, AI/ML, Data Lakes, and security best practices.
+- **Features**:
+  - Advanced talks by AWS Heroes, community experts, and AWS Solution Architects.
+  - Detailed case studies and real-world applications.
+- **Example Meetup**: *AWS Meetup #41 - hosted by APA-Tech* (November 6, 2024)
+  - **Talks**:
+    - "Advanced Kubernetes Deployments on AWS" by an AWS Solutions Architect.
+    - "Implementing Data Lakes with AWS Lake Formation" by a community expert.
+
+### Beginner-Friendly Sessions
+
+- **Description**: Designed for newcomers to AWS, covering foundational topics like IAM, EC2, and S3.
+- **Features**:
+  - Simplified explanations and step-by-step guides.
+  - Interactive Q&A sessions to help attendees get started.
+- **Example Meetup**: *AWS Meetup #42 - hosted by R-IT* (January 29, 2025)
+  - **Talks**:
+    - "Introduction to AWS Identity and Access Management (IAM)" by a community member.
+    - "Getting Started with Amazon S3 for Beginners" by an AWS Solutions Architect.
+
+### GameDays & Immersion Days
+
+- **Description**: Interactive, hands-on events where participants engage in real-world scenarios using AWS services.
+- **Features**:
+  - **GameDays**: Team-based challenges simulating real-world issues, fostering collaboration and problem-solving skills.
+  - **Immersion Days**: In-depth workshops focusing on specific AWS services or solutions, guided by experts.
+- **Example Meetup**: *AWS Meetup & GameDay #40 - hosted by Raiffeisen Informatik* (October 8, 2024)
+  - **Activities**:
+    - "AWS GameDay: Disaster Recovery Simulation" where teams worked to restore services during a simulated outage.
+    - "Immersion Workshop: Building Scalable Applications with AWS Lambda" led by an AWS Solutions Architect.
+
+### AWS Stammtisch
+
+- **Description**: Informal networking events held in a casual setting, typically a Biergarten, allowing AWS enthusiasts to connect without formal presentations.
+- **Features**:
+  - Casual discussions about AWS technologies and experiences.
+  - Opportunities to build relationships within the community.
+- **Example Meetup**: *AWS Stammtisch - Summer Edition* (July 2024)
+  - **Activities**:
+    - Gathering at a local Biergarten for drinks and AWS-related conversations.
+    - Sharing personal projects and seeking advice from peers.
+
+### AWS Community Days
+
+- **Description**: Flagship annual events bringing together AWS users from various regions for expert talks, networking, and deep technical sessions.
+- **Features**:
+  - Sessions led by industry leaders and AWS Heroes.
+  - Opportunities for networking with a broader AWS community.
+- **Example Event**: *AWS Community Day DACH* (October 2024)
+  - **Highlights**:
+    - Keynote on "The Future of Cloud Computing" by an AWS executive.
+    - Breakout sessions on topics like Serverless Architectures, AI/ML advancements, and Security Best Practices.
+
+By offering these diverse meetup formats, AWS User Group Vienna aims to cater to the varied interests and skill levels within the AWS community, fostering continuous learning and collaboration.
+
 
 ### 2.3 Meetup Planning Process
 The planning process is structured to ensure each event is well-organized:
