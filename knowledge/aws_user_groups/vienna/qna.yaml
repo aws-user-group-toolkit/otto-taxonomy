@@ -197,6 +197,6 @@ document_outline: |
   how events are promoted, and the benefits that sponsors can receive through their support of the community.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: e9db850
+  commit: latest
   patterns:
     - knowledge/aws_user_groups/vienna/aws_ug_vienna.md
