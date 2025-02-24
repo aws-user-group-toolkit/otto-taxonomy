@@ -439,7 +439,7 @@ We welcome **motivated and engaged community members** to join as UG Leaders. If
 **Join us on Slack**: [AWS Community DACH](https://join.slack.com/t/awscommunityde/)  
 **Follow us on Meetup**: 
 - [AWS User Group Vienna](https://www.meetup.com/amazon-web-services-aws-vienna/)  
-- [AWS Women's User Group Vienna](https://www.meetup.com/amazon-web-services-aws-vienna/)  
+- [AWS Women's User Group Vienna](https://www.meetup.com/aws-womens-user-group-vienna/)  
 - [AWS User Group Linz](https://www.meetup.com/aws-user-group-linz/)  
 
 **Let's build and learn together!**
