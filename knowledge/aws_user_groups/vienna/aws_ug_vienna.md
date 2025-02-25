@@ -609,10 +609,10 @@ AWS UG Vienna prioritizes **high-quality, community-driven content** in the foll
 AWS UG Vienna **does not allow sponsored talks or sales pitches**. Instead, we focus on **knowledge-sharing from industry practitioners**.
 
 **Who Can Speak?**
-✔️ **AWS Community Members**  
-✔️ **AWS Employees (Solution Architects, Evangelists, etc.)**  
-✔️ **AWS Customers & Partners (Real-world use cases, not marketing!)**  
-✔️ **Independent AWS Enthusiasts & Hobbyists**  
+- **AWS Community Members**  
+- **AWS Employees (Solution Architects, Evangelists, etc.)**  
+- **AWS Customers & Partners (Real-world use cases, not marketing!)**  
+- **Independent AWS Enthusiasts & Hobbyists**  
 
 **Who Decides the Talks?**  
 AWS UG Vienna's **organizer team** selects speakers based on:
