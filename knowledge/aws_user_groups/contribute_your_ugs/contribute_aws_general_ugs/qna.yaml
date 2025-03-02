@@ -50,6 +50,4 @@ document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
   commit: latest
   patterns:
-    - knowledge/aws_user_groups/general_aws_user_groups/overview.md
-    - knowledge/aws_user_groups/general_aws_user_groups/contributing.md
-    - knowledge/aws_user_groups/general_aws_user_groups/project_otto.md
+    - knowledge/aws_user_groups/contribute_your_ugs/contribute_aws_general_ugs/contribute_aws_general_ugs.md

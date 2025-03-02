@@ -64,8 +64,4 @@ document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
   commit: latest
   patterns:
-    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
-    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
-    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
-    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
-    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md
+    - knowledge/aws_community_events/aws_reinvent_community_led_events/aws_community_reinvent_women_get_togethers/aws_community_reinvent_women_get_togethers.md

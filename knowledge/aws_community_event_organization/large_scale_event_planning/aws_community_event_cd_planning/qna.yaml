@@ -39,4 +39,4 @@ document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
   commit: latest
   patterns:
-    - knowledge/aws_community_ecosystem/large_scale_event_planning/aws_community_event_cd_planning.md
+    - knowledge/aws_community_event_organization/large_scale_event_planning/aws_community_event_cd_planning/aws_community_event_cd_planning.md
