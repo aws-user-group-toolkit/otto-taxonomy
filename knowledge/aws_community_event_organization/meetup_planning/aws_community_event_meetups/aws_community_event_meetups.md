@@ -1,0 +1,44 @@
+# Planning AWS User Group Meetups
+
+Planning and executing events is a core function of AWS community engagement – whether it’s a small local meetup or a larger community-led conference. This section provides a detailed guide to event planning in the AWS community context, including regular user group meetups and special events like AWS Community Days. The focus is on best practices for organizing effective, inclusive, and engaging events.
+
+## Determine Event Cadence and Format
+Start by deciding how often to hold meetups (e.g., monthly, bi-monthly) and whether they will be in-person, virtual, or hybrid. Many groups found that a **4-8 week cadence** works well ([How to start your own AWS User Group aka Meetup? – lockhead.info](https://lockhead.info/index.php/2022/11/02/how-to-start-your-own-aws-user-group-aka-meetup/#:~:text=Most%20of%20the%20User%20Groups,person%E2%80%9D%20events)) – frequent enough to maintain interest but not so frequent that organizers or attendees burn out. Use a poll or questionnaire to identify the **best day and time** for most members ([How to start your own AWS User Group aka Meetup? – lockhead.info](https://lockhead.info/index.php/2022/11/02/how-to-start-your-own-aws-user-group-aka-meetup/#:~:text=Before%20inviting%20your%20User%20Group,topics%20for%20the%20first%20sessions)). For example, you might discover your community prefers weekday evenings over weekends. Especially when restarting in-person events after a virtual period, asking for preferences can help target a convenient schedule. Also consider format: will each meetup have one long talk or multiple short talks? Will it include a hands-on portion or be purely presentations? A common format is *one or two talks of ~30 minutes each, followed by Q&A and then informal networking*. Some meetups also include lightning talks (5-10 min quick shares) to allow more members to speak. Early on, keep the format simple and consistent until you gauge what works best for your audience.
+
+## Securing a Venue (for In-Person Events)
+Finding a suitable location is often the first big task for an organizer. Ideal venues are accessible, comfortable, and free of charge. Good options include: your own company’s conference room, local co-working spaces, tech company offices, university halls, or community centers. It’s common to reach out through your network or LinkedIn to find a host. **Many companies are willing to host AWS meetups and even sponsor food as it gives them community visibility**. As Christian (an AWS UG organizer) suggests, ask your employer or local coworking spots if they can host ([How to start your own AWS User Group aka Meetup? – lockhead.info](https://lockhead.info/index.php/2022/11/02/how-to-start-your-own-aws-user-group-aka-meetup/#:~:text=For%20your%20first%20event%2C%20the,a%20bunch%20of%20additional%20ideas)). In return, they get a shout-out at the event and possibly to give a brief intro (remind them not to turn it into a sales pitch, though!). For backup, AWS offices in some cities occasionally host user group meetings – you can inquire with AWS community managers if that’s feasible. Ensure the venue has needed facilities: sufficient seating, a projector/TV for presentations, good internet, and accessibility (e.g., wheelchair access). If you plan to serve refreshments, check if outside food is allowed or if the venue has any restrictions (some corporate offices might require attendee sign-in etc., which you should communicate in event details).
+
+## Virtual Event Setup
+If events are virtual, pick a platform (Amazon Chime, Zoom, etc.) that can handle your expected audience size. Enable features like screen sharing (for speakers) and Q&A or chat for interactivity. Do a dry run to test audio/video quality. It’s wise to have a co-host who can moderate questions from the chat while the speaker is presenting. Encourage attendees to keep cameras on (if they’re comfortable) for a more interactive feel, and consider using breakout rooms or ice-breaker questions to spark networking virtually.
+
+## Don’t Overcomplicate the First Few Events
+A common piece of advice is *“just start, and iterate”*. It’s easy to get stuck trying to plan the perfect kickoff event with multiple speakers, swags, etc., but it’s more important to get the community gathering regularly. **“Don’t over-prepare – you can just get started as easy as possible”**, one AWS UG founder advises ([How to start your own AWS User Group aka Meetup? – lockhead.info](https://lockhead.info/index.php/2022/11/02/how-to-start-your-own-aws-user-group-aka-meetup/#:~:text=Don%E2%80%99t%20over,fun%20for%20all%20of%20us)). For your first meetup, secure one interesting topic/speaker and a venue, and go for it. Even if only a handful of people show up, use it as a foundation. Introduce everyone, perhaps do a fun ice-breaker (one group played a quick agile game at their first meetup to get people comfortable ([How to start your own AWS User Group aka Meetup? – lockhead.info](https://lockhead.info/index.php/2022/11/02/how-to-start-your-own-aws-user-group-aka-meetup/#:~:text=Don%E2%80%99t%20over,fun%20for%20all%20of%20us))). Name tags or introductions help people learn who’s who ([How to start your own AWS User Group aka Meetup? – lockhead.info](https://lockhead.info/index.php/2022/11/02/how-to-start-your-own-aws-user-group-aka-meetup/#:~:text=%E2%80%93%20think%20about%20a%20%E2%80%9Ccool%E2%80%9D,fun%20for%20all%20of%20us)). The goal of the first event is to signal “this group is now active” and to learn about attendees (their interests, expectations). Gather feedback and make the next event better. Also, initially **have modest goals**: you don’t need big sponsors or 100 attendees out of the gate. Focus on quality conversations and consistency.
+
+## Example: AWS User Group Vienna
+The AWS User Group Vienna is a vibrant community of AWS enthusiasts and professionals in Vienna. They hold regular meetups to share knowledge, network, and discuss the latest in AWS technology. Here’s how they structure their meetups:
+
+1. **Event Cadence and Format**: The Vienna group typically holds meetups every 4-6 weeks. Each event usually features one or two main talks of around 30 minutes each, followed by a Q&A session and informal networking. They also include lightning talks to allow more members to share their insights.
+
+2. **Venue**: Meetups are often hosted at local tech company offices or co-working spaces that provide the necessary facilities like seating, projectors, and internet access. They also collaborate with other tech communities to host joint events.
+
+3. **Virtual Setup**: For virtual events, they use platforms like Zoom and ensure features like screen sharing and chat are enabled for interactivity. A co-host helps moderate the session to manage questions and engagement.
+
+4. **First Events**: Initially, the Vienna group focused on simple, consistent formats and modest goals. They started with a few interesting topics and speakers to build a foundation and gradually expanded as the community grew.
+
+For more information, visit their [Meetup page](https://www.meetup.com/amazon-web-services-aws-vienna/).
+
+By following these guidelines and learning from established groups like AWS User Group Vienna, you can effectively organize and grow your own AWS community meetups.
+
+## Consider the Focus of Your User Group
+When starting an AWS user group, it's important to decide whether to create a general AWS user group or a specialized group focused on specific technologies or target audiences. 
+
+### General AWS User Group
+A general AWS user group covers a broad range of AWS topics and attracts a diverse audience. This type of group is ideal for fostering a wide-ranging community where members can learn about various AWS services and best practices.
+
+### Specialized AWS User Group
+Specialized groups focus on specific technologies or target audiences, which can create a more tailored and engaged community. Examples include:
+
+- **AWS Container User Group**: Focuses on container technologies like Docker, Kubernetes, and AWS services such as Amazon ECS and EKS. This group attracts members who are specifically interested in containerization and orchestration.
+- **AWS Women User Group**: Aims to support and empower women in the AWS community. This group provides a platform for women to share their experiences, network, and learn from each other in a supportive environment.
+
+By choosing the right focus for your user group, you can better meet the needs and interests of your community members and create a more engaging and relevant experience.

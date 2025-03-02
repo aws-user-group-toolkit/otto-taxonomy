@@ -1,0 +1,85 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      The AWS User Group Member is an integral part of our community. While they may not have a specific badge like the leaders, speakers, hosts, or first-timers, their participation and engagement are crucial to the success of our meetups. This document provides an overview of the typical AWS User Group Member and their role within the community.
+    questions_and_answers:
+      - question: "What is the role of an AWS User Group Member?"
+        answer: "The role of an AWS User Group Member is to actively participate in discussions, ask questions, and share their experiences with AWS services, contributing to the success of meetups."
+      - question: "Why is the participation of AWS User Group Members important?"
+        answer: "Their participation is crucial as it helps create a dynamic and interactive environment that benefits all attendees."
+      - question: "Do AWS User Group Members have specific badges?"
+        answer: "No, AWS User Group Members do not have specific badges like leaders, speakers, hosts, or first-timers."
+      - question: "What does this document provide?"
+        answer: "This document provides an overview of the typical AWS User Group Member and their role within the community."
+      - question: "How do AWS User Group Members contribute to meetups?"
+        answer: "They contribute by actively participating in discussions, asking questions, and sharing their experiences with AWS services."
+
+  - context: |
+      AWS User Group Members are encouraged to actively participate in discussions, ask questions, and share their experiences with AWS services. Their engagement helps create a dynamic and interactive environment that benefits all attendees.
+    questions_and_answers:
+      - question: "How are AWS User Group Members encouraged to participate?"
+        answer: "They are encouraged to actively participate in discussions, ask questions, and share their experiences with AWS services."
+      - question: "What is the benefit of their engagement?"
+        answer: "Their engagement helps create a dynamic and interactive environment that benefits all attendees."
+      - question: "What should AWS User Group Members share?"
+        answer: "They should share their experiences with AWS services."
+      - question: "What kind of environment does their engagement create?"
+        answer: "It creates a dynamic and interactive environment."
+      - question: "Who benefits from the engagement of AWS User Group Members?"
+        answer: "All attendees benefit from their engagement."
+
+  - context: |
+      Members have the opportunity to network with other AWS enthusiasts, share knowledge, and build professional connections. This networking can lead to collaborations, job opportunities, and a stronger sense of community.
+    questions_and_answers:
+      - question: "What opportunities do AWS User Group Members have?"
+        answer: "They have the opportunity to network with other AWS enthusiasts, share knowledge, and build professional connections."
+      - question: "What can networking lead to?"
+        answer: "Networking can lead to collaborations, job opportunities, and a stronger sense of community."
+      - question: "Who can AWS User Group Members network with?"
+        answer: "They can network with other AWS enthusiasts."
+      - question: "What can members share during networking?"
+        answer: "They can share knowledge."
+      - question: "What is one benefit of building professional connections?"
+        answer: "One benefit is a stronger sense of community."
+
+  - context: |
+      Members are encouraged to provide feedback on meetups, suggest topics for future events, and share ideas for improving the user group experience. Their input is valuable in shaping the direction of the group and ensuring it meets the needs of its members.
+    questions_and_answers:
+      - question: "What are AWS User Group Members encouraged to provide?"
+        answer: "They are encouraged to provide feedback on meetups, suggest topics for future events, and share ideas for improving the user group experience."
+      - question: "Why is their input valuable?"
+        answer: "Their input is valuable in shaping the direction of the group and ensuring it meets the needs of its members."
+      - question: "What can members suggest for future events?"
+        answer: "They can suggest topics for future events."
+      - question: "What should members share to improve the user group experience?"
+        answer: "They should share ideas."
+      - question: "How does their feedback help the group?"
+        answer: "It helps in shaping the direction of the group and ensuring it meets the needs of its members."
+
+  - context: |
+      By attending meetups, members can stay up-to-date with the latest AWS developments, learn best practices, and gain insights from expert speakers. This continuous learning helps members enhance their skills and stay competitive in the field.
+    questions_and_answers:
+      - question: "How can AWS User Group Members stay up-to-date with the latest AWS developments?"
+        answer: "By attending meetups."
+      - question: "What can members learn at meetups?"
+        answer: "They can learn best practices and gain insights from expert speakers."
+      - question: "How does continuous learning help members?"
+        answer: "It helps members enhance their skills and stay competitive in the field."
+      - question: "Who provides insights at meetups?"
+        answer: "Expert speakers provide insights."
+      - question: "What is one benefit of attending meetups?"
+        answer: "One benefit is staying up-to-date with the latest AWS developments."
+
+document_outline: |
+  This document introduces the role and responsibilities of AWS User Group Members, highlighting their importance in discussions, networking, providing feedback, and continuous learning. It explains how their active participation and engagement contribute to the success of meetups and the overall community.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

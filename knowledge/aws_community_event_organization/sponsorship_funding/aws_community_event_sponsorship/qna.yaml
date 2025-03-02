@@ -1,0 +1,77 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      AWS Community Event Sponsorship is crucial for the success of community-driven events. There are different types of sponsors, including corporate sponsors, local businesses, and individual contributors. Corporate sponsors often provide significant funding and resources, while local businesses may offer venue space or catering services. Individual contributors might support through smaller donations or volunteer work. When organizing an event, it's essential to determine whether an association with a formal organization is necessary. Associations can provide credibility and access to a broader network, but they may also come with additional requirements and bureaucracy. In some cases, organizing events without formal associations can be more straightforward and flexible, allowing for quicker decision-making and less red tape.
+    questions_and_answers:
+      - question: "What are the different types of sponsors for AWS Community events?"
+        answer: "The different types of sponsors include corporate sponsors, local businesses, and individual contributors."
+      - question: "What do corporate sponsors typically provide?"
+        answer: "Corporate sponsors often provide significant funding and resources."
+      - question: "How can local businesses contribute to AWS Community events?"
+        answer: "Local businesses may offer venue space or catering services."
+      - question: "What kind of support do individual contributors offer?"
+        answer: "Individual contributors might support through smaller donations or volunteer work."
+      - question: "When is it necessary to have an association with a formal organization for an event?"
+        answer: "An association with a formal organization is necessary when credibility and access to a broader network are required."
+      - question: "What are the benefits of organizing events without formal associations?"
+        answer: "Organizing events without formal associations can be more straightforward and flexible, allowing for quicker decision-making and less red tape."
+      - question: "What are the potential drawbacks of working with formal associations?"
+        answer: "Formal associations may come with additional requirements and bureaucracy."
+
+  - context: |
+      AWS Community Days are community-organized events that provide a platform for AWS enthusiasts to come together, share knowledge, and network. Sponsorship opportunities for these events include various packages such as Platinum, Gold, Silver, and Bronze, each offering different benefits. For example, at AWS Community Day DACH in Munich, Platinum sponsors receive the most prominent recognition and benefits, including customized packages, logo representation, and booth space. Gold sponsors also receive significant benefits, including booth space and logo display. Silver sponsors get a bigger booth and reception sponsoring, while Bronze sponsors receive logo display and recognition during session breaks. Support associations like the Förderverein AWS Community DACH play a crucial role in organizing these events by coordinating with sponsors, managing sponsorship packages, and ensuring sponsors receive appropriate recognition.
+    questions_and_answers:
+      - question: "What are AWS Community Days?"
+        answer: "AWS Community Days are community-organized events that provide a platform for AWS enthusiasts to come together, share knowledge, and network. The scale and structure of these events can vary significantly depending on the region and the community."
+      - question: "What benefits do Platinum sponsors receive at AWS Community Days?"
+        answer: "At AWS Community Day DACH in Munich, Platinum sponsors, who contribute around €50,000, receive customized packages, prominent logo representation, booth space, and the opportunity to provide items for the swag counter. However, the specifics can vary based on the size and location of the event."
+      - question: "What is included in the Gold Sponsor Package?"
+        answer: "The Gold Sponsor Package at AWS Community Day DACH, priced at approximately €20,000, includes booth space, logo display on the event website and marketing materials, and the opportunity to provide one item for the swag counter. These benefits can differ depending on the event's scale and region."
+      - question: "What role do support associations play in organizing AWS Community Days?"
+        answer: "Support associations like the Förderverein AWS Community DACH coordinate with sponsors, manage sponsorship packages, and ensure sponsors receive appropriate recognition and benefits. Their involvement is crucial for larger events, but the necessity and structure can vary by region and community."
+      - question: "What are the benefits of the Silver Sponsor Package?"
+        answer: "The Silver Sponsor Package at AWS Community Day DACH, costing around €6,000, includes a bigger booth at the event and reception sponsoring. The specifics of the package can vary based on the event's size and location."
+      - question: "What recognition do Bronze sponsors receive?"
+        answer: "Bronze sponsors at AWS Community Day DACH, who contribute about €2,000, receive logo display on the event website and marketing materials, and recognition during session breaks. The exact benefits can differ depending on the event's scale and region."
+
+  - context: |
+      Local meetups are smaller, more frequent gatherings of AWS users. Sponsorship for these events can take various forms, including location sponsors who provide venues, and catering sponsors who cover the costs of food and beverages. For example, the AWS Meetup Vienna operates without a legal entity, meaning they do not handle any money directly. Instead, sponsors pay for specific needs directly, such as venue rental or catering, ensuring transparency and simplicity.
+    questions_and_answers:
+      - question: "What are local meetups in the AWS Community?"
+        answer: "Local meetups are smaller, more frequent gatherings of AWS users. The scale and structure of these meetups can vary significantly depending on the region and the community."
+      - question: "How can local companies sponsor AWS meetups?"
+        answer: "Local companies can sponsor AWS meetups by providing venues or covering the costs of food and beverages. The specifics of sponsorship can vary based on the size and location of the meetup."
+      - question: "How does the AWS Meetup Vienna handle sponsorships?"
+        answer: "The AWS Meetup Vienna operates without a legal entity, and sponsors pay for specific needs directly, such as venue rental or catering. This model ensures transparency and simplicity, but the approach can vary by region and community."
+      - question: "What are the benefits of the sponsorship model used by AWS Meetup Vienna?"
+        answer: "The sponsorship model used by AWS Meetup Vienna ensures transparency and simplicity by avoiding financial transactions within the meetup organization. This approach can be beneficial for smaller meetups, but the specifics can vary based on the region and community."
+      - question: "What forms of sponsorship are common for local AWS meetups?"
+        answer: "Common forms of sponsorship for local AWS meetups include location sponsors and catering sponsors. The specifics of sponsorship can vary based on the size and location of the meetup."
+
+  - context: |
+      When organizing a user group or community day with a support association, there are several important considerations. Organizers need to assess the size and demographics of their target audience, the goals and objectives of the event, and the resources available. It's crucial to determine the level of involvement and support required from the support association, including financial backing, logistical assistance, and promotional efforts. Additionally, organizers should consider the potential challenges and risks, such as securing a venue, managing registrations, and ensuring a diverse and inclusive environment. Effective communication and collaboration with the support association are key to the success of the event.
+    questions_and_answers:
+      - question: "What should organizers consider when assessing the size and demographics of their target audience?"
+        answer: "Organizers should consider the interests, expertise levels, and geographic locations of their target audience to tailor the event content and logistics accordingly."
+      - question: "What are the key goals and objectives to define for a community event?"
+        answer: "Key goals and objectives may include knowledge sharing, networking opportunities, community building, and promoting AWS technologies and best practices."
+      - question: "How can organizers determine the level of support required from a support association?"
+        answer: "Organizers should evaluate the financial, logistical, and promotional needs of the event and communicate these requirements clearly to the support association."
+      - question: "What are some potential challenges and risks in organizing a community event?"
+        answer: "Potential challenges and risks include securing a suitable venue, managing registrations, ensuring attendee engagement, and creating a diverse and inclusive environment."
+      - question: "Why is effective communication with the support association important?"
+        answer: "Effective communication ensures that both the organizers and the support association are aligned on expectations, responsibilities, and timelines, which is crucial for the smooth execution of the event."
+
+document_outline: |
+  - AWS Community Event Sponsorship includes various types of sponsors such as corporate sponsors, local businesses, and individual contributors. Corporate sponsors provide significant funding and resources, local businesses offer venue space and catering services, and individual contributors support through smaller donations and volunteer work. Associations with formal organizations can provide credibility and access to a broader network but may come with additional requirements and bureaucracy, while organizing without formal associations can be more straightforward and flexible. AWS Community Days are community-organized events for AWS enthusiasts to share knowledge and network, with sponsorship packages like Platinum, Gold, Silver, and Bronze offering different benefits. Platinum sponsors receive prominent recognition, customized packages, logo representation, and booth space, Gold sponsors get booth space and logo display, Silver sponsors have a bigger booth and reception sponsoring, and Bronze sponsors receive logo display and recognition during session breaks. Support associations coordinate with sponsors, manage sponsorship packages, and ensure recognition. Local meetups are smaller, frequent gatherings of AWS users, with sponsorships from location and catering sponsors. The AWS Meetup Vienna operates without a legal entity, with sponsors paying directly for needs, ensuring transparency and simplicity.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

@@ -1,0 +1,57 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      AWS Community Day DACH is an annual event that brings together cloud computing enthusiasts, professionals, and AWS experts from the DACH region (Germany, Austria, and Switzerland). The event is organized by "Förderverein AWS Community DACH e.V.", an association dedicated to supporting the network of AWS User Group Leaders, AWS Heroes, and AWS Community Builders across the region.
+    questions_and_answers:
+      - question: "What is AWS Community Day DACH?"
+        answer: "AWS Community Day DACH is an annual event that brings together cloud computing enthusiasts, professionals, and AWS experts from the DACH region (Germany, Austria, and Switzerland)."
+      - question: "Who organizes AWS Community Day DACH?"
+        answer: "The event is organized by 'Förderverein AWS Community DACH e.V.', an association dedicated to supporting the network of AWS User Group Leaders, AWS Heroes, and AWS Community Builders across the region."
+      - question: "Which countries are included in the DACH region?"
+        answer: "The DACH region includes Germany, Austria, and Switzerland."
+      - question: "Who are the target attendees of AWS Community Day DACH?"
+        answer: "The target attendees are cloud computing enthusiasts, professionals, and AWS experts."
+      - question: "What is the purpose of AWS Community Day DACH?"
+        answer: "The purpose is to bring together the AWS community in the DACH region to share knowledge, network, and learn from each other."
+
+  - context: |
+      AWS Community Day DACH is where vision meets action. Dive into workshops and hands-on labs that translate cutting-edge AWS trends into your next big project. From serverless architectures to AI-driven analytics, get the practical know-how to revolutionize your workflow.
+    questions_and_answers:
+      - question: "What can attendees expect from AWS Community Day DACH?"
+        answer: "Attendees can expect workshops and hands-on labs that translate cutting-edge AWS trends into their next big project."
+      - question: "What topics are covered in the workshops at AWS Community Day DACH?"
+        answer: "Topics include serverless architectures and AI-driven analytics."
+      - question: "How does AWS Community Day DACH help attendees?"
+        answer: "It provides practical know-how to revolutionize their workflow."
+      - question: "What is the focus of the hands-on labs at AWS Community Day DACH?"
+        answer: "The focus is on translating cutting-edge AWS trends into practical applications."
+      - question: "What is the goal of the workshops at AWS Community Day DACH?"
+        answer: "The goal is to provide attendees with practical knowledge to implement AWS services in real-world scenarios."
+
+  - context: |
+      In 2024, AWS Community Day DACH was an amazing success with over 650 attendees, 236 submissions, 28 talks, 32 community speakers, and 40 speakers in total across 4 tracks, including 2 keynotes by industry leaders such as Massimo Re Ferre' and Viktoria Semaan, and 3 workshops, including a Women of Cloud Workshop. Highlights included insightful discussions on cloud adoption, hands-on sessions, and incredible networking opportunities. This incredible event was supported by 16 UG leads and 20 on-site volunteers, who made it all possible!
+    questions_and_answers:
+      - question: "How many attendees were there at AWS Community Day DACH 2024?"
+        answer: "There were over 650 attendees."
+      - question: "How many submissions were received for AWS Community Day DACH 2024?"
+        answer: "There were 236 submissions."
+      - question: "How many talks were given at AWS Community Day DACH 2024?"
+        answer: "There were 28 talks."
+      - question: "Who were the keynote speakers at AWS Community Day DACH 2024?"
+        answer: "The keynote speakers were Massimo Re Ferre' and Viktoria Semaan."
+      - question: "How many workshops were held at AWS Community Day DACH 2024?"
+        answer: "There were 3 workshops, including a Women of Cloud Workshop."
+
+document_outline: |
+  This document introduces the purpose of the AWS Community Day DACH, highlighting its core objectives: knowledge sharing and networking. It explains how the community fosters collaboration through events, documentation, forums, and discussion groups, and provides various networking opportunities through meetups, online communities, user groups, and major AWS events.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

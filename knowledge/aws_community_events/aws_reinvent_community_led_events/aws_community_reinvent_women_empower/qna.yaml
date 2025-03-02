@@ -1,0 +1,85 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      AWS re:Invent is not just about technology and innovation; it's also about community and empowerment. This year, the event features several sessions focused on women empowerment, providing a platform for women in tech to share their experiences, insights, and strategies for success.
+    questions_and_answers:
+      - question: "What is the focus of the women empowerment sessions at AWS re:Invent?"
+        answer: "The focus is to provide a platform for women in tech to share their experiences, insights, and strategies for success."
+      - question: "Why is AWS re:Invent important for women in tech?"
+        answer: "It provides opportunities for women to connect, share experiences, and gain insights from other women in the tech industry."
+      - question: "What can attendees expect from the women empowerment sessions?"
+        answer: "Attendees can expect to hear from women in tech about their experiences, challenges, and strategies for success."
+      - question: "How does AWS re:Invent support women in tech?"
+        answer: "By hosting sessions focused on women empowerment and providing a platform for women to share their experiences and insights."
+      - question: "What is the goal of the women empowerment sessions at AWS re:Invent?"
+        answer: "The goal is to empower women in tech by providing a platform for them to share their experiences, insights, and strategies for success."
+
+  - context: |
+      AWS is committed to fostering diversity and inclusion within the tech community. At re:Invent, AWS showcases various initiatives aimed at supporting women in tech, including AWS Women in Tech Day, We Power Tech, AWS GetIT, and the AWS All Builders Welcome Grant Program.
+    questions_and_answers:
+      - question: "What is AWS Women in Tech Day?"
+        answer: "A dedicated day featuring sessions, workshops, and networking opportunities designed to inspire and empower women in the tech industry."
+      - question: "What is the We Power Tech program?"
+        answer: "An AWS program focused on building a diverse and inclusive tech workforce by providing resources, training, and support to underrepresented groups, including women."
+      - question: "What is AWS GetIT?"
+        answer: "A program encouraging young students, especially girls, to consider careers in technology through mentorship and hands-on learning experiences."
+      - question: "What is the AWS All Builders Welcome Grant Program?"
+        answer: "A program that provides financial support to underrepresented groups, including women, to attend AWS re:Invent and other AWS events."
+      - question: "How does AWS support diversity and inclusion in tech?"
+        answer: "Through initiatives like AWS Women in Tech Day, We Power Tech, AWS GetIT, and the AWS All Builders Welcome Grant Program."
+
+  - context: |
+      The Women in Tech Fireside Chat and Meetup is an inspiring session that sparks impactful conversations about the challenges and opportunities for women in the tech industry. Topics covered include bias, microaggressions, career development, mentorship, sponsorship, and equal opportunities for women.
+    questions_and_answers:
+      - question: "What topics are covered in the Women in Tech Fireside Chat and Meetup?"
+        answer: "Topics such as bias, microaggressions, career development, mentorship, sponsorship, and equal opportunities for women."
+      - question: "What is the focus of the Women in Tech Fireside Chat and Meetup?"
+        answer: "The focus is on the challenges and opportunities for women in the tech industry."
+      - question: "What are some key highlights of the Women in Tech Fireside Chat and Meetup?"
+        answer: "Reflection on the underrepresentation of women in tech, discussions on promoting career development and equal opportunities, and sharing personal stories and suggestions for driving change."
+      - question: "Why is the Women in Tech Fireside Chat and Meetup important?"
+        answer: "It provides a platform for impactful conversations about the challenges and opportunities for women in the tech industry."
+      - question: "Who hosted past Women in Tech Fireside Chat and Meetup sessions?"
+        answer: "Past sessions were hosted by Linda Mohamed and Suzana Melo Moraes."
+
+  - context: |
+      The session on fostering diversity and building inclusive environments dives into strategies for overcoming barriers and empowering the next generation of women in tech. It focuses on creating inclusive environments and supporting underrepresented groups in the tech industry.
+    questions_and_answers:
+      - question: "What is the focus of the session on fostering diversity?"
+        answer: "The focus is on strategies for overcoming barriers and empowering the next generation of women in tech."
+      - question: "Why is fostering diversity important in tech?"
+        answer: "Fostering diversity is important to build inclusive environments and empower underrepresented groups in the tech industry."
+      - question: "What can attendees expect from the session on fostering diversity?"
+        answer: "Attendees can expect to learn strategies for overcoming barriers and empowering the next generation of women in tech."
+      - question: "How does the session on fostering diversity contribute to the tech community?"
+        answer: "It contributes by providing strategies and insights to build inclusive environments and empower underrepresented groups."
+      - question: "Who were the speakers for past sessions on fostering diversity?"
+        answer: "Past sessions featured speakers such as Jenn Bergstrom, Darya Petrashka, and Amelia Hough-Ross."
+
+  - context: |
+      The women empowerment sessions at AWS re:Invent are a testament to the commitment to diversity and inclusion in the tech industry. These sessions provide a platform for women to share their experiences, learn from each other, and work together to drive change.
+    questions_and_answers:
+      - question: "What do the women empowerment sessions at AWS re:Invent signify?"
+        answer: "They signify a commitment to diversity and inclusion in the tech industry."
+      - question: "What is the purpose of the women empowerment sessions at AWS re:Invent?"
+        answer: "The purpose is to provide a platform for women to share their experiences, learn from each other, and work together to drive change."
+      - question: "How do the women empowerment sessions at AWS re:Invent support women in tech?"
+        answer: "They support women in tech by providing a platform to share experiences, learn from each other, and drive change."
+      - question: "Why are the women empowerment sessions at AWS re:Invent important?"
+        answer: "They are important because they highlight the commitment to diversity and inclusion and provide opportunities for women to connect and learn from each other."
+      - question: "What can attendees gain from the women empowerment sessions at AWS re:Invent?"
+        answer: "Attendees can gain insights, inspiration, and strategies for success from other women in tech."
+
+document_outline: |
+  This document introduces the purpose of the AWS Community, highlighting its core objectives: knowledge sharing and networking. It explains how the community fosters collaboration through events, documentation, forums, and discussion groups, and provides various networking opportunities through meetups, online communities, user groups, and major AWS events.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

@@ -1,0 +1,43 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      Strong community leadership is the backbone of successful AWS user groups and programs. Community leaders are the volunteers and advocates who dedicate time to organize events, foster inclusive environments, and guide the growth of the community. This section covers what AWS community leadership entails, the responsibilities and best practices for leaders, and how AWS supports those leading community efforts.
+    questions_and_answers:
+      - question: "What is the role of community leaders in AWS user groups?"
+        answer: "Community leaders are volunteers and advocates who organize events, foster inclusive environments, and guide the growth of the community."
+      - question: "What are some key responsibilities of AWS community leaders?"
+        answer: "Key responsibilities include organizing regular events, community building, content curation, mentorship and knowledge sharing, upholding community standards, and administration and continuity."
+      - question: "How do AWS community leaders foster an inclusive environment?"
+        answer: "Leaders foster an inclusive environment by promoting the group, welcoming newcomers, facilitating introductions and discussions, and enforcing a code of conduct."
+      - question: "What support does AWS provide to community leaders?"
+        answer: "AWS supports community leaders by onboarding them into the AWS User Group Leaders network, providing resources like promotional credits or swag, and offering mentorship and recognition."
+      - question: "Why is it important for AWS community leaders to enforce a code of conduct?"
+        answer: "Enforcing a code of conduct ensures the community stays a safe, welcoming space where everyone feels included and encouraged to participate."
+
+  - context: |
+      In AWS communities, leadership often refers to user group leaders/organizers as well as influencers like AWS Heroes or Community Builders who take on mentoring roles. A user group leader is typically the person (or team) that coordinates meetup logistics, decides on topics, finds speakers, and engages members.
+    questions_and_answers:
+      - question: "Who are considered leaders in AWS communities?"
+        answer: "Leaders in AWS communities include user group leaders/organizers, AWS Heroes, and Community Builders."
+      - question: "What are the main tasks of a user group leader?"
+        answer: "Main tasks include coordinating meetup logistics, deciding on topics, finding speakers, and engaging members."
+      - question: "How do user group leaders decide on relevant topics for meetups?"
+        answer: "Leaders may survey members for interests or observe industry trends to choose meetup themes that provide value."
+      - question: "What role do AWS Heroes and Community Builders play in the community?"
+        answer: "AWS Heroes and Community Builders often take on mentoring roles, sharing their expertise and supporting community members."
+      - question: "How do user group leaders engage members during events?"
+        answer: "Leaders engage members by facilitating introductions and discussions, ensuring everyone feels connected and included."
+
+document_outline: |
+  This document introduces the purpose of the AWS Community, highlighting its core objectives: knowledge sharing and networking. It explains how the community fosters collaboration through events, documentation, forums, and discussion groups, and provides various networking opportunities through meetups, online communities, user groups, and major AWS events.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

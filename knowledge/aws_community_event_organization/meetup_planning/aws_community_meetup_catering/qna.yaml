@@ -1,0 +1,25 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      Organizing catering for an AWS Community Meetup involves several key considerations to ensure a successful and enjoyable event. It's important to understand the dietary preferences and restrictions of attendees, which can include vegetarian, vegan, gluten-free, and other special diets. Coordinating with local vendors who can provide a variety of food and beverage options is crucial. Additionally, planning for the right quantity of food based on the number of attendees, scheduling meal times to fit the event agenda, and ensuring proper setup and cleanup are all essential tasks. Budget management is also a critical aspect, requiring a balance between quality and cost-effectiveness. Lastly, obtaining feedback from attendees about the catering can help improve future events.
+    questions_and_answers:
+      - question: "What are the key considerations for organizing catering at an AWS Community Meetup?"
+        answer: "Key considerations include understanding dietary preferences and restrictions, coordinating with local vendors, planning food quantities, scheduling meal times, ensuring proper setup and cleanup, managing the budget, and obtaining attendee feedback."
+      - question: "Why is it important to understand dietary preferences and restrictions of attendees?"
+        answer: "Understanding dietary preferences and restrictions ensures that all attendees have suitable food options, which contributes to their overall satisfaction and inclusivity of the event."
+      - question: "How can local vendors contribute to the success of the catering at an AWS Community Meetup?"
+        answer: "Local vendors can provide a variety of food and beverage options, ensuring that the catering meets diverse dietary needs and preferences, and supports the local community."
+      - question: "What factors should be considered when planning the quantity of food for the event?"
+        answer: "Factors include the number of attendees, the duration of the event, the type of meals being served, and the typical consumption patterns of the attendees."
+      - question: "How can feedback from attendees help improve future catering arrangements?"
+        answer: "Feedback provides insights into what worked well and what didn't, allowing organizers to make informed adjustments to improve the quality and satisfaction of future catering arrangements."
+
+document_outline: |
+  This document provides detailed guidance on organizing catering for AWS Community Meetups. It covers key considerations such as dietary preferences, vendor coordination, food quantity planning, meal scheduling, setup and cleanup, budget management, and the importance of attendee feedback.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_event_organization/meetup_planning/aws_community_meetup_catering/aws_community_meetup_catering.md

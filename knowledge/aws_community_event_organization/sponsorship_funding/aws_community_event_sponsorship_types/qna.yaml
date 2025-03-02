@@ -1,0 +1,45 @@
+version: 3
+created_by: GitHub Copilot
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      Sponsorship for AWS community events can come in various forms, each offering unique benefits and opportunities for sponsors. Below is a general overview of the different types of sponsorships available, along with some examples and special sponsorship packages.
+    questions_and_answers:
+      - question: "What are the different types of sponsorships available for AWS community events?"
+        answer: "The different types of sponsorships available for AWS community events include Financial Sponsorship, In-Kind Sponsorship, Media Sponsorship, Venue Sponsorship, and Speaker Sponsorship."
+      - question: "What is Financial Sponsorship?"
+        answer: "Financial sponsors provide monetary support to help cover event costs such as venue rental, catering, and marketing. In return, sponsors receive brand visibility and recognition throughout the event."
+      - question: "What do In-Kind Sponsors contribute?"
+        answer: "In-kind sponsors contribute goods or services instead of money. This can include providing technology, software licenses, or promotional materials."
+      - question: "How do Media Sponsors support AWS community events?"
+        answer: "Media sponsors offer promotional support through their channels, such as social media, blogs, or newsletters. This helps increase event visibility and attract more attendees."
+      - question: "What is Venue Sponsorship?"
+        answer: "Venue sponsors provide the event space at a reduced cost or for free, which is particularly valuable for events with limited budgets."
+      - question: "What is Speaker Sponsorship?"
+        answer: "Speaker sponsors cover the costs associated with bringing in high-profile speakers, including travel and accommodation, enhancing the event's appeal."
+  - context: |
+      Examples of sponsorship packages for AWS community events include Gold Sponsor, Silver Sponsor, and Bronze Sponsor. Special sponsorship packages include Exclusive Networking Sponsor, Workshop Sponsor, and Lunch Sponsor.
+    questions_and_answers:
+      - question: "What does a Gold Sponsor package include?"
+        answer: "A Gold Sponsor package includes prominent logo placement, a speaking slot, and a dedicated booth."
+      - question: "What benefits does a Silver Sponsor receive?"
+        answer: "A Silver Sponsor receives logo placement, a smaller booth, and mentions in promotional materials."
+      - question: "What is included in a Bronze Sponsor package?"
+        answer: "A Bronze Sponsor package includes logo placement and mentions in promotional materials."
+      - question: "What is an Exclusive Networking Sponsor?"
+        answer: "An Exclusive Networking Sponsor provides branding opportunities at networking sessions and exclusive access to attendee lists."
+      - question: "What does a Workshop Sponsor do?"
+        answer: "A Workshop Sponsor sponsors specific workshops, gaining visibility among participants and the opportunity to distribute branded materials."
+      - question: "What is a Lunch Sponsor?"
+        answer: "A Lunch Sponsor covers the cost of meals, with branding opportunities during lunch breaks."
+document_outline: |
+  This document introduces the various types of sponsorships available for AWS community events, including Financial, In-Kind, Media, Venue, and Speaker Sponsorships. It also provides examples of sponsorship packages and special sponsorship opportunities.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

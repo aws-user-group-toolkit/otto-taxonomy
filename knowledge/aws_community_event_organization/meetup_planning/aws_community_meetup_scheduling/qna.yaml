@@ -1,0 +1,25 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      Scheduling an AWS Community Meetup on meetup.com involves several steps to ensure a successful event. First, create a meetup.com account and join the AWS Community group. Next, propose a new meetup event by providing details such as the event title, description, date, time, and location. Ensure the date and time do not conflict with local holidays or other major events. Use meetup.com's tools to promote the event through the platform and other channels like social media and email newsletters. Finally, prepare an agenda that includes a mix of presentations, hands-on sessions, and networking opportunities to engage participants.
+    questions_and_answers:
+      - question: "What is the first step in scheduling an AWS Community Meetup on meetup.com?"
+        answer: "The first step is to create a meetup.com account and join the AWS Community group."
+      - question: "How do you propose a new meetup event on meetup.com?"
+        answer: "Propose a new meetup event by providing details such as the event title, description, date, time, and location."
+      - question: "What should be considered when choosing the date and time for the meetup?"
+        answer: "Ensure the date and time do not conflict with local holidays or other major events."
+      - question: "How can the event be promoted effectively on meetup.com?"
+        answer: "Use meetup.com's tools to promote the event through the platform and other channels like social media and email newsletters."
+      - question: "What should the agenda for the meetup include?"
+        answer: "The agenda should include a mix of presentations, hands-on sessions, and networking opportunities to engage participants."
+
+document_outline: |
+  This document provides a detailed guide on scheduling an AWS Community Meetup on meetup.com, covering key steps such as creating an account, proposing a new event, choosing a suitable date and time, promoting the event, and preparing an engaging agenda.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_event_organization/meetup_planning/aws_community_meetup_scheduling/aws_community_meetup_scheduling.md

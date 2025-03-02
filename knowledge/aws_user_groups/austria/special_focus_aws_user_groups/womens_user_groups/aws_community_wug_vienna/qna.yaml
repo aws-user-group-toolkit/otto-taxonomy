@@ -1,0 +1,85 @@
+version: 3
+created_by: GitHub Copilot
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      The AWS Women's User Group Vienna is a community founded in 2025, based in Vienna, Austria. It is unique for featuring female speakers only and is open to women and allies as attendees. The group has 80 members, with typical meetup attendance ranging from 20 to 30, and up to 50. Meetups are held quarterly, with primary communication through the AWS Community DACH Slack and events organized on the AWS Women's User Group Vienna Meetup Page. The leadership team includes Linda Mohamed as the User Group Leader, supported by Philipp Bergsmann, Dmytro Hlotenko, Jakob Heinisch, and Roman Jokel.
+    questions_and_answers:
+      - question: "What is unique about the AWS Women's User Group Vienna?"
+        answer: "The AWS Women's User Group Vienna features female speakers only and is open to women and allies as attendees."
+      - question: "How often does the AWS Women's User Group Vienna meet?"
+        answer: "The group meets quarterly."
+      - question: "Who is the leader of the AWS Women's User Group Vienna?"
+        answer: "Linda Mohamed is the User Group Leader."
+      - question: "How can I join the AWS Women's User Group Vienna Slack channel?"
+        answer: "You can join the AWS Community DACH Slack channel through the provided link."
+      - question: "Where can I find information about upcoming events for the AWS Women's User Group Vienna?"
+        answer: "Information about upcoming events can be found on the AWS Women's User Group Vienna Meetup Page."
+
+  - context: |
+      The AWS Women's User Group Vienna organizes events with a standard agenda that includes arrival and networking, welcome and introduction, sponsor introduction, two talks, closing, and additional networking. Events are held at rotating sponsor-provided locations and typically run from 17:00 to open end. The group offers various talk types, including lightning talks, panel discussions, and breakout sessions, catering to different technical levels from beginner to advanced.
+    questions_and_answers:
+      - question: "What is the standard agenda for AWS Women's User Group Vienna events?"
+        answer: "The standard agenda includes arrival and networking, welcome and introduction, sponsor introduction, two talks, closing, and additional networking."
+      - question: "Where are AWS Women's User Group Vienna events held?"
+        answer: "Events are held at rotating sponsor-provided locations."
+      - question: "What time do AWS Women's User Group Vienna events typically start?"
+        answer: "Events typically start at 17:00."
+      - question: "What types of talks are offered at AWS Women's User Group Vienna events?"
+        answer: "The group offers lightning talks, panel discussions, and breakout sessions."
+      - question: "What technical levels are catered to at AWS Women's User Group Vienna events?"
+        answer: "Events cater to different technical levels from beginner to advanced."
+
+  - context: |
+      The AWS Women's User Group Vienna has a detailed event planning timeline that includes selecting the date and venue, confirming sponsors, selecting speakers, submitting content, publishing the event, marketing activities, managing capacity, updating communication, confirming logistics, and preparing speakers. The timeline ensures well-organized and successful events.
+    questions_and_answers:
+      - question: "What is the first step in the event planning timeline for AWS Women's User Group Vienna?"
+        answer: "The first step is selecting the date and venue."
+      - question: "When are speakers selected for AWS Women's User Group Vienna events?"
+        answer: "Speakers are selected 4-6 weeks before the event."
+      - question: "What activities are done 3-4 weeks before an AWS Women's User Group Vienna event?"
+        answer: "The event is published and marketing activities are conducted."
+      - question: "What is managed 2 weeks before an AWS Women's User Group Vienna event?"
+        answer: "Capacity management and communication updates are handled."
+      - question: "What preparations are made 1 week before an AWS Women's User Group Vienna event?"
+        answer: "Logistics are confirmed and speakers are prepared."
+
+  - context: |
+      The leadership structure of the AWS Women's User Group Vienna is collaborative, focusing on managing events, content, and community growth with an emphasis on inclusive and diverse representation. Leaders are responsible for event coordination, speaker and content curation, sponsor relationships, community engagement, and post-event management. Leadership opportunities are available for those who attend multiple meetups, help organize events, and contact the current leadership team.
+    questions_and_answers:
+      - question: "What is the focus of the AWS Women's User Group Vienna leadership structure?"
+        answer: "The focus is on managing events, content, and community growth with an emphasis on inclusive and diverse representation."
+      - question: "What are the responsibilities of AWS Women's User Group Vienna leaders?"
+        answer: "Leaders are responsible for event coordination, speaker and content curation, sponsor relationships, community engagement, and post-event management."
+      - question: "How can someone join the leadership team of AWS Women's User Group Vienna?"
+        answer: "Interested individuals can join the leadership team by attending multiple meetups, helping organize events, and contacting the current leadership team."
+      - question: "What is the minimum participation rate required for AWS Women's User Group Vienna leaders?"
+        answer: "Leaders are required to have a minimum participation rate of 50%."
+      - question: "What approach do AWS Women's User Group Vienna leaders take towards education?"
+        answer: "Leaders take an education-first approach."
+
+  - context: |
+      The AWS Women's User Group Vienna focuses on various technical areas, including compute and serverless, AI and machine learning, security and compliance, data and analytics, networking and hybrid, infrastructure as code, and industry solutions. The group offers different session types such as lightning talks, breakout sessions, panel discussions, and live demos. Speaking opportunities are available for women and female-identifying speakers, with submissions made via Sessionize and selected based on technical merit, AWS relevance, and non-commercial content.
+    questions_and_answers:
+      - question: "What technical areas does the AWS Women's User Group Vienna focus on?"
+        answer: "The group focuses on compute and serverless, AI and machine learning, security and compliance, data and analytics, networking and hybrid, infrastructure as code, and industry solutions."
+      - question: "What types of sessions are offered by the AWS Women's User Group Vienna?"
+        answer: "The group offers lightning talks, breakout sessions, panel discussions, and live demos."
+      - question: "Who is eligible to speak at AWS Women's User Group Vienna events?"
+        answer: "Speaking opportunities are available for women and female-identifying speakers."
+      - question: "How can speakers submit their proposals for AWS Women's User Group Vienna events?"
+        answer: "Speakers can submit their proposals via Sessionize."
+      - question: "What criteria are used to select speakers for AWS Women's User Group Vienna events?"
+        answer: "Speakers are selected based on technical merit, AWS relevance, and non-commercial content."
+
+document_outline: |
+  This document introduces the AWS Women's User Group Vienna, highlighting its unique features, event planning, leadership structure, and content focus. It provides detailed information on the group's objectives, event formats, planning timeline, leadership responsibilities, and technical areas of focus.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

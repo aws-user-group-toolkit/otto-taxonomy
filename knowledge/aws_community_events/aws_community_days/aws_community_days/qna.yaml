@@ -1,0 +1,31 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      AWS Community Days are community-led events organized by AWS user groups around the world. These events are designed to bring together AWS enthusiasts, developers, and experts to share knowledge, network, and learn from each other. The primary purpose of AWS Community Days is to foster a sense of community among AWS users, provide a platform for sharing best practices and success stories, and offer learning opportunities through technical sessions and workshops. Key features of these events include being community-led, featuring technical sessions such as keynotes, deep dives, and hands-on workshops, offering networking opportunities, and being accessible to a wide audience.
+    questions_and_answers:
+      - question: "What are AWS Community Days?"
+        answer: "AWS Community Days are community-led events organized by AWS user groups around the world to bring together AWS enthusiasts, developers, and experts to share knowledge, network, and learn from each other."
+      - question: "What is the primary purpose of AWS Community Days?"
+        answer: "The primary purpose of AWS Community Days is to foster a sense of community among AWS users, provide a platform for sharing best practices and success stories, and offer learning opportunities through technical sessions and workshops."
+      - question: "Who organizes AWS Community Days?"
+        answer: "AWS Community Days are organized by local AWS user groups."
+      - question: "What types of sessions are featured at AWS Community Days?"
+        answer: "AWS Community Days feature a variety of technical sessions, including keynotes from industry leaders, deep dives into AWS services and solutions, and hands-on workshops and labs."
+      - question: "What networking opportunities are available at AWS Community Days?"
+        answer: "Attendees have the chance to connect with AWS experts and peers, participate in discussions and Q&A sessions, and build professional relationships within the AWS community."
+      - question: "Are AWS Community Days accessible to everyone?"
+        answer: "Yes, AWS Community Days are often free or low-cost, making them accessible to a wide audience, including students, professionals, and hobbyists."
+
+document_outline: |
+  This document introduces AWS Community Days, highlighting their purpose, key features, and the benefits they offer to attendees. It explains how these community-led events foster a sense of community, provide learning opportunities, and offer networking chances, all while being accessible to a broad audience.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

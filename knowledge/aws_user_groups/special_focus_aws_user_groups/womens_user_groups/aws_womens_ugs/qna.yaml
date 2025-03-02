@@ -1,0 +1,89 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      Women's User Groups in tech are crucial for fostering representation, professional development, and community building. These groups create safe spaces for learning and growth, provide visible role models, and address the gender gap in the technology sector. They offer skill-building opportunities, networking with industry peers, access to mentorship programs, and career advancement resources. Additionally, they serve as support systems, knowledge-sharing platforms, and collaborative learning environments.
+    questions_and_answers:
+      - question: "Why are Women's User Groups important in tech?"
+        answer: "Women's User Groups are important because they foster representation, professional development, and community building, creating safe spaces for learning and growth."
+      - question: "How do Women's User Groups address the gender gap in technology?"
+        answer: "They address the gender gap by providing visible role models and creating inclusive environments that encourage women's participation in tech."
+      - question: "What professional development opportunities do Women's User Groups offer?"
+        answer: "They offer skill-building opportunities, networking with industry peers, access to mentorship programs, and career advancement resources."
+      - question: "How do Women's User Groups support community building?"
+        answer: "They serve as support systems, knowledge-sharing platforms, and collaborative learning environments for women in tech."
+      - question: "What are the core objectives of Women's User Groups?"
+        answer: "The core objectives are fostering representation, professional development, and community building."
+
+  - context: |
+      The AWS Women's User Group Berlin, located in Berlin, Germany, is part of the General AWS User Groups category. It provides a platform for women and FLINTA interested in AWS technologies to connect and collaborate. The group hosts regular meetups and technical workshops, offers mentorship opportunities, and focuses on career development and cloud computing skills.
+    questions_and_answers:
+      - question: "Who organizes the AWS Women's User Group Berlin?"
+        answer: "The group is organized by Sana Shah, Ruth Otero and Linda Mohamed."
+      - question: "Where is the AWS Women's User Group Berlin located?"
+        answer: "The AWS Women's User Group Berlin is located in Berlin, Germany."
+      - question: "Who can attend the AWS Women's User Group Berlin?"
+        answer: "Attendance is exclusive to women and FLINTA."
+      - question: "What activities does the AWS Women's User Group Berlin offer?"
+        answer: "The group hosts regular meetups, technical workshops, offers mentorship opportunities, and focuses on career development and cloud computing skills."
+      - question: "What is the purpose of the AWS Women's User Group Berlin?"
+        answer: "The purpose is to provide a platform for women and FLINTA interested in AWS technologies to connect and collaborate."
+      - question: "How can one join the AWS Women's User Group Berlin?"
+        answer: "You can join by visiting their Meetup page at meetup.com/berlin-amazon-web-services-meetup-group/."
+
+  - context: |
+      The AWS Women's User Group Munich, based in Munich, Germany, is organized by Meyyar Palaniappan. It welcomes women+ with an interest in AWS, from beginners to experienced professionals. The group hosts meetups featuring informative talks, hands-on workshops, networking opportunities, and public speaking opportunities. The mission is to empower and support each other in their AWS journeys.
+    questions_and_answers:
+      - question: "Who organizes the AWS Women's User Group Munich?"
+        answer: "The group is organized by Meyyar Palaniappan."
+      - question: "Who can join the AWS Women's User Group Munich?"
+        answer: "The group welcomes women+ with an interest in AWS, from beginners to experienced professionals."
+      - question: "What activities does the AWS Women's User Group Munich offer?"
+        answer: "The group hosts meetups featuring informative talks, hands-on workshops, networking opportunities, and public speaking opportunities."
+      - question: "What is the mission of the AWS Women's User Group Munich?"
+        answer: "The mission is to empower and support each other in their AWS journeys."
+      - question: "How many members does the AWS Women's User Group Munich have?"
+        answer: "The group currently has 111-112 members."
+
+  - context: |
+      The AWS Women's User Group Vienna, based in Vienna, Austria, is dedicated to creating an inclusive environment for women in technology. Founded in 2025, the group uniquely features only female speakers at its events. Open to both women and allies, the group organizes quarterly meetups, technical workshops, and networking events to help members grow their AWS skills and professional networks.
+    questions_and_answers:
+      - question: "Who organizes the AWS Women's User Group Vienna?"
+        answer: "The group is organized by Linda Mohamed."
+      - question: "Where is the AWS Women's User Group Vienna located?"
+        answer: "The group is based in Vienna, Austria."
+      - question: "When was the AWS Women's User Group Vienna founded?"
+        answer: "The group was founded in 2025."
+      - question: "Who can attend the AWS Women's User Group Vienna events?"
+        answer: "The events are open to both women and allies."
+      - question: "What is unique about the AWS Women's User Group Vienna's events?"
+        answer: "The group uniquely features only female speakers at its events."
+      - question: "What types of activities does the AWS Women's User Group Vienna organize?"
+        answer: "The group organizes quarterly meetups, technical workshops, and networking events."
+
+  - context: |
+      Best practices for managing Women's User Groups include having a structured leadership team, regular event planning, and effective community engagement. Leadership roles should include core organizers, event coordinators, content managers, and community moderators. Events should be a mix of technical and soft skill sessions, with hybrid options and inclusive timing. Communication channels like Slack, newsletters, and social media are essential for engagement. Programs should include beginner-friendly workshops, advanced sessions, mentorship, and career development. Sustainability involves managing sponsorships and growth strategies like feedback collection and continuous improvement.
+    questions_and_answers:
+      - question: "What roles should be included in the leadership team of a Women's User Group?"
+        answer: "The leadership team should include core organizers, event coordinators, content managers, and community moderators."
+      - question: "What types of events should Women's User Groups plan?"
+        answer: "Events should be a mix of technical and soft skill sessions, with hybrid options and inclusive timing."
+      - question: "What communication channels are essential for community engagement?"
+        answer: "Essential communication channels include Slack, newsletters, and social media."
+      - question: "What programs should Women's User Groups offer?"
+        answer: "Programs should include beginner-friendly workshops, advanced sessions, mentorship, and career development."
+      - question: "How can Women's User Groups ensure sustainability?"
+        answer: "Sustainability involves managing sponsorships and growth strategies like feedback collection and continuous improvement."
+
+document_outline: |
+  This document introduces the importance of Women's User Groups in tech, highlighting their role in representation, professional development, and community building. It provides detailed information about specific AWS Women's User Groups in Berlin, Munich, and Vienna, and outlines best practices for managing such groups, including organization structure, event planning, community engagement, and sustainability.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

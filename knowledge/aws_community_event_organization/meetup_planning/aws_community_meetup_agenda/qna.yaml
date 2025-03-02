@@ -1,0 +1,25 @@
+version: 3
+created_by: GitHub Copilot
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      AWS Community Meetups are organized events where AWS enthusiasts gather to share knowledge, network, and collaborate on AWS-related topics. These meetups typically feature presentations from AWS experts, hands-on workshops, and opportunities for attendees to discuss their experiences and challenges with AWS services. The agenda for a typical AWS Community Meetup includes an introduction, keynote presentations, breakout sessions, networking breaks, Q&A sessions, and a closing session. Each session is carefully timed to ensure a smooth flow of events, with keynote presentations usually lasting around 45 minutes, breakout sessions around 30 minutes, and Q&A sessions around 15 minutes. Effective time management and clear communication are key to the success of these meetups.
+    questions_and_answers:
+      - question: "What is the typical agenda for an AWS Community Meetup?"
+        answer: "The typical agenda includes an introduction, keynote presentations, breakout sessions, networking breaks, Q&A sessions, and a closing session."
+      - question: "How long do Intro presentations of the Meetup Group and Sponsors usually last at AWS Community Meetups?"
+        answer: "Intro presentations usually last around 5-10 minutes."
+      - question: "How long are breakout sessions at AWS Community Meetups?"
+        answer: "Breakout sessions typically last around 30 minutes."
+      - question: "Is there a Q&A session planned in the AWS Community Meetup agenda?"
+        answer: "Yes, Q&A sessions are typically included in the agenda and usually last around 15 minutes."
+      - question: "How is time managed during AWS Community Meetups?"
+        answer: "Each session is carefully timed to ensure a smooth flow of events, with effective time management and clear communication being key to the success of the meetups."
+
+document_outline: |
+  This document provides an overview of the agenda for AWS Community Meetups, detailing the typical duration of each session, the inclusion of Q&A sessions, and the importance of effective time management and clear communication.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_event_organization/meetup_planning/aws_community_meetup_agenda/aws_community_meetup_agenda.md

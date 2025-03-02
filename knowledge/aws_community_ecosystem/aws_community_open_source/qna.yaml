@@ -1,0 +1,26 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      The AWS community actively contributes to and develops open source projects that enhance AWS services. These projects include tools like Serverless Frameworks, CDK Libraries, Terraform Modules, and Monitoring Dashboards. Community members, including AWS Heroes, often maintain popular repositories and share their work at meetups. To get involved, join GitHub, attend meetups, contribute to projects, and follow AWS Heroes. Resources for AWS open source projects include the AWS Open Source Blog, AWS GitHub Repositories, Serverless Framework, AWS CDK, Terraform AWS Modules, and Grafana.
+    questions_and_answers:
+      - question: "What is the AWS Community Open Source?"
+        answer: "The AWS community is vibrant and active, with many members contributing to and developing open source projects that enhance AWS services."
+      - question: "What are some examples of AWS-related open source projects?"
+        answer: "Examples include Serverless Frameworks, CDK Libraries, Terraform Modules, and Monitoring Dashboards."
+      - question: "How can I get involved in the AWS open source community?"
+        answer: "Join GitHub, attend meetups, contribute to projects, and follow AWS Heroes."
+      - question: "What resources are available for AWS open source projects?"
+        answer: "Resources include the AWS Open Source Blog, AWS GitHub Repositories, Serverless Framework, AWS CDK, Terraform AWS Modules, and Grafana."
+document_outline: |
+  This document introduces the AWS Community Open Source, highlighting the development and contribution to open source projects related to AWS. It explains how community-led tools enhance AWS services and provides steps for getting involved in the community. Additionally, it lists resources for further exploration.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

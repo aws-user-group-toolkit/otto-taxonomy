@@ -1,0 +1,47 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      Organizing the community stage at an AWS Summit involves several key steps. This guide will help you plan and execute the event successfully.
+    questions_and_answers:
+      - question: "Why is coordination with AWS important for organizing the community stage at an AWS Summit?"
+        answer: "Since the AWS Summit is an official AWS event, close alignment with AWS is crucial. Regular meetings with the AWS event team will ensure that all plans are in sync."
+      - question: "How should speakers be planned for the community stage?"
+        answer: |
+          - Reach out to potential speakers within the community.
+          - Ensure a diverse range of topics and expertise.
+          - Confirm speaker availability and commitment.
+      - question: "What steps are involved in scheduling speakers?"
+        answer: |
+          - Create a detailed schedule for the community stage.
+          - Allocate time slots for each speaker, including Q&A sessions.
+          - Share the schedule with AWS for final approval.
+      - question: "How can volunteers be managed for the event?"
+        answer: |
+          - Identify and recruit volunteers from the community.
+          - Ensure volunteers are available for the entire duration of the event.
+          - Provide training sessions for volunteers.
+          - Assign specific roles and responsibilities to each volunteer.
+      - question: "What marketing materials are needed for the event?"
+        answer: |
+          - Design and print marketing materials such as banners, flyers, and brochures.
+          - Ensure all materials align with AWS branding guidelines.
+          - Plan the transportation of marketing materials to the event venue.
+          - Set up marketing materials at the community stage area.
+      - question: "What are the key steps for on-site coordination?"
+        answer: |
+          - Arrive early to set up the community stage.
+          - Ensure all technical equipment is functioning properly.
+          - Coordinate with AWS staff to address any issues.
+          - Ensure speakers and volunteers are present and prepared.
+          - Collect feedback from speakers, volunteers, and attendees post-event.
+          - Share feedback with AWS for future improvements.
+
+document_outline: |
+  This document provides a comprehensive guide for organizing the community stage at an AWS Summit. It covers coordination with AWS, planning and scheduling speakers, managing volunteers, preparing marketing materials, and on-site coordination to ensure a successful event.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_event_organization/large_scale_event_planning/aws_community_event_summit_stage_planning/aws_community_event_summit_stage_planning.md

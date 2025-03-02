@@ -1,0 +1,85 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      An AWS Community User Group GameDay is a collaborative event organized by multiple AWS user groups to provide a hands-on, gamified learning experience. These events are designed to bring together AWS enthusiasts to tackle real-world challenges in a competitive yet risk-free environment.
+    questions_and_answers:
+      - question: "What is an AWS Community User Group GameDay?"
+        answer: "An AWS Community User Group GameDay is a collaborative event organized by multiple AWS user groups to provide a hands-on, gamified learning experience."
+      - question: "What is the purpose of an AWS Community User Group GameDay?"
+        answer: "The purpose is to bring together AWS enthusiasts to tackle real-world challenges in a competitive yet risk-free environment."
+      - question: "Who organizes AWS Community User Group GameDays?"
+        answer: "These events are organized by multiple AWS user groups."
+      - question: "What kind of experience does an AWS Community User Group GameDay provide?"
+        answer: "It provides a hands-on, gamified learning experience."
+      - question: "What is the environment like at an AWS Community User Group GameDay?"
+        answer: "The environment is competitive yet risk-free."
+
+  - context: |
+      A collaborative AWS GameDay involves multiple user groups coming together to create a unified event. This can be initiated by any user group or a regional community organization. The goal is to provide a larger, more diverse experience for participants, fostering cross-group collaboration and learning.
+    questions_and_answers:
+      - question: "What is a collaborative AWS GameDay?"
+        answer: "A collaborative AWS GameDay involves multiple user groups coming together to create a unified event."
+      - question: "Who can initiate a collaborative AWS GameDay?"
+        answer: "Any user group or a regional community organization can initiate it."
+      - question: "What is the goal of a collaborative AWS GameDay?"
+        answer: "The goal is to provide a larger, more diverse experience for participants, fostering cross-group collaboration and learning."
+      - question: "How does a collaborative AWS GameDay benefit participants?"
+        answer: "It fosters cross-group collaboration and learning."
+      - question: "What makes a collaborative AWS GameDay unique?"
+        answer: "It involves multiple user groups coming together to create a unified event."
+
+  - context: |
+      To host a local GameDay, user groups should arrange a venue with a large screen, audio setup, power and stable internet access, and optionally food and drinks for participants. Teams of 2-4 members should be formed, ensuring diversity in skill levels.
+    questions_and_answers:
+      - question: "What are the venue requirements for hosting a local GameDay?"
+        answer: "A large screen, audio setup, power and stable internet access, and optionally food and drinks for participants."
+      - question: "How many members should be in a team for a local GameDay?"
+        answer: "Teams should have 2-4 members."
+      - question: "Why is it important to have diverse skill levels in teams?"
+        answer: "Diverse skill levels ensure that both beginners and experienced AWS users can participate and learn."
+      - question: "What should user groups arrange for participants at a local GameDay?"
+        answer: "A venue with necessary equipment and optionally food and drinks."
+      - question: "What is the purpose of forming teams for a local GameDay?"
+        answer: "To ensure collaboration and learning among participants."
+
+  - context: |
+      The Förderverein AWS Community DACH is organizing a hybrid AWS GameDay on May 8, 2025. This event aims to unite various AWS User Groups within the DACH region (Germany, Austria, and Switzerland) for a day of learning, collaboration, and fun.
+    questions_and_answers:
+      - question: "Who is organizing the hybrid AWS GameDay on May 8, 2025?"
+        answer: "The Förderverein AWS Community DACH."
+      - question: "What is the aim of the hybrid AWS GameDay on May 8, 2025?"
+        answer: "To unite various AWS User Groups within the DACH region for a day of learning, collaboration, and fun."
+      - question: "Which regions are involved in the hybrid AWS GameDay on May 8, 2025?"
+        answer: "Germany, Austria, and Switzerland."
+      - question: "What type of event is the AWS GameDay on May 8, 2025?"
+        answer: "It is a hybrid event."
+      - question: "What are the key objectives of the AWS GameDay on May 8, 2025?"
+        answer: "Learning, collaboration, and fun."
+
+  - context: |
+      User Group leads interested in participating will be invited to a private Slack channel within the global AWS User Group workspace, where further details and event logistics will be shared.
+    questions_and_answers:
+      - question: "How will User Group leads receive further details about the event?"
+        answer: "They will be invited to a private Slack channel within the global AWS User Group workspace."
+      - question: "What will be shared in the private Slack channel for User Group leads?"
+        answer: "Further details and event logistics."
+      - question: "Who will be invited to the private Slack channel?"
+        answer: "User Group leads interested in participating."
+      - question: "What is the purpose of the private Slack channel?"
+        answer: "To share further details and coordinate event logistics."
+      - question: "How can User Group leads express their interest in participating?"
+        answer: "By joining the private Slack channel within the global AWS User Group workspace."
+
+document_outline: |
+  This document introduces the concept of AWS Community User Group GameDays, explaining their purpose, organization, and benefits. It provides detailed steps for initiating and hosting both collaborative and local GameDays, and highlights an example initiative. Additional resources and next steps for interested User Groups are also provided.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

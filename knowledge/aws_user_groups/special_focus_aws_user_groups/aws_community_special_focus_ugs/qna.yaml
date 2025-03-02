@@ -1,0 +1,43 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      When starting an AWS User Group, it’s important to decide if you want a general AWS group or a specialized group focused on a particular technology or target audience. Below is an overview of different types of AWS user groups and how they typically operate.
+    questions_and_answers:
+      - question: "What are the two main types of AWS User Groups?"
+        answer: "The two main types of AWS User Groups are general AWS user groups and specialized AWS user groups."
+      - question: "Who typically attends a general AWS User Group?"
+        answer: "A general AWS user group attracts beginners exploring AWS, professionals looking to stay current with AWS updates, and enthusiasts who want to network and share experiences."
+      - question: "What are the key benefits of a general AWS User Group?"
+        answer: "Key benefits include broad appeal across multiple AWS services, building a large inclusive community, and a flexible agenda that can adapt to different member interests."
+      - question: "What is the focus of an AWS Container User Group?"
+        answer: "An AWS Container User Group focuses on container technologies like Docker and Kubernetes, and AWS container services such as Amazon ECS, Amazon EKS, and AWS Fargate."
+      - question: "What is the purpose of an AWS Women User Group?"
+        answer: "The purpose of an AWS Women User Group is to support and empower women in the AWS community by providing a safe, inclusive environment to share experiences, network, and learn."
+
+  - context: |
+      A general AWS user group covers a broad range of AWS topics and attracts a diverse audience. This group is ideal for bringing together beginners, professionals, and enthusiasts.
+    questions_and_answers:
+      - question: "What topics are covered in a general AWS User Group?"
+        answer: "A general AWS User Group covers a broad range of AWS topics, including services like EC2, RDS, and Lambda."
+      - question: "Who benefits from attending a general AWS User Group?"
+        answer: "Beginners, professionals, and enthusiasts benefit from attending a general AWS User Group."
+      - question: "Why is a general AWS User Group ideal for building a large community?"
+        answer: "A general AWS User Group is ideal for building a large community because it has broad appeal across multiple AWS services and can attract a diverse audience."
+      - question: "How can the agenda of a general AWS User Group be described?"
+        answer: "The agenda of a general AWS User Group is flexible and can adapt to different member interests."
+      - question: "What is the main advantage of having a broad appeal in a general AWS User Group?"
+        answer: "The main advantage of having a broad appeal is that it can attract a wide range of members, making it easier to build a large and inclusive community."
+
+document_outline: |
+  This document introduces the purpose of different types of AWS User Groups, highlighting their core objectives and benefits. It explains how general and specialized user groups operate, and provides guidance on choosing the right focus for your user group.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

@@ -1,0 +1,71 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      The AWS Community Ecosystem is a thriving network designed to bring together individuals who are passionate about Amazon Web Services (AWS). Whether you are a beginner just starting your cloud journey or an experienced professional, the AWS Community offers a wealth of resources and opportunities to help you grow and succeed.
+    questions_and_answers:
+      - question: "What is the AWS Community Ecosystem?"
+        answer: "The AWS Community Ecosystem is a network designed to bring together individuals passionate about AWS, offering resources and opportunities for growth."
+      - question: "Who can benefit from the AWS Community?"
+        answer: "Both beginners and experienced professionals can benefit from the AWS Community."
+  - context: |
+      At its core, the AWS Community is built on the principles of knowledge sharing, collaboration, and innovation. It encompasses a variety of programs and initiatives that cater to different interests and expertise levels.
+    questions_and_answers:
+      - question: "What are the core principles of the AWS Community?"
+        answer: "The core principles of the AWS Community are knowledge sharing, collaboration, and innovation."
+      - question: "What does the AWS Community encompass?"
+        answer: "The AWS Community encompasses a variety of programs and initiatives catering to different interests and expertise levels."
+  - context: |
+      The AWS Community is not confined to any single location. It spans the globe, connecting people from diverse backgrounds and cultures.
+    questions_and_answers:
+      - question: "Is the AWS Community limited to a specific location?"
+        answer: "No, the AWS Community spans the globe, connecting people from diverse backgrounds and cultures."
+  - context: |
+      Much of the AWS Community’s success can be attributed to the dedication of its volunteers. These individuals organize events, lead user groups, and contribute to open-source projects.
+    questions_and_answers:
+      - question: "What drives the success of the AWS Community?"
+        answer: "The dedication of its volunteers drives the success of the AWS Community."
+      - question: "What roles do volunteers play in the AWS Community?"
+        answer: "Volunteers organize events, lead user groups, and contribute to open-source projects."
+  - context: |
+      The AWS Community offers several key programs designed to recognize and support its members, including AWS Heroes, AWS Community Builders, and AWS Cloud Clubs.
+    questions_and_answers:
+      - question: "What are some key programs offered by the AWS Community?"
+        answer: "Key programs include AWS Heroes, AWS Community Builders, and AWS Cloud Clubs."
+      - question: "What is the AWS Heroes program?"
+        answer: "The AWS Heroes program highlights individuals who have made significant contributions to the community."
+      - question: "What is the AWS Community Builders initiative?"
+        answer: "The AWS Community Builders initiative provides participants with access to exclusive resources, mentorship, and a platform to share their expertise."
+      - question: "What are AWS Cloud Clubs?"
+        answer: "AWS Cloud Clubs are student-led groups that focus on learning and experimenting with AWS technologies."
+  - context: |
+      Community events play a crucial role in the AWS Community Ecosystem. They provide a platform for members to come together, share their experiences, and learn from one another.
+    questions_and_answers:
+      - question: "What role do community events play in the AWS Community Ecosystem?"
+        answer: "Community events provide a platform for members to come together, share experiences, and learn from one another."
+      - question: "What types of events are held in the AWS Community?"
+        answer: "Events range from small local meetups to large-scale conferences like AWS Community Days."
+  - context: |
+      Open source is a significant aspect of the AWS Community. Many tools, libraries, and frameworks are developed and shared by community members.
+    questions_and_answers:
+      - question: "What role does open source play in the AWS Community?"
+        answer: "Open source is a significant aspect, with many tools, libraries, and frameworks developed and shared by community members."
+      - question: "How does AWS support open-source efforts?"
+        answer: "AWS supports open-source efforts through programs that provide resources and recognition to contributors."
+  - context: |
+      Joining the AWS Community offers numerous benefits, including access to knowledge, networking opportunities, mentorship, exclusive resources, and staying informed about the latest trends.
+    questions_and_answers:
+      - question: "What are the benefits of joining the AWS Community?"
+        answer: "Benefits include access to knowledge, networking opportunities, mentorship, exclusive resources, and staying informed about the latest trends."
+document_outline: |
+  This document provides an overview of the AWS Community Ecosystem, highlighting its core principles, global reach, volunteer-driven initiatives, key programs, community events, open-source contributions, and the benefits of participation.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

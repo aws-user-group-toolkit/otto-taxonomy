@@ -1,0 +1,85 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      The AWS Ambassador Program is a community initiative within the AWS Partner Network (APN) that recognizes and empowers AWS experts who work at AWS Partner companies. These individuals (called AWS Ambassadors) are usually solutions architects, engineers, or technical leads at consulting firms or ISVs that are AWS Partners. Ambassadors are passionate AWS advocates within their organizations and externally. They are typically AWS Certified professionals who have proven technical expertise and a track record of knowledge-sharing.
+    questions_and_answers:
+      - question: "What is the AWS Ambassador Program?"
+        answer: "The AWS Ambassador Program is a community initiative within the AWS Partner Network (APN) that recognizes and empowers AWS experts who work at AWS Partner companies."
+      - question: "Who can become an AWS Ambassador?"
+        answer: "AWS Ambassadors are usually solutions architects, engineers, or technical leads at consulting firms or ISVs that are AWS Partners."
+      - question: "What are the typical qualifications of an AWS Ambassador?"
+        answer: "They are typically AWS Certified professionals who have proven technical expertise and a track record of knowledge-sharing."
+      - question: "What roles do AWS Ambassadors usually hold?"
+        answer: "AWS Ambassadors are usually solutions architects, engineers, or technical leads."
+      - question: "What is the main passion of AWS Ambassadors?"
+        answer: "Ambassadors are passionate AWS advocates within their organizations and externally."
+
+  - context: |
+      The AWS Ambassador Program builds a community of AWS professionals who are thought leaders at their companies. Ambassadors are considered an extension of AWS within the partner ecosystem – they help drive cloud adoption and proficiency both inside their company and for customers. To become an Ambassador, one must be an employee of an APN Partner, have multiple AWS certifications, and contribute to the community (e.g., writing blog posts, speaking at events, building solutions). The program is somewhat analogous to AWS Heroes, but exclusive to the partner context.
+    questions_and_answers:
+      - question: "What is the goal of the AWS Ambassador Program?"
+        answer: "The AWS Ambassador Program builds a community of AWS professionals who are thought leaders at their companies."
+      - question: "How are AWS Ambassadors considered within the partner ecosystem?"
+        answer: "Ambassadors are considered an extension of AWS within the partner ecosystem."
+      - question: "What are the requirements to become an AWS Ambassador?"
+        answer: "To become an Ambassador, one must be an employee of an APN Partner, have multiple AWS certifications, and contribute to the community."
+      - question: "How do AWS Ambassadors contribute to the community?"
+        answer: "They contribute by writing blog posts, speaking at events, and building solutions."
+      - question: "How is the AWS Ambassador Program similar to the AWS Heroes Program?"
+        answer: "The program is somewhat analogous to AWS Heroes, but exclusive to the partner context."
+
+  - context: |
+      AWS Ambassadors spend a significant amount of time on knowledge sharing and community engagement. They might host lunch-and-learn sessions internally, lead AWS workshops for customers, speak at AWS events or user groups, publish technical articles or whitepapers, and so forth. In doing so, they elevate the expertise within their company (making the partner more capable) and also contribute valuable content to the broader AWS user base. Ambassadors often collaborate with AWS teams to get the latest updates and sometimes co-present in events.
+    questions_and_answers:
+      - question: "What activities do AWS Ambassadors engage in?"
+        answer: "AWS Ambassadors spend a significant amount of time on knowledge sharing and community engagement."
+      - question: "How do AWS Ambassadors share knowledge internally?"
+        answer: "They might host lunch-and-learn sessions internally."
+      - question: "How do AWS Ambassadors share knowledge with customers?"
+        answer: "They lead AWS workshops for customers and speak at AWS events or user groups."
+      - question: "What type of content do AWS Ambassadors publish?"
+        answer: "They publish technical articles or whitepapers."
+      - question: "How do AWS Ambassadors collaborate with AWS teams?"
+        answer: "Ambassadors often collaborate with AWS teams to get the latest updates and sometimes co-present in events."
+
+  - context: |
+      Ambassadors receive similar perks to other programs – access to training, early product roadmaps, AWS credits, and networking with AWS experts and other Ambassadors. AWS also publicly lists Ambassadors in a directory, which can raise their profile. The program helps AWS ensure that partner-led implementations are high quality by empowering these influential technical leaders with knowledge and support.
+    questions_and_answers:
+      - question: "What perks do AWS Ambassadors receive?"
+        answer: "Ambassadors receive access to training, early product roadmaps, AWS credits, and networking with AWS experts and other Ambassadors."
+      - question: "How does AWS raise the profile of Ambassadors?"
+        answer: "AWS publicly lists Ambassadors in a directory."
+      - question: "How does the program help AWS ensure high-quality implementations?"
+        answer: "The program helps AWS ensure that partner-led implementations are high quality by empowering these influential technical leaders with knowledge and support."
+      - question: "What kind of support do AWS Ambassadors get?"
+        answer: "They get access to training, early product roadmaps, AWS credits, and networking opportunities."
+      - question: "How does being listed in a directory benefit AWS Ambassadors?"
+        answer: "Being listed in a directory can raise their profile."
+
+  - context: |
+      While both Heroes and Ambassadors are AWS champions, Ambassadors are partner-focused (driving AWS adoption in customer projects and within their companies), whereas Heroes are community-focused at large. It’s not uncommon for an AWS Ambassador to also be active in user groups or even become a Hero, but the Ambassador title specifically ties to one’s role in an AWS Partner organization.
+    questions_and_answers:
+      - question: "What is the main focus of AWS Ambassadors?"
+        answer: "Ambassadors are partner-focused, driving AWS adoption in customer projects and within their companies."
+      - question: "What is the main focus of AWS Heroes?"
+        answer: "Heroes are community-focused at large."
+      - question: "Can an AWS Ambassador also be an AWS Hero?"
+        answer: "It’s not uncommon for an AWS Ambassador to also be active in user groups or even become a Hero."
+      - question: "What does the Ambassador title specifically tie to?"
+        answer: "The Ambassador title specifically ties to one’s role in an AWS Partner organization."
+      - question: "How do the roles of AWS Ambassadors and AWS Heroes differ?"
+        answer: "Ambassadors are partner-focused, whereas Heroes are community-focused at large."
+
+document_outline: |
+  This document introduces the AWS Ambassador Program, highlighting its purpose, roles, activities, benefits, and distinction from the AWS Heroes Program. It explains how the program empowers AWS experts within partner companies to drive cloud adoption and proficiency, and how Ambassadors contribute to the community through knowledge sharing and engagement.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

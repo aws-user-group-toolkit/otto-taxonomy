@@ -1,0 +1,55 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      A general AWS user group is a community of AWS enthusiasts who come together to share knowledge, network, and collaborate on AWS-related topics. These groups often organize meetups, workshops, and other events to help members learn and grow their AWS skills.
+    questions_and_answers:
+      - question: "What is a general AWS user group?"
+        answer: "A general AWS user group is a community of AWS enthusiasts who come together to share knowledge, network, and collaborate on AWS-related topics."
+      - question: "What activities do AWS user groups organize?"
+        answer: "AWS user groups often organize meetups, workshops, and other events to help members learn and grow their AWS skills."
+      - question: "Who can join a general AWS user group?"
+        answer: "Anyone interested in AWS can join a general AWS user group, including developers, architects, and enthusiasts."
+      - question: "What is the purpose of AWS user groups?"
+        answer: "The purpose of AWS user groups is to foster collaboration, share knowledge, and support each other in leveraging AWS services."
+      - question: "How can I find a local AWS user group?"
+        answer: "You can find a local AWS user group by searching online, checking the AWS website, or joining social media groups and forums."
+
+  - context: |
+      The template below is essential for anyone who wants to contribute to our knowledge base, initiated by the AWS User Group Vienna team. This team is responsible for organizing all AWS-related events in Austria and actively contributing to the AWS Community DACH.
+    questions_and_answers:
+      - question: "Who initiated the knowledge base template?"
+        answer: "The knowledge base template was initiated by the AWS User Group Vienna team."
+      - question: "What is the AWS User Group Vienna team responsible for?"
+        answer: "The AWS User Group Vienna team is responsible for organizing all AWS-related events in Austria and actively contributing to the AWS Community DACH."
+      - question: "Why is the knowledge base template important?"
+        answer: "The knowledge base template is important for documenting best practices, event planning guides, and community engagement strategies."
+      - question: "How does the AWS User Group Vienna team contribute to the AWS Community DACH?"
+        answer: "The AWS User Group Vienna team contributes to the AWS Community DACH by organizing events and sharing knowledge and best practices."
+      - question: "What can you find in the knowledge base template?"
+        answer: "The knowledge base template includes best practices, event planning guides, and community engagement strategies."
+
+  - context: |
+      Project OTTO - the meetup organizer bot - aims to create a comprehensive and structured repository of knowledge for AWS user groups. This project focuses on documenting best practices, event planning guides, and community engagement strategies to help AWS user groups thrive and grow.
+    questions_and_answers:
+      - question: "What is Project OTTO?"
+        answer: "Project OTTO is a meetup organizer bot that aims to create a comprehensive and structured repository of knowledge for AWS user groups."
+      - question: "What is the focus of Project OTTO?"
+        answer: "Project OTTO focuses on documenting best practices, event planning guides, and community engagement strategies."
+      - question: "How does Project OTTO help AWS user groups?"
+        answer: "Project OTTO helps AWS user groups by providing a structured repository of knowledge to help them thrive and grow."
+      - question: "What kind of information does Project OTTO document?"
+        answer: "Project OTTO documents best practices, event planning guides, and community engagement strategies."
+      - question: "Why is Project OTTO important for AWS user groups?"
+        answer: "Project OTTO is important for AWS user groups because it provides a structured repository of knowledge that helps them thrive and grow."
+
+document_outline: |
+  This document introduces the purpose of general AWS user groups, highlighting their core objectives: knowledge sharing and networking. It explains how the AWS User Group Vienna team initiated a knowledge base template and the role of Project OTTO in documenting best practices and event planning guides.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_user_groups/general_aws_user_groups/overview.md
+    - knowledge/aws_user_groups/general_aws_user_groups/contributing.md
+    - knowledge/aws_user_groups/general_aws_user_groups/project_otto.md

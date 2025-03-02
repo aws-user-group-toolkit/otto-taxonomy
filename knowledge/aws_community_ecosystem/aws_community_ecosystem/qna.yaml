@@ -1,0 +1,48 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      Overview of the AWS Community Ecosystem:
+      The AWS Community Ecosystem is a global, volunteer-driven network where AWS users,
+      from beginners to seasoned experts, collaborate to learn new skills, solve
+      cloud challenges, and engage in thought leadership. This ecosystem
+      includes various local User Groups, community-driven leadership programs
+      like AWS Heroes and AWS Community Builders, and recurring events such as
+      AWS Community Days and user group meetups. Additionally, many participants
+      are involved in open source contributions, collaborative projects, and mentorship
+      initiatives. To find more details about each specific program or topic,
+      refer to the separate documents in this repository or visit the official AWS
+      websites provided.
+    questions_and_answers:
+      - question: "What is the AWS Community Ecosystem?"
+        answer: "It's a volunteer-driven network of AWS enthusiasts, leaders, and user groups working together to share knowledge and foster innovation on AWS."
+      - question: "How do I learn more about User Groups or specific AWS Community Programs?"
+        answer: "You can refer to the separate markdown documents in this repository, such as aws_hero.md or aws_community_builders.md, or check out the public AWS web pages for official information."
+      - question: "What benefits can I gain from joining the AWS Community Ecosystem?"
+        answer: "Members benefit from networking, hands-on learning, mentorship, leadership opportunities, and participation in local or global community events."
+      - question: "Are there any official AWS programs that recognize community leaders?"
+        answer: "Yes. AWS Heroes and AWS Community Builders are two such programs. Details are available in the dedicated docs here or on AWS’s official site."
+      - question: "What kind of events are part of the AWS Community Ecosystem?"
+        answer: "Local user group meetups, virtual webinars, AWS Community Days, and other gatherings where members share real-world solutions and best practices."
+      - question: "How can I participate in open source projects within the AWS Community?"
+        answer: "Look for AWS-focused repositories on GitHub, check the AWS Open Source site, or collaborate with peers during community-organized hackathons and workshops."
+      - question: "Is there support for diversity and inclusion in the AWS Community?"
+        answer: "Yes, the ecosystem embraces diversity. Many user groups feature specialized meetups (e.g., Women in Cloud), and all events strive to be welcoming and inclusive."
+
+document_outline: |
+  This document briefly introduces the AWS Community Ecosystem, highlighting
+  its core components: AWS User Groups, leadership and recognition programs,
+  community-led events, and open source initiatives. It explains how members
+  benefit from networking, knowledge sharing, and mentorship, and directs
+  readers to official AWS resources or separate markdown files for in-depth
+  details on specific programs (such as AWS Heroes or Community Builders).
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

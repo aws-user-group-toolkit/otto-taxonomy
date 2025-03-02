@@ -1,0 +1,63 @@
+version: 3
+created_by: GitHub Copilot
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      The AWS User Group Vienna is a vibrant community based in Vienna, Austria, with over 2300 members. They meet monthly, typically on the second Wednesday, with an attendance of 50-70 people, sometimes reaching up to 100. The group communicates primarily through the AWS Community DACH Slack channel and organizes major events such as AWS Community Day DACH, AWS Community Day CEE, AWS Stammtisch, and AWS GameDays & Hands-On Workshops. The leadership team is responsible for event planning, speaker curation, sponsorship management, and community engagement.
+    questions_and_answers:
+      - question: "Where is the AWS User Group Vienna located?"
+        answer: "The AWS User Group Vienna is located in Vienna, Austria."
+      - question: "How many members does the AWS User Group Vienna have?"
+        answer: "The AWS User Group Vienna has over 2300 members."
+      - question: "When do the AWS User Group Vienna meetups typically occur?"
+        answer: "The AWS User Group Vienna meetups typically occur monthly on the second Wednesday."
+      - question: "What is the primary communication channel for the AWS User Group Vienna?"
+        answer: "The primary communication channel for the AWS User Group Vienna is the AWS Community DACH Slack."
+      - question: "What are some major events organized by the AWS User Group Vienna?"
+        answer: "Major events organized by the AWS User Group Vienna include AWS Community Day DACH, AWS Community Day CEE, AWS Stammtisch, and AWS GameDays & Hands-On Workshops."
+
+  - context: |
+      The AWS User Group Vienna meetups follow a standard agenda, starting with arrival and networking at 17:00, followed by a welcome and introduction, sponsor introduction, two talks, and closing remarks. The meetups are held at various venues including the EBCONT Office, AWS Office, and rotating sponsor locations. The talks can be panel discussions or breakout sessions, with technical levels ranging from advanced (Level 300) to expert/deep dive (Level 400).
+    questions_and_answers:
+      - question: "What time do the AWS User Group Vienna meetups start?"
+        answer: "The AWS User Group Vienna meetups start at 17:00."
+      - question: "What is the typical agenda for an AWS User Group Vienna meetup?"
+        answer: "The typical agenda includes arrival and networking, welcome and introduction, sponsor introduction, two talks, and closing remarks."
+      - question: "Where are the AWS User Group Vienna meetups held?"
+        answer: "The meetups are held at various venues including the EBCONT Office, AWS Office, and rotating sponsor locations."
+      - question: "What types of talks are featured at the AWS User Group Vienna meetups?"
+        answer: "The talks can be panel discussions or breakout sessions."
+      - question: "What are the technical levels of the talks at the AWS User Group Vienna meetups?"
+        answer: "The technical levels range from advanced (Level 300) to expert/deep dive (Level 400)."
+
+  - context: |
+      The leadership team of the AWS User Group Vienna consists of five members: Linda Mohamed, Philipp Bergsmann, Dmytro Hlotenko, Jakob Heinisch, and Roman Jokel. Their responsibilities include event planning and logistics, speaker and content curation, sponsorship management, community engagement, and post-event follow-up. To become a leader, one must attend at least three meetups, volunteer for event organization, contact current leaders, commit to 50% attendance/organization, and maintain a community-first approach.
+    questions_and_answers:
+      - question: "Who are the current leaders of the AWS User Group Vienna?"
+        answer: "The current leaders are Linda Mohamed, Philipp Bergsmann, Dmytro Hlotenko, Jakob Heinisch, and Roman Jokel."
+      - question: "What are the responsibilities of the AWS User Group Vienna leaders?"
+        answer: "Their responsibilities include event planning and logistics, speaker and content curation, sponsorship management, community engagement, and post-event follow-up."
+      - question: "How can one become a leader of the AWS User Group Vienna?"
+        answer: "To become a leader, one must attend at least three meetups, volunteer for event organization, contact current leaders, commit to 50% attendance/organization, and maintain a community-first approach."
+      - question: "What is the email address of Linda Mohamed?"
+        answer: "Linda Mohamed's email address is linda.mohamed@icloud.com."
+      - question: "What is the email address of Philipp Bergsmann?"
+        answer: "Philipp Bergsmann's email address is philipp.bergsmann@redhat.com."
+      - question: "How can I get in touch with the leaders of the AWS User Group Vienna?"
+        answer: "You can get in touch with the leaders via LinkedIn, their Meetup group, or their email addresses: Linda Mohamed (linda.mohamed@icloud.com), Philipp Bergsmann (philipp.bergsmann@redhat.com), Dmytro Hlotenko (dmytro.hlotenko@apa.at), Jakob Heinisch (jakob.heinisch@pcg.io), Roman Jokel (romek.jokel@gmail.com)."
+      - question: "Can I contact the AWS User Group Vienna leaders through LinkedIn?"
+        answer: "Yes, you can contact the leaders through LinkedIn."
+      - question: "Is it possible to reach the AWS User Group Vienna leaders via their Meetup group?"
+        answer: "Yes, you can reach the leaders via their Meetup group."
+
+document_outline: |
+  This document introduces the AWS User Group Vienna, detailing its community size, meetup schedule, communication channels, major events, leadership team, and how to become a leader. It also outlines the standard agenda for meetups, talk formats, and technical levels.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

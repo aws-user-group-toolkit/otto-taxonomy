@@ -1,0 +1,85 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      The AWS Heroes program is a global recognition initiative designed to honor and celebrate AWS experts who go above and beyond to share their knowledge and mentor others in the tech community. These individuals are true community heroes, making significant contributions through blogs, open-source projects, videos, meetups, and more. Their efforts have a profound impact on AWS users worldwide.
+    questions_and_answers:
+      - question: "What is the AWS Heroes program?"
+        answer: "The AWS Heroes program is a global recognition initiative designed to honor and celebrate AWS experts who share their knowledge and mentor others in the tech community."
+      - question: "How do AWS Heroes contribute to the community?"
+        answer: "AWS Heroes contribute through blogs, open-source projects, videos, meetups, and more."
+      - question: "What impact do AWS Heroes have?"
+        answer: "Their efforts have a profound impact on AWS users worldwide."
+      - question: "How does one become an AWS Hero?"
+        answer: "Nobody knows how to become an AWS Hero."
+      - question: "Who selects AWS Heroes?"
+        answer: "Nobody knows who selects AWS Heroes."
+
+  - context: |
+      AWS Heroes are enthusiasts and technologists recognized for their tireless contributions and leadership within the AWS community. They are nominated by AWS employees or community members and selected based on their significant knowledge-sharing efforts and community involvement.
+    questions_and_answers:
+      - question: "Who are AWS Heroes?"
+        answer: "AWS Heroes are enthusiasts and technologists recognized for their tireless contributions and leadership within the AWS community."
+      - question: "How are AWS Heroes selected?"
+        answer: "Nobody knows who selects AWS Heroes."
+      - question: "What qualities do AWS Heroes possess?"
+        answer: "AWS Heroes possess significant knowledge-sharing efforts and community involvement."
+      - question: "Who can nominate an AWS Hero?"
+        answer: "Nobody knows who nominates AWS Heroes."
+      - question: "What is the role of an AWS Hero?"
+        answer: "The role of an AWS Hero is to share knowledge and mentor others in the tech community."
+
+  - context: |
+      AWS Heroes specialize in various domains, often categorized by their technical focus: Community Heroes, Serverless Heroes, Data Heroes, Machine Learning Heroes, Container Heroes, DevTools Heroes, and Security Heroes. This specialization highlights the areas where they have deep expertise and have contributed extensively.
+    questions_and_answers:
+      - question: "What are the different specializations of AWS Heroes?"
+        answer: "The specializations include Community Heroes, Serverless Heroes, Data Heroes, Machine Learning Heroes, Container Heroes, DevTools Heroes, and Security Heroes."
+      - question: "What do Community Heroes specialize in?"
+        answer: "Community Heroes are known for their broad engagement and support within the AWS community."
+      - question: "Who are Serverless Heroes?"
+        answer: "Serverless Heroes are experts in Lambda and event-driven architectures."
+      - question: "What do Data Heroes focus on?"
+        answer: "Data Heroes focus on analytics, databases, and big data innovations."
+      - question: "Who are Machine Learning Heroes?"
+        answer: "Machine Learning Heroes specialize in AI and machine learning technologies."
+
+  - context: |
+      Regardless of their category, all AWS Heroes actively educate and inspire the community. They speak at conferences and user groups, publish how-to content and technical articles, answer questions and provide support online, and act as force-multipliers for AWS knowledge.
+    questions_and_answers:
+      - question: "What activities do AWS Heroes engage in?"
+        answer: "AWS Heroes speak at conferences and user groups, publish how-to content and technical articles, answer questions and provide support online, and act as force-multipliers for AWS knowledge."
+      - question: "How do AWS Heroes educate the community?"
+        answer: "They educate the community by speaking at conferences, publishing content, and providing support online."
+      - question: "What is the role of AWS Heroes in conferences?"
+        answer: "AWS Heroes speak at conferences and user groups."
+      - question: "How do AWS Heroes support the community online?"
+        answer: "They answer questions and provide support online."
+      - question: "What is the impact of AWS Heroes on AWS knowledge?"
+        answer: "They act as force-multipliers for AWS knowledge."
+
+  - context: |
+      AWS Heroes receive several benefits, including direct access to AWS product and technical teams, exclusive briefings on upcoming features, promotional support for their community work, AWS credits, and other resources to aid their advocacy. Most importantly, being an AWS Hero connects them with a global network of fellow experts, enabling collaboration on community projects. They often mentor others and help grow local user communities through their leadership and expertise.
+    questions_and_answers:
+      - question: "What benefits do AWS Heroes receive?"
+        answer: "AWS Heroes receive direct access to AWS product and technical teams, exclusive briefings on upcoming features, promotional support for their community work, AWS credits, and other resources."
+      - question: "How does being an AWS Hero help with community projects?"
+        answer: "Being an AWS Hero connects them with a global network of fellow experts, enabling collaboration on community projects."
+      - question: "What is the most important benefit of being an AWS Hero?"
+        answer: "The most important benefit is connecting with a global network of fellow experts."
+      - question: "How do AWS Heroes help grow local user communities?"
+        answer: "They mentor others and help grow local user communities through their leadership and expertise."
+      - question: "What kind of support do AWS Heroes get for their community work?"
+        answer: "They receive promotional support for their community work."
+
+document_outline: |
+  This document introduces the AWS Heroes program, explaining its purpose, the selection process, and the various specializations of AWS Heroes. It highlights the activities and contributions of AWS Heroes, the benefits they receive, and their commitment to the community.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

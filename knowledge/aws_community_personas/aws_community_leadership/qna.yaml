@@ -1,0 +1,41 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      The AWS Leadership & Community Programs encompass various roles and initiatives designed to empower individuals to lead, innovate, and educate within the AWS ecosystem. These programs include AWS Heroes, AWS Community Builders, AWS User Group Leaders, AWS Ambassadors, and AWS Cloud Captains.
+    questions_and_answers:
+      - question: "What is the primary goal of AWS Heroes?"
+        answer: "The primary goal of AWS Heroes is to educate and empower the community by providing technical guidance, mentorship, and thought leadership."
+      - question: "What are the key traits of an AWS Hero?"
+        answer: "Key traits of an AWS Hero include proven technical excellence with AWS services, passion for community-driven knowledge sharing, and a commitment to staying current with AWS advancements."
+      - question: "How do AWS Community Builders contribute to the AWS ecosystem?"
+        answer: "AWS Community Builders contribute by fostering a supportive environment for collaboration, sharing best practices, and promoting diversity and inclusion within the community."
+      - question: "What are the leadership goals of AWS User Group Leaders?"
+        answer: "The leadership goals of AWS User Group Leaders include building a vibrant local forum for learning, facilitating knowledge exchange, and addressing regional needs with relevant AWS insights."
+      - question: "What distinguishes AWS Ambassadors from other community leaders?"
+        answer: "AWS Ambassadors are distinguished by their advanced AWS certifications, exceptional technical expertise, and their role in driving customer success and promoting thought leadership within the AWS Partner Network."
+      - question: "What is the focus of AWS Cloud Captains in student clubs?"
+        answer: "AWS Cloud Captains focus on empowering future builders through hands-on learning, bridging theory and practice, and cultivating peer mentorship among students."
+      - question: "How do AWS Heroes inspire continuous learning?"
+        answer: "AWS Heroes inspire continuous learning by serving as catalysts for innovation and encouraging others to explore and experiment with AWS solutions."
+      - question: "What role do AWS Community Builders play in advancing diversity and inclusion?"
+        answer: "AWS Community Builders play a role in advancing diversity and inclusion by promoting a welcoming culture for individuals from diverse backgrounds and encouraging peer learning."
+      - question: "How do AWS User Group Leaders facilitate knowledge exchange?"
+        answer: "AWS User Group Leaders facilitate knowledge exchange by organizing sessions that cover AWS updates, use cases, and hands-on demos."
+      - question: "What are the key traits of an AWS Ambassador?"
+        answer: "Key traits of an AWS Ambassador include mastery of AWS services, strong commitment to continuous learning, and a desire to share successes and challenges openly for community benefit."
+      - question: "How do AWS Cloud Captains bridge theory and practice?"
+        answer: "AWS Cloud Captains bridge theory and practice by demonstrating how AWS services solve real-world problems in various industries through workshops, hackathons, and collaborative projects."
+
+document_outline: |
+  This document introduces the AWS Community Leadership Principles, highlighting key principles such as Customer Obsession, Ownership, and Learn and Be Curious. It explains how these principles guide leaders in fostering a collaborative and inclusive community.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

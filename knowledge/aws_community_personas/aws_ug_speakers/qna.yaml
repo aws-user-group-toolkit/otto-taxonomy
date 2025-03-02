@@ -1,0 +1,85 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      The User Group Speaker plays a pivotal role in sharing knowledge and expertise on AWS-related topics during meetups. Speakers are encouraged to wear their badges prominently, making it easy for attendees to identify them for discussions about their talks.
+    questions_and_answers:
+      - question: "What is the role of a User Group Speaker?"
+        answer: "The User Group Speaker shares knowledge and expertise on AWS-related topics during meetups."
+      - question: "Why should speakers wear their badges prominently?"
+        answer: "Speakers should wear their badges prominently to make it easy for attendees to identify them for discussions about their talks."
+      - question: "How can User Group Speakers engage with attendees?"
+        answer: "User Group Speakers can engage with attendees by answering questions and facilitating discussions."
+      - question: "What materials should speakers prepare for their presentations?"
+        answer: "Speakers should prepare slides, demos, and other materials to support their presentations."
+      - question: "How can speakers gather feedback from attendees?"
+        answer: "Speakers can gather feedback from attendees through surveys, direct conversations, or digital feedback forms."
+
+  - context: |
+      The User Group Speaker badge signifies that the wearer is a designated speaker for the event. This badge helps attendees easily identify speakers, fostering an environment where knowledge sharing is encouraged.
+    questions_and_answers:
+      - question: "What does the User Group Speaker badge signify?"
+        answer: "The User Group Speaker badge signifies that the wearer is a designated speaker for the event."
+      - question: "How does the badge help attendees?"
+        answer: "The badge helps attendees easily identify speakers, fostering an environment where knowledge sharing is encouraged."
+      - question: "Why is it important for speakers to wear their badges?"
+        answer: "It is important for speakers to wear their badges to be easily identified by attendees for discussions."
+      - question: "When should speakers receive their badges?"
+        answer: "Speakers should receive their badges at the registration desk or prior to the event."
+      - question: "How can the visibility of badges be ensured?"
+        answer: "The visibility of badges can be ensured by encouraging speakers to wear them prominently throughout the event."
+
+  - context: |
+      Best practices for speakers include knowing your audience, being clear and concise, engaging the audience, practicing, and providing resources. These practices help ensure a successful and engaging presentation.
+    questions_and_answers:
+      - question: "What are some best practices for User Group Speakers?"
+        answer: "Best practices for User Group Speakers include knowing your audience, being clear and concise, engaging the audience, practicing, and providing resources."
+      - question: "Why is it important to know your audience?"
+        answer: "It is important to know your audience to tailor your presentation to their knowledge level and interests."
+      - question: "How can speakers engage the audience?"
+        answer: "Speakers can engage the audience by using interactive elements like Q&A sessions, live demos, and polls."
+      - question: "Why should speakers practice their presentations?"
+        answer: "Speakers should practice their presentations to ensure smooth delivery."
+      - question: "What resources should speakers provide?"
+        answer: "Speakers should provide additional resources such as links to documentation, code samples, or further reading materials."
+
+  - context: |
+      Implementing the badge system for speakers involves ensuring badge distribution, visibility, and proper introduction of speakers and their topics. This system helps enhance the overall experience for attendees.
+    questions_and_answers:
+      - question: "What is involved in implementing the badge system for speakers?"
+        answer: "Implementing the badge system for speakers involves ensuring badge distribution, visibility, and proper introduction of speakers and their topics."
+      - question: "How can badge distribution be ensured?"
+        answer: "Badge distribution can be ensured by providing badges at the registration desk or prior to the event."
+      - question: "Why is visibility of badges important?"
+        answer: "Visibility of badges is important to help attendees easily identify speakers."
+      - question: "How should speakers be introduced?"
+        answer: "Speakers should be introduced along with their topics at the beginning of the event or session."
+      - question: "What is the purpose of the badge system?"
+        answer: "The purpose of the badge system is to enhance the overall experience for attendees by making it easy to identify speakers."
+
+  - context: |
+      Feedback and improvement are crucial for User Group Speakers. Gathering feedback from attendees helps speakers continuously improve their presentations and provide better value in future talks.
+    questions_and_answers:
+      - question: "Why is feedback important for User Group Speakers?"
+        answer: "Feedback is important for User Group Speakers to continuously improve their presentations and provide better value in future talks."
+      - question: "How can speakers gather feedback?"
+        answer: "Speakers can gather feedback through surveys, direct conversations, or digital feedback forms."
+      - question: "What should speakers do with the feedback they receive?"
+        answer: "Speakers should use the feedback to make improvements to their presentations."
+      - question: "Why is continuous improvement important for speakers?"
+        answer: "Continuous improvement is important for speakers to ensure they are providing the best value to their audience."
+      - question: "What are some methods for collecting feedback?"
+        answer: "Some methods for collecting feedback include surveys, direct conversations, and digital feedback forms."
+
+document_outline: |
+  This document introduces the role of the User Group Speaker, highlighting their responsibilities, the significance of the speaker badge, best practices for presentations, the implementation of the badge system, and the importance of feedback and continuous improvement.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

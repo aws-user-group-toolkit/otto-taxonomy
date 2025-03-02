@@ -1,0 +1,47 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      The AWS Community Lounge is an integral part of the AWS Summit Hamburg, meticulously planned and organized by the dedicated AWS user group community from the DACH region (Germany, Austria, and Switzerland). This focused, single-track community day aims to foster the exchange of information and ideas among AWS users through insightful presentations and discussions led by fellow AWS users. Attendees can expect to gain practical knowledge, real-world experiences, and innovative solutions, encouraging networking, collaboration, and the building of lasting professional relationships. The AWS Summit Hamburg itself, including registration and overall event management, is handled by AWS. The AWS Community Stage and Lounge, including the content, speakers, and volunteers, is organized by the Förderverein AWS Community DACH. Speakers are sourced via Sessionize. For more information and to register, visit the AWS Summits website or the Sessionize page at https://sessionize.com/aws-community-lounge-at-aws-summit-2025/.
+    questions_and_answers:
+      - question: "What is the AWS Community Lounge at the AWS Summit Hamburg?"
+        answer: "The AWS Community Lounge at the AWS Summit Hamburg is a focused, single-track community day organized by the AWS user group community from the DACH region."
+      - question: "What can attendees expect at the AWS Community Lounge in Hamburg?"
+        answer: "Attendees can expect insightful presentations and discussions led by fellow AWS users, sharing practical knowledge, real-world experiences, and innovative solutions."
+      - question: "Who organizes the AWS Community Lounge at the Hamburg Summit?"
+        answer: "The AWS Community Lounge at the Hamburg Summit is organized by the dedicated AWS user group community from the DACH region (Germany, Austria, and Switzerland)."
+      - question: "What is the purpose of the AWS Community Lounge at the Hamburg Summit?"
+        answer: "The purpose of the AWS Community Lounge at the Hamburg Summit is to foster the exchange of information and ideas among the AWS user community, encouraging networking, collaboration, and professional relationship building."
+      - question: "How can one register for the AWS Summit Hamburg?"
+        answer: "Registration for the AWS Summit Hamburg is handled by AWS. For more information and to register, visit the AWS Summits website."
+      - question: "Who organizes the AWS Community Stage and Lounge at the Hamburg Summit?"
+        answer: "The AWS Community Stage and Lounge at the Hamburg Summit is organized by the Förderverein AWS Community DACH."
+      - question: "How are speakers for the AWS Community Stage and Lounge at the Hamburg Summit sourced?"
+        answer: "Speakers for the AWS Community Stage and Lounge at the Hamburg Summit are sourced via Sessionize. For more information, visit https://sessionize.com/aws-community-lounge-at-aws-summit-2025/."
+
+  - context: |
+      The AWS Summit Hamburg is a free event that brings together the cloud computing community to connect, collaborate, and learn about AWS. As a community speaker, you have the unique opportunity to be part of this event and be mentioned in the official agenda on the AWS Summit Hamburg website. This recognition can help you reach a wider audience and establish yourself as a thought leader in the AWS community.
+    questions_and_answers:
+      - question: "What is the AWS Summit Hamburg?"
+        answer: "The AWS Summit Hamburg is a free event that brings together the cloud computing community to connect, collaborate, and learn about AWS."
+      - question: "What opportunity does a community speaker have at the AWS Summit Hamburg?"
+        answer: "A community speaker has the unique opportunity to be part of the event and be mentioned in the official agenda on the AWS Summit Hamburg website."
+      - question: "How can being a community speaker at the AWS Summit Hamburg benefit you?"
+        answer: "Being a community speaker can help you reach a wider audience and establish yourself as a thought leader in the AWS community."
+      - question: "Is there a cost to attend the AWS Summit Hamburg?"
+        answer: "No, the AWS Summit Hamburg is a free event."
+      - question: "What is the main goal of the AWS Summit Hamburg?"
+        answer: "The main goal of the AWS Summit Hamburg is to bring together the cloud computing community to connect, collaborate, and learn about AWS."
+
+document_outline: |
+  This document introduces the AWS Community Lounge at the AWS Summit Hamburg, highlighting its purpose, organization, and the opportunities it provides for attendees and speakers. It explains how the Community Lounge fosters knowledge sharing and networking among AWS users and provides details on how to participate and register for the event. It also mentions that the AWS Community Stage and Lounge, including the content, speakers, and volunteers, is organized by the Förderverein AWS Community DACH, with speakers sourced via Sessionize.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

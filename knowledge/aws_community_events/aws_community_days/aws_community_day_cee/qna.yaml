@@ -1,0 +1,39 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      Welcome to the AWS Community Day Central and Eastern Europe! This event brings together AWS enthusiasts, developers, and experts from across the region to share knowledge, network, and learn about the latest in AWS technologies. AWS Community Day Central and Eastern Europe is a new community day event organized by AWS user groups from the region. It features technical sessions, workshops, and networking opportunities, all focused on AWS services and solutions. The AWS Community CEE spans Austria, Croatia, Romania, Slovakia, and Hungary, with approximately 20 distinct local groups actively organizing events like the AWS Community Day CEE.
+    questions_and_answers:
+      - question: "What is AWS Community Day Central and Eastern Europe?"
+        answer: "AWS Community Day Central and Eastern Europe is an event that brings together AWS enthusiasts, developers, and experts from across the region to share knowledge, network, and learn about the latest in AWS technologies."
+      - question: "Who organizes AWS Community Day Central and Eastern Europe?"
+        answer: "The event is organized by AWS user groups from the Central and Eastern Europe region."
+      - question: "What can attendees expect at AWS Community Day Central and Eastern Europe?"
+        answer: "Attendees can expect technical sessions, workshops, networking opportunities, keynote sessions by AWS experts, technical deep dives, hands-on workshops, and community lightning talks."
+      - question: "Where can I find more information about AWS Community Day Central and Eastern Europe?"
+        answer: "More information can be found on the official website: [AWS Community Day CEE](https://awscommunity.eu/)."
+      - question: "How can I register for AWS Community Day Central and Eastern Europe?"
+        answer: "You can register for the event on the official website: [AWS Community Day CEE](https://awscommunity.eu/). Early registration is recommended as spaces are limited."
+      - question: "What is AWS Community CEE?"
+        answer: "AWS Community CEE is a network of AWS user groups in the Central and Eastern European region, spanning Austria, Croatia, Romania, Slovakia, and Hungary, with approximately 20 distinct local groups."
+      - question: "What is the purpose of AWS Community CEE?"
+        answer: "The purpose of AWS Community CEE is to foster technological exchange and collaborative learning in the cloud computing landscape through events like AWS Community Day CEE."
+      - question: "Who are some of the partner user groups of AWS Community CEE?"
+        answer: "Some of the partner user groups include AWS User Group Budapest, AWS User Group Kosice, AWS User Group Timisoara, AWS User Group Vienna, and AWS User Group Zagreb."
+      - question: "How can I contact the organizers of AWS Community Day Central and Eastern Europe?"
+        answer: "You can contact the organizers at contact@awscommunity.eu."
+      - question: "Who are some of the team members of AWS Community CEE?"
+        answer: "Some of the team members include Mihaly Balassy (UG Budapest), Gabor Madi (UG Budapest), Michal Salanci (UG Kosice) and Linda Mohamed (UG Vienna)."
+
+document_outline: |
+  This document introduces the AWS Community Day Central and Eastern Europe, highlighting its purpose, event details, agenda, speakers, registration process, sponsors, and contact information. It explains how the event fosters knowledge sharing and networking among AWS enthusiasts, developers, and experts in the region. Additionally, it provides an overview of the AWS Community CEE, its purpose, partner user groups, and key team members.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

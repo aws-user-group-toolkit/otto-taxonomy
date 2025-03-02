@@ -1,0 +1,25 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      AWS Community Event Meetups are organized gatherings where AWS enthusiasts, developers, and professionals come together to share knowledge, network, and collaborate on AWS-related topics. These meetups provide a platform for members to learn from each other, discuss the latest AWS services and best practices, and showcase their projects. The events often feature presentations by AWS experts, hands-on workshops, and opportunities for attendees to ask questions and get advice on their AWS projects. Meetups are typically held in various locations around the world, making it easy for community members to participate and connect with others who share their interests in AWS technologies.
+    questions_and_answers:
+      - question: "What are AWS Community Event Meetups?"
+        answer: "AWS Community Event Meetups are organized gatherings where AWS enthusiasts, developers, and professionals come together to share knowledge, network, and collaborate on AWS-related topics."
+      - question: "What activities typically occur at AWS Community Event Meetups?"
+        answer: "Activities at AWS Community Event Meetups often include presentations by AWS experts, hands-on workshops, and opportunities for attendees to ask questions and get advice on their AWS projects."
+      - question: "Who can participate in AWS Community Event Meetups?"
+        answer: "Anyone with an interest in AWS technologies, including enthusiasts, developers, and professionals, can participate in AWS Community Event Meetups."
+      - question: "Where are AWS Community Event Meetups held?"
+        answer: "AWS Community Event Meetups are held in various locations around the world, making it easy for community members to participate and connect with others."
+      - question: "What is the purpose of AWS Community Event Meetups?"
+        answer: "The purpose of AWS Community Event Meetups is to provide a platform for members to learn from each other, discuss the latest AWS services and best practices, and showcase their projects."
+
+document_outline: |
+  This document introduces AWS Community Event Meetups, highlighting their purpose and activities. It explains how these meetups provide a platform for knowledge sharing, networking, and collaboration among AWS enthusiasts, developers, and professionals. The document also covers the typical activities at these events and the global nature of their locations.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_event_organization/meetup_planning/aws_community_event_meetups/aws_community_event_meetups.md

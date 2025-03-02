@@ -1,0 +1,85 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      The AWS User Group Linz is a community based in Linz, Austria, with 284 members. The group meets quarterly with typical attendance ranging from 20 to 50 people. The leadership team includes Linda Mohamed, Philipp Bergsmann, Dmytro Hlotenko, Jakob Heinisch, and Roman Jokel. Communication primarily occurs through the AWS Community DACH Slack and events are organized via the AWS User Group Linz Meetup Page.
+    questions_and_answers:
+      - question: "Where is the AWS User Group Linz located?"
+        answer: "The AWS User Group Linz is located in Linz, Austria."
+      - question: "How many members are in the AWS User Group Linz?"
+        answer: "The AWS User Group Linz has 284 members."
+      - question: "How often does the AWS User Group Linz meet?"
+        answer: "The AWS User Group Linz meets quarterly."
+      - question: "Who are the leaders of the AWS User Group Linz?"
+        answer: "The leadership team includes Linda Mohamed, Philipp Bergsmann, Dmytro Hlotenko, Jakob Heinisch, and Roman Jokel."
+      - question: "What are the primary communication channels for the AWS User Group Linz?"
+        answer: "The primary communication channels are the AWS Community DACH Slack and the AWS User Group Linz Meetup Page."
+
+  - context: |
+      The AWS User Group Linz organizes events with a standard agenda that includes arrival and networking, welcome and introduction, sponsor introduction, two talks, and closing followed by open-end networking. Events are held at rotating sponsor-provided locations and typically run from 17:00 to open end.
+    questions_and_answers:
+      - question: "What is the standard agenda for AWS User Group Linz events?"
+        answer: "The standard agenda includes arrival and networking, welcome and introduction, sponsor introduction, two talks, and closing followed by open-end networking."
+      - question: "Where are AWS User Group Linz events held?"
+        answer: "Events are held at rotating sponsor-provided locations."
+      - question: "What time do AWS User Group Linz events typically start?"
+        answer: "Events typically start at 17:00."
+      - question: "How long do AWS User Group Linz events last?"
+        answer: "Events last from 17:00 to open end."
+      - question: "How many talks are usually included in AWS User Group Linz events?"
+        answer: "There are usually two talks included in the events."
+
+  - context: |
+      The AWS User Group Linz offers various types of talks and sessions, including panel discussions, breakout sessions, and live demos. Talk levels range from intermediate (Level 200) to expert/deep dive (Level 400). The event planning timeline includes date and venue selection, sponsor coordination, speaker selection, content submission, event publication, marketing activities, registration management, and final logistics check.
+    questions_and_answers:
+      - question: "What types of talks are offered at AWS User Group Linz events?"
+        answer: "The talks include panel discussions, breakout sessions, and live demos."
+      - question: "What are the talk levels at AWS User Group Linz events?"
+        answer: "Talk levels range from intermediate (Level 200) to expert/deep dive (Level 400)."
+      - question: "What is the event planning timeline for AWS User Group Linz?"
+        answer: "The timeline includes date and venue selection, sponsor coordination, speaker selection, content submission, event publication, marketing activities, registration management, and final logistics check."
+      - question: "How long are panel discussions at AWS User Group Linz events?"
+        answer: "Panel discussions are 60–90 minutes long."
+      - question: "How long are breakout sessions at AWS User Group Linz events?"
+        answer: "Breakout sessions are 30–45 minutes long plus Q&A."
+
+  - context: |
+      The leadership roles in the AWS User Group Linz include event planning and execution, content curation, sponsor relations, community engagement, and post-event management. Leaders are required to attend or organize at least 50% of the events, focus on community education, and commit to growth. To become a leader, active participation in the organization and contact with the leadership team are necessary.
+    questions_and_answers:
+      - question: "What are the leadership roles in the AWS User Group Linz?"
+        answer: "Leadership roles include event planning and execution, content curation, sponsor relations, community engagement, and post-event management."
+      - question: "What are the requirements for AWS User Group Linz leaders?"
+        answer: "Leaders are required to attend or organize at least 50% of the events, focus on community education, and commit to growth."
+      - question: "How can someone become a leader in the AWS User Group Linz?"
+        answer: "To become a leader, active participation in the organization and contact with the leadership team are necessary."
+      - question: "What is the focus of AWS User Group Linz leaders?"
+        answer: "The focus is on community education and growth."
+      - question: "What is the minimum attendance requirement for AWS User Group Linz leaders?"
+        answer: "Leaders must attend or organize at least 50% of the events."
+
+  - context: |
+      The AWS User Group Linz focuses on various technical areas such as compute and serverless, AI and machine learning, security and compliance, data and analytics, networking and hybrid, infrastructure as code, and industry solutions. Session types include breakout sessions, panel discussions, and live demos. Speakers are encouraged to submit talks via Sessionize and focus on technical content, avoiding sales pitches.
+    questions_and_answers:
+      - question: "What technical areas does the AWS User Group Linz focus on?"
+        answer: "The focus areas include compute and serverless, AI and machine learning, security and compliance, data and analytics, networking and hybrid, infrastructure as code, and industry solutions."
+      - question: "What types of sessions are offered at AWS User Group Linz events?"
+        answer: "Session types include breakout sessions, panel discussions, and live demos."
+      - question: "How can speakers submit talks for AWS User Group Linz events?"
+        answer: "Speakers can submit talks via Sessionize."
+      - question: "What should speakers focus on in their talks for AWS User Group Linz events?"
+        answer: "Speakers should focus on technical content and avoid sales pitches."
+      - question: "What is the preferred location for talks submitted to AWS User Group Linz?"
+        answer: "Speakers should specify Linz as the preferred location when submitting talks."
+
+document_outline: |
+  This document provides detailed information about the AWS User Group Linz, including community details, event formats, leadership roles, and content focus. It explains the group's objectives, event planning timeline, and guidelines for speakers.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

@@ -1,0 +1,85 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      AWS User Groups (UGs) are community-led meetups where cloud builders of all levels gather to discuss the latest AWS technologies, share experiences, and learn from peers. These groups provide a platform for individuals to connect, collaborate, and grow their knowledge in AWS services and solutions. Whether you are a beginner or an experienced professional, AWS User Groups offer valuable opportunities to enhance your skills and network with like-minded individuals.
+    questions_and_answers:
+      - question: "What are AWS User Groups?"
+        answer: "AWS User Groups are community-led meetups where cloud builders of all levels gather to discuss the latest AWS technologies, share experiences, and learn from peers."
+      - question: "Who can benefit from AWS User Groups?"
+        answer: "Both beginners and experienced professionals can benefit from AWS User Groups by enhancing their skills and networking with like-minded individuals."
+      - question: "What opportunities do AWS User Groups provide?"
+        answer: "AWS User Groups provide opportunities to connect, collaborate, and grow knowledge in AWS services and solutions."
+      - question: "How do AWS User Groups help individuals?"
+        answer: "AWS User Groups help individuals by offering a platform to discuss AWS technologies, share experiences, and learn from peers."
+      - question: "What is the purpose of AWS User Groups?"
+        answer: "The purpose of AWS User Groups is to provide a platform for individuals to connect, collaborate, and grow their knowledge in AWS services and solutions."
+
+  - context: |
+      There are over 590+ AWS User Groups globally, spanning cities and regions worldwide. User Group events are typically free and occur regularly (monthly or quarterly), either in-person or virtual. Each group is organized by volunteer leaders who coordinate meetups featuring tech talks, demos, or workshops.
+    questions_and_answers:
+      - question: "How many AWS User Groups are there globally?"
+        answer: "There are over 590+ AWS User Groups globally."
+      - question: "Are AWS User Group events free?"
+        answer: "Yes, AWS User Group events are typically free."
+      - question: "How often do AWS User Group events occur?"
+        answer: "AWS User Group events occur regularly, either monthly or quarterly."
+      - question: "Who organizes AWS User Group events?"
+        answer: "AWS User Group events are organized by volunteer leaders."
+      - question: "What activities are featured in AWS User Group meetups?"
+        answer: "AWS User Group meetups feature tech talks, demos, or workshops."
+
+  - context: |
+      AWS User Groups provide an informal, peer-to-peer learning environment to ask questions, network, and get inspired by real-world use cases. AWS supports user groups by listing them in the official directory and often connecting organizers with resources (speakers, event support, etc.). Many user groups focus on broad AWS topics, while some may cater to specific interests (e.g. serverless, AI/ML) depending on the local community's demand.
+    questions_and_answers:
+      - question: "What kind of learning environment do AWS User Groups provide?"
+        answer: "AWS User Groups provide an informal, peer-to-peer learning environment."
+      - question: "How does AWS support user groups?"
+        answer: "AWS supports user groups by listing them in the official directory and often connecting organizers with resources like speakers and event support."
+      - question: "What topics do AWS User Groups focus on?"
+        answer: "Many user groups focus on broad AWS topics, while some may cater to specific interests like serverless or AI/ML."
+      - question: "What can members do in AWS User Groups?"
+        answer: "Members can ask questions, network, and get inspired by real-world use cases in AWS User Groups."
+      - question: "How are AWS User Groups listed?"
+        answer: "AWS User Groups are listed in the official directory."
+
+  - context: |
+      User Groups enable knowledge sharing and networking on a local level. Discussions range from new AWS service announcements to best practices and member project showcases. Meetings often include one or two presentations followed by Q&A and a networking session. The atmosphere is typically welcoming and vendor-neutral – no sales pitches or recruiting, just builders helping each other learn.
+    questions_and_answers:
+      - question: "What do User Groups enable on a local level?"
+        answer: "User Groups enable knowledge sharing and networking on a local level."
+      - question: "What topics are discussed in User Group meetings?"
+        answer: "Discussions range from new AWS service announcements to best practices and member project showcases."
+      - question: "What do User Group meetings typically include?"
+        answer: "Meetings often include one or two presentations followed by Q&A and a networking session."
+      - question: "What is the atmosphere like in User Group meetings?"
+        answer: "The atmosphere is typically welcoming and vendor-neutral, with no sales pitches or recruiting."
+      - question: "What is the focus of User Group meetings?"
+        answer: "The focus is on builders helping each other learn."
+
+  - context: |
+      Joining a user group is an excellent way to learn tangible AWS skills from like-minded peers and build your professional network. By participating in these groups, members can stay updated with the latest AWS developments, gain insights from real-world implementations, and find inspiration for their own projects.
+    questions_and_answers:
+      - question: "What can you learn by joining a user group?"
+        answer: "You can learn tangible AWS skills from like-minded peers."
+      - question: "How can user groups help with professional growth?"
+        answer: "User groups help with professional growth by allowing members to build their professional network."
+      - question: "What benefits do members get from participating in user groups?"
+        answer: "Members can stay updated with the latest AWS developments, gain insights from real-world implementations, and find inspiration for their own projects."
+      - question: "How do user groups help members stay updated?"
+        answer: "User groups help members stay updated with the latest AWS developments."
+      - question: "What kind of insights can members gain from user groups?"
+        answer: "Members can gain insights from real-world implementations."
+
+document_outline: |
+  This document introduces the purpose of AWS User Groups, highlighting their core objectives: knowledge sharing and networking. It explains how the groups foster collaboration through events, documentation, forums, and discussion groups, and provides various networking opportunities through meetups, online communities, user groups, and major AWS events.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md
