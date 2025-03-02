@@ -7,28 +7,20 @@ seed_examples:
     questions_and_answers:
       - question: "What is the size and frequency of AWS User Group Munich meetups?"
         answer: "The group has 5,950 members with typical meetup sizes ranging from 60-150 attendees (up to 200), meeting monthly, usually on the second Wednesday."
-      
       - question: "What types of talks are featured at the meetups?"
         answer: "The meetups feature Lightning Talks (15-20 mins, Level 100-200), Panel Discussions (60-90 mins, Level 200-300), and Breakout Sessions (30-45 mins + Q&A, Level 300-400)."
-      
       - question: "What is the meetup planning timeline?"
         answer: "Planning starts 2 months before with venue selection and sponsor coordination, followed by speaker selection 4-6 weeks before, marketing 3-4 weeks before, and final preparations in the last two weeks."
-      
       - question: "Who can be a speaker at AWS User Group Munich?"
         answer: "Eligible speakers include AWS practitioners, partners, customers, hobbyists, and AWS employees, with selection based on technical value and AWS alignment."
-      
       - question: "What are the main responsibilities of a User Group Leader?"
         answer: "Leaders are responsible for event planning, content curation, sponsorship management, community engagement, and post-event activities including feedback collection."
-      
       - question: "What are the main technical focus areas of the group?"
         answer: "The group focuses on Compute & Serverless, AI & Machine Learning, Security & Compliance, Data & Analytics, Networking & Hybrid, and Infrastructure as Code."
-      
       - question: "How can someone become a leader in the AWS User Group Munich?"
         answer: "To become a leader, one must attend at least 3 meetups, volunteer for event organization, and connect with the current leadership team."
-
 document_outline: |
   This document details the structure and operations of the AWS User Group Munich, covering general information, meetup planning processes, organizational structure, and content focus areas. It provides comprehensive information about the group's leadership, event formats, and technical emphasis.
-
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
   commit: latest

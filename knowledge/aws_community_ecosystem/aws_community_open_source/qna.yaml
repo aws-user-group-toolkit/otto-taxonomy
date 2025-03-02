@@ -13,6 +13,10 @@ seed_examples:
         answer: "Join GitHub, attend meetups, contribute to projects, and follow AWS Heroes."
       - question: "What resources are available for AWS open source projects?"
         answer: "Resources include the AWS Open Source Blog, AWS GitHub Repositories, Serverless Framework, AWS CDK, Terraform AWS Modules, and Grafana."
+      - question: "Who are AWS Heroes?"
+        answer: "AWS Heroes are community leaders who are recognized for their significant contributions to the AWS community, including sharing knowledge and creating open source projects."
+      - question: "What is the AWS Open Source Blog?"
+        answer: "The AWS Open Source Blog is a resource where AWS and community members share news, tutorials, and insights about open source projects and initiatives related to AWS."
 document_outline: |
   This document introduces the AWS Community Open Source, highlighting the development and contribution to open source projects related to AWS. It explains how community-led tools enhance AWS services and provides steps for getting involved in the community. Additionally, it lists resources for further exploration.
 document:

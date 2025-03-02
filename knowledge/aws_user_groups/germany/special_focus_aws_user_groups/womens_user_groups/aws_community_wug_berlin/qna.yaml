@@ -15,7 +15,6 @@ seed_examples:
         answer: "The group supports AWS Community Day DACH, monthly meetups, special online formats, and combined events with the regular AWS User Group Berlin."
       - question: "What is the typical size of a meetup for the AWS Women's User Group Berlin?"
         answer: "The typical meetup size is 50-70 members, with a maximum of 100."
-
   - context: |
       The AWS Women's User Group Berlin organizes monthly meetups, typically on the second Wednesday of each month, from 17:00 to open end. The events are held in-person and in hybrid formats, featuring a standard agenda that includes arrival and networking, welcome and introduction, sponsor introduction, two talks, closing, and additional networking. The talk formats include lightning talks, panel discussions, and breakout sessions. The planning timeline involves date and venue selection two months before the event, speaker and topic selection four to six weeks before, event publication and promotion three to four weeks before, registration management two weeks before, and a final logistics check one week before the event. Post-event activities include feedback collection and documentation.
     questions_and_answers:
@@ -29,7 +28,6 @@ seed_examples:
         answer: "The planning timeline involves date and venue selection two months before, speaker and topic selection four to six weeks before, event publication and promotion three to four weeks before, registration management two weeks before, and a final logistics check one week before the event."
       - question: "What activities are conducted post-event for the AWS Women's User Group Berlin meetups?"
         answer: "Post-event activities include feedback collection and documentation."
-
 document_outline: |
   This document introduces the AWS Women's User Group Berlin, highlighting its core objectives: knowledge sharing, professional networking, and career development. It explains how the community fosters collaboration through events, documentation, forums, and discussion groups, and provides various networking opportunities through meetups, online communities, user groups, and major AWS events.
 document:

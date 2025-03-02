@@ -15,6 +15,9 @@ seed_examples:
         answer: "The leadership goals of AWS User Group Leaders include building a vibrant local forum for learning, facilitating knowledge exchange, and addressing regional needs with relevant AWS insights."
       - question: "What distinguishes AWS Ambassadors from other community leaders?"
         answer: "AWS Ambassadors are distinguished by their advanced AWS certifications, exceptional technical expertise, and their role in driving customer success and promoting thought leadership within the AWS Partner Network."
+  - context: |
+      This section provides detailed questions and answers about the roles and contributions of various AWS community leaders, including AWS Cloud Captains, AWS Heroes, AWS Community Builders, AWS User Group Leaders, and AWS Ambassadors. It highlights their focus areas, key traits, and the ways they inspire and facilitate knowledge exchange within the AWS ecosystem.
+    questions_and_answers:
       - question: "What is the focus of AWS Cloud Captains in student clubs?"
         answer: "AWS Cloud Captains focus on empowering future builders through hands-on learning, bridging theory and practice, and cultivating peer mentorship among students."
       - question: "How do AWS Heroes inspire continuous learning?"
