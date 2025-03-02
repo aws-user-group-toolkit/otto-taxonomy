@@ -1,8 +1,3 @@
----
-markmap:
-  colorFreezeLevel: 5
----
-
 # OTTO - AWS User Group Vienna Taxonomy
 
 ## Overview
@@ -62,15 +57,6 @@ This taxonomy is used to:
 For more details, refer to the official documentation and guidelines!
 
 
-
------
-
-
-
----
-markmap:
-  colorFreezeLevel: 5
----
 
 # AWS Community Taxonomy (aws_community_taxonomy.md)
 
