@@ -1,0 +1,29 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      AWS Community Day Italy 2025 is scheduled for April 2, 2025, from 09:00 to 18:00 at WAO C30, Viale Cassala 30, Milano. The event will feature cutting-edge technology, inspiring speakers, and networking opportunities. Keynote speaker Massimo Re Ferrè, Director of Product Management at AWS, will be joined by a diverse group of speakers including AWS Community Heroes, Builders, and User Group Leaders. The agenda includes sessions on topics such as AWS Control Tower, Generative AI, serverless architecture, and more. The event is sponsored by beSharp, OMNYS, Satispay, and AWS.
+    questions_and_answers:
+      - question: "When and where is AWS Community Day Italy 2025?"
+        answer: "AWS Community Day Italy 2025 is on April 2, 2025, from 09:00 to 18:00 at WAO C30, Viale Cassala 30, Milano."
+      - question: "Who is the keynote speaker for AWS Community Day Italy 2025?"
+        answer: "The keynote speaker is Massimo Re Ferrè, Director of Product Management at AWS."
+      - question: "What topics will be covered in the sessions at AWS Community Day Italy 2025?"
+        answer: "Topics include AWS Control Tower, Generative AI, serverless architecture, and more."
+      - question: "Who are some of the speakers at AWS Community Day Italy 2025?"
+        answer: "Speakers include Anton Babenko, Linda Mohamed, Philipp Bergsmann, Darya Petrashka, Davide De Paolis, Dmytro Hlotenko, Evelina Rakhmetova, Faye Ellis, and more."
+      - question: "Who are the sponsors of AWS Community Day Italy 2025?"
+        answer: "Sponsors include beSharp, OMNYS, Satispay, and AWS."
+
+document_outline: |
+  This document provides details about AWS Community Day Italy 2025, including the event schedule, keynote speaker, session topics, speakers, sponsors, and venue information. It highlights the purpose of the event, which is to explore the future of cloud computing through technology sessions, networking opportunities, and expert insights.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

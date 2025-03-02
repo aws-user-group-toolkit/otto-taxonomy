@@ -1,0 +1,29 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      AWS Community Day Romania 2024 is an event designed to bring together AWS enthusiasts, developers, and experts to share knowledge, network, and learn about the latest AWS services and best practices. The event features over 10 technically competent talks, a single stage for networking, and over 400 diverse attendees and speakers. Notable speakers include AWS Serverless Heroes, Solutions Architects, and community leaders. The agenda includes keynotes, technical sessions, live demos, and networking breaks. The event is supported by various partners and offers opportunities for sponsorship.
+    questions_and_answers:
+      - question: "What is AWS Community Day Romania 2024?"
+        answer: "AWS Community Day Romania 2024 is an event for AWS enthusiasts, developers, and experts to share knowledge, network, and learn about the latest AWS services and best practices."
+      - question: "How many talks are featured at AWS Community Day Romania 2024?"
+        answer: "The event features over 10 technically competent talks."
+      - question: "Who are some of the notable speakers at AWS Community Day Romania 2024?"
+        answer: "Notable speakers include AWS Serverless Heroes, Solutions Architects, and community leaders such as Yan Cui, Andra Someșan, and Toni de la Fuente."
+      - question: "What opportunities are available for networking at the event?"
+        answer: "The event offers a single stage for networking and engaging in talks with people with similar interests, as well as networking breaks."
+      - question: "How can I participate in AWS Community Day Romania 2024?"
+        answer: "You can participate by attending the event, engaging in sessions, and networking with other attendees and speakers."
+
+document_outline: |
+  This document introduces AWS Community Day Romania 2024, highlighting its purpose, key features, notable speakers, and opportunities for networking and learning. It provides detailed information about the event's agenda, speakers, and sponsorship opportunities.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

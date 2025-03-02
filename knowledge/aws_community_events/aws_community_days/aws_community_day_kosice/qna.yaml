@@ -1,0 +1,85 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      AWS Community Day Košice 2025 is a full-day conference featuring workshops, keynotes, and breakout sessions on business and technology. The event is free to attend and open to everyone, regardless of their level of expertise. It will be held on March 26, 2025, at Hotel Yasmin in Košice, Slovakia, from 09:00 to 16:30. The event is organized by AWS User Group Košice.
+    questions_and_answers:
+      - question: "When and where is AWS Community Day Košice 2025?"
+        answer: "AWS Community Day Košice 2025 will be held on March 26, 2025, at Hotel Yasmin in Košice, Slovakia, from 09:00 to 16:30."
+      - question: "Who is organizing AWS Community Day Košice 2025?"
+        answer: "The event is organized by AWS User Group Košice."
+      - question: "Is AWS Community Day Košice 2025 free to attend?"
+        answer: "Yes, the event is free to attend and open to everyone, regardless of their level of expertise."
+      - question: "What types of sessions will be featured at AWS Community Day Košice 2025?"
+        answer: "The event will feature workshops, keynotes, and breakout sessions on business and technology."
+      - question: "Who are the organizers of AWS Community Day Košice 2025?"
+        answer: "The organizers are Michal Salanci, Lydia Delyova, and Michal Sedlak from AWS User Group Košice."
+
+  - context: |
+      The event highlights include a welcoming speech by Lydia Delyova and Michal Salanci from AWS User Group Košice, followed by a keynote. Breakout sessions will be held in three rooms, with rooms I, II, and III combined for keynotes. Panel discussions will cover topics such as 'Successful Women in IT' and 'Future with AI'. The event expo will provide opportunities to engage with sponsors, gain insights, and collect swag.
+    questions_and_answers:
+      - question: "Who will give the welcoming speech at AWS Community Day Košice 2025?"
+        answer: "Lydia Delyova and Michal Salanci from AWS User Group Košice will give the welcoming speech."
+      - question: "What topics will be covered in the panel discussions at AWS Community Day Košice 2025?"
+        answer: "The panel discussions will cover topics such as 'Successful Women in IT' and 'Future with AI'."
+      - question: "What opportunities does the event expo provide?"
+        answer: "The event expo provides opportunities to engage with sponsors, gain insights, and collect swag."
+      - question: "How are the breakout sessions organized at AWS Community Day Košice 2025?"
+        answer: "Breakout sessions will be held in three rooms, with rooms I, II, and III combined for keynotes."
+      - question: "What is the purpose of the keynote at AWS Community Day Košice 2025?"
+        answer: "The keynote will provide valuable insights and set the tone for the event."
+
+  - context: |
+      The tracks and sessions at AWS Community Day Košice 2025 include Compliance & Security, AI & Data, Serverless, and Operations. Some of the sessions are 'Achieving governance at scale', 'AWS DeepDoc Scan', 'Building Generative AI Applications', 'Beyond the Warehouse Walls', and 'Effective Cost Optimization'.
+    questions_and_answers:
+      - question: "What are the main tracks at AWS Community Day Košice 2025?"
+        answer: "The main tracks are Compliance & Security, AI & Data, Serverless, and Operations."
+      - question: "Can you name some sessions under the AI & Data track?"
+        answer: "Some sessions under the AI & Data track are 'AWS DeepDoc Scan' and 'Building Generative AI Applications'."
+      - question: "What session covers cost optimization?"
+        answer: "The session 'Effective Cost Optimization' covers cost optimization."
+      - question: "Which track includes the session 'Beyond the Warehouse Walls'?"
+        answer: "The session 'Beyond the Warehouse Walls' is included in the Serverless track."
+      - question: "What is the focus of the Compliance & Security track?"
+        answer: "The Compliance & Security track focuses on achieving governance at scale."
+
+  - context: |
+      The keynote at AWS Community Day Košice 2025 is titled 'Rethinking how developers work' and will be delivered by Gunnar Grosch, Principal Developer Advocate at AWS.
+    questions_and_answers:
+      - question: "What is the title of the keynote at AWS Community Day Košice 2025?"
+        answer: "The title of the keynote is 'Rethinking how developers work'."
+      - question: "Who is delivering the keynote at AWS Community Day Košice 2025?"
+        answer: "Gunnar Grosch, Principal Developer Advocate at AWS, is delivering the keynote."
+      - question: "What is Gunnar Grosch's role at AWS?"
+        answer: "Gunnar Grosch is a Principal Developer Advocate at AWS."
+      - question: "What is the focus of the keynote at AWS Community Day Košice 2025?"
+        answer: "The keynote focuses on rethinking how developers work."
+      - question: "When will the keynote take place at AWS Community Day Košice 2025?"
+        answer: "The keynote will take place during the event on March 26, 2025."
+
+  - context: |
+      AWS Community Day Košice 2025 features a diverse lineup of speakers, including Anton Lukin, Ari Palo, Darya Petrashka, Faye Ellis, Filip Pýrek, Gunnar Grosch, Jakub Gaj, Jimmy Dahlqvist, Linda Mohamed, Marek Šottl, Martin Baroš, Martin Hauskrecht, Nataliya Godunok, Philipp Bergsmann, Roman Čerešňák, Tala Qraitem, Tomáš Sabol, and Victoria Shutenko.
+    questions_and_answers:
+      - question: "Who are some of the speakers at AWS Community Day Košice 2025?"
+        answer: "Some of the speakers are Anton Lukin, Ari Palo, Darya Petrashka, Faye Ellis, Filip Pýrek, and Gunnar Grosch."
+      - question: "What is Faye Ellis's role?"
+        answer: "Faye Ellis is an AWS Hero and Principal Training Architect at Pluralsight."
+      - question: "Who is the AWS Serverless Hero speaking at the event?"
+        answer: "Jimmy Dahlqvist is the AWS Serverless Hero speaking at the event."
+      - question: "What is Linda Mohamed's role in the AWS Community?"
+        answer: "Linda Mohamed is an AWS Hero and Chairwoman of Förderverein AWS Community DACH."
+      - question: "Who is the Senior Security Consultant speaking at the event?"
+        answer: "Tala Qraitem is the Senior Security Consultant speaking at the event."
+
+document_outline: |
+  This document introduces AWS Community Day Košice 2025, highlighting its key details, event highlights, tracks and sessions, keynote, speakers, and organizers. It provides a comprehensive overview of the event, including the date, location, and schedule, as well as the various opportunities for learning and networking.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

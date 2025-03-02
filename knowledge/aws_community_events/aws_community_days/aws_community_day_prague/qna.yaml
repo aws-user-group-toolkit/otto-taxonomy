@@ -1,0 +1,29 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      AWS Community Day CZ is a full-day conference held on April 29, 2025, at O2 Universum, Prague. The event runs from 08:30 to 18:00 and features workshops, keynotes, and breakout sessions on business and technology. Organized by community leaders, it includes 21 breakout sessions across 3 tracks, with a capacity of 400 attendees. The agenda includes opening and closing keynotes, an expo with sponsors, and various activities. The event is organized by Martin Damovský, Vladimír Šimek, and Zdeněk Bulan. Sponsorship levels include Diamond, Gold, Silver, and Bronze. The event adheres to the AWS Code of Conduct, allows photography and recording, and welcomes recruiters under certain conditions. The primary language is English, with some sessions in Czech. Registration costs 599,00 CZK, and participants agree to share their data with event partners.
+    questions_and_answers:
+      - question: "When and where is AWS Community Day CZ held?"
+        answer: "AWS Community Day CZ is held on April 29, 2025, at O2 Universum, Prague."
+      - question: "What are the main features of AWS Community Day CZ?"
+        answer: "The event features workshops, keynotes, breakout sessions, an expo with sponsors, and various activities."
+      - question: "Who are the organizers of AWS Community Day CZ?"
+        answer: "The event is organized by Martin Damovský, Vladimír Šimek, and Zdeněk Bulan."
+      - question: "What are the sponsorship levels available for AWS Community Day CZ?"
+        answer: "The sponsorship levels are Diamond, Gold, Silver, and Bronze."
+      - question: "What is the registration fee for AWS Community Day CZ?"
+        answer: "The registration fee is 599,00 CZK."
+
+document_outline: |
+  This document provides detailed information about AWS Community Day CZ, including the event date, location, agenda, organizers, sponsorship levels, code of conduct, and registration details.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md
