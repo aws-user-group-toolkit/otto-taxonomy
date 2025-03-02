@@ -45,11 +45,6 @@ This is an inclusive space specifically for women and FLINTA individuals interes
 6. 19:40–19:45: Closing
 7. 19:45–Open End: Networking
 
-### Talk Formats
-- **Lightning Talks**: 15-20 minutes
-- **Panel Discussions**: 60-90 minutes
-- **Breakout Sessions**: 30-45 minutes + Q&A
-
 ### Planning Timeline
 - **2 Months Before**: Date and venue selection
 - **4-6 Weeks Before**: Speaker and topic selection

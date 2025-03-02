@@ -1,0 +1,41 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      The AWS User Group Berlin is a thriving tech community based in Berlin, Germany, with over 6,200 members. Led by Kadir Keles and Aaron Walker, the group hosts monthly meetups typically attracting 60-150 attendees, with a maximum capacity of 200. The meetups follow a structured format starting at 17:00 with networking, followed by welcome introductions, sponsor presentations, and two main talks, concluding with open networking. The group maintains a strong focus on technical AWS content across all skill levels (100-400) and offers various session formats including lightning talks, panel discussions, and breakout sessions. The organization operates through a dedicated leadership team responsible for event planning, community growth, content curation, and sponsorship management, with clear pathways for new leaders to join.
+
+    questions_and_answers:
+      - question: "What is the typical structure of an AWS User Group Berlin meetup?"
+        answer: "The meetup typically starts at 17:00 with networking, followed by welcome and sponsor introductions, two main talks (18:30-19:40), and concludes with networking until open end."
+
+      - question: "Who are the current leaders of AWS User Group Berlin?"
+        answer: "The AWS User Group Berlin is led by Kadir Keles and Aaron Walker."
+
+      - question: "What is the size and frequency of AWS User Group Berlin meetups?"
+        answer: "The group has 6,200 members, typically attracts 60-150 attendees per meetup (maximum 200), and meets monthly, usually on the second Wednesday."
+
+      - question: "What types of session formats does the group offer?"
+        answer: "The group offers lightning talks (15-20 mins), panel discussions (60-90 mins), and breakout sessions (30-45 mins + Q&A)."
+
+      - question: "What are the AWS talk levels supported by the group?"
+        answer: "The group supports four talk levels: Level 100 (Introduction/Beginner), Level 200 (Intermediate), Level 300 (Advanced), and Level 400 (Expert/Deep Dive)."
+
+      - question: "What are the main responsibilities of the leadership team?"
+        answer: "The leadership team is responsible for event coordination, speaker management, sponsor relations, community engagement, and post-event activities."
+
+      - question: "What are the focus areas for content in the AWS User Group Berlin?"
+        answer: "The group focuses on all technical AWS areas including Compute & Serverless, AI & Machine Learning, Security & Compliance, Data & Analytics, Networking & Hybrid, Infrastructure as Code, and Industry Solutions."
+
+    document_outline: |
+      This document provides a comprehensive overview of the AWS User Group Berlin, including its organization structure, meetup planning process, leadership requirements, and content focus areas. It details the group's operational aspects, from general information and community statistics to specific meetup formats and planning timelines.
+
+    document:
+      repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+      commit: latest
+      patterns:
+        - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+        - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+        - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+        - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+        - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md

@@ -187,4 +187,6 @@ To generate a similar structure using an LLM, you can use the following prompt:
 Generate a markdown template for an AWS user group overview. Include sections for general information, meetup planning and organization, content contribution, the role of a user group leader, leadership expectations, and how to become a user group leader. Provide examples for AWS User Group Linz and AWS User Group Vienna, highlighting the differences between the two groups and additionally provide information about your own User Group. 
 ```
 
-By using this prompt, you can create a comprehensive and structured overview for any AWS user group.
+By using this prompt, you can create a comprehensive and structured overview for any AWS user group. Here is a PartyRock Template that can be used: [PartyRock File UG Generator (ug_xy.md & qna.yaml)](https://partyrock.aws/u/mrsleeg/_hhmiTotw/AWS-User-Group-Navigator)
+
+Note: If you run a special User Group, please add it to the name and description of the template. 
