@@ -1,0 +1,57 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      Special AWS user groups are communities that focus on specific technologies, demographics, or interests within the AWS ecosystem. These groups often organize targeted meetups, workshops, and events to cater to their unique audience, providing a platform for members to share knowledge, network, and collaborate on specialized AWS topics.
+    questions_and_answers:
+      - question: "What are special AWS user groups?"
+        answer: "Special AWS user groups are communities that focus on specific technologies, demographics, or interests within the AWS ecosystem."
+      - question: "What types of events do special AWS user groups organize?"
+        answer: "They organize targeted meetups, workshops, and events to cater to their unique audience."
+      - question: "What is the purpose of special AWS user groups?"
+        answer: "The purpose is to provide a platform for members to share knowledge, network, and collaborate on specialized AWS topics."
+      - question: "How do special AWS user groups benefit their members?"
+        answer: "Members benefit from tailored content, networking opportunities, and insights specific to their interests or professional goals."
+      - question: "Can you give examples of special AWS user groups?"
+        answer: "Examples include technology-focused user groups and women's user groups."
+
+  - context: |
+      Technology-Focused User Groups concentrate on specific AWS technologies or services, such as serverless computing, machine learning, or DevOps. They provide deep dives into technical topics, hands-on workshops, and expert-led sessions to help members enhance their skills in particular areas.
+    questions_and_answers:
+      - question: "What are Technology-Focused User Groups?"
+        answer: "These groups concentrate on specific AWS technologies or services, such as serverless computing, machine learning, or DevOps."
+      - question: "What kind of activities do Technology-Focused User Groups offer?"
+        answer: "They offer deep dives into technical topics, hands-on workshops, and expert-led sessions."
+      - question: "What is the goal of Technology-Focused User Groups?"
+        answer: "The goal is to help members enhance their skills in particular areas of AWS technologies."
+      - question: "Who can benefit from Technology-Focused User Groups?"
+        answer: "Developers, architects, and AWS enthusiasts looking to deepen their knowledge in specific AWS services can benefit."
+      - question: "How do Technology-Focused User Groups support learning?"
+        answer: "They support learning through expert-led sessions and practical workshops."
+
+  - context: |
+      Women's User Groups aim to support and empower women in the AWS community. They create a welcoming environment for women to connect, share experiences, and learn from each other. Events often include mentorship programs, career development workshops, and discussions on diversity and inclusion in tech.
+    questions_and_answers:
+      - question: "What is the aim of Women's User Groups?"
+        answer: "The aim is to support and empower women in the AWS community."
+      - question: "What kind of environment do Women's User Groups create?"
+        answer: "They create a welcoming environment for women to connect, share experiences, and learn from each other."
+      - question: "What types of events do Women's User Groups organize?"
+        answer: "Events often include mentorship programs, career development workshops, and discussions on diversity and inclusion in tech."
+      - question: "Who can join Women's User Groups?"
+        answer: "Women and allies who support the empowerment of women in tech can join."
+      - question: "How do Women's User Groups contribute to diversity in tech?"
+        answer: "They contribute by organizing discussions on diversity and inclusion and providing a supportive community for women."
+
+document_outline: |
+  This document introduces the purpose of special AWS user groups, highlighting their focus on specific technologies, demographics, or interests. It explains how these groups organize targeted events to cater to their unique audience, providing a platform for knowledge sharing, networking, and collaboration.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: latest
+  patterns:
+    - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
+    - knowledge/aws_community_ecosystem/aws_community_governance/aws_community_governance.md
+    - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md
+    - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md
+    - knowledge/aws_community_ecosystem/aws_community_purpose/aws_community_purpose.md
