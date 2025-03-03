@@ -49,17 +49,6 @@ seed_examples:
       - question: "What should participants do to prepare for a workshop?"
         answer: "Participants should follow any pre-workshop instructions, such as installing necessary software or reading provided materials."
 
-  - context: |
-      The AWS User Group Berlin regularly hosts workshops focused on various AWS technologies. These workshops are designed to provide hands-on experience and expert guidance.
-    questions_and_answers:
-      - question: "What is the focus of the AWS User Group Berlin workshops?"
-        answer: "The focus is on providing hands-on experience and expert guidance on various AWS technologies."
-      - question: "When is the next AWS User Group Berlin workshop?"
-        answer: "The next workshop is on Thursday, November 7, 2024, focusing on Machine Learning in Production using Amazon SageMaker."
-      - question: "What are the requirements to attend the AWS User Group Berlin workshop?"
-        answer: "Participants need to bring their own laptop with AWS CLI installed, register with their full name, and present their ID upon arrival."
-
-
 document_outline: |
   This document introduces the purpose of user group workshops, highlighting their core objectives: collaborative learning and knowledge sharing. It explains how these workshops are organized, their key features, and how individuals can participate. Additionally, it provides an example of an AWS User Group Berlin workshop focused on Machine Learning in Production.
 document:
