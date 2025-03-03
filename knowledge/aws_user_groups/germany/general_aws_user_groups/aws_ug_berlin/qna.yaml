@@ -60,7 +60,7 @@ seed_examples:
       - question: "How does the group leverage member feedback?"
         answer: "The group leverages member feedback to iterate on event planning and execution, ensuring a dynamic and engaging community experience."
 
-document_outline: 
+document_outline: |
   This document provides a comprehensive overview of the AWS User Group Berlin, including its organization structure, meetup planning process, leadership requirements, and content focus areas. It details the group's operational aspects, from general information and community statistics to specific meetup formats and planning timelines.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
