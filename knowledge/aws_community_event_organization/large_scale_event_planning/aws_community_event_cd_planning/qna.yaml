@@ -10,7 +10,7 @@ seed_examples:
       - question: "How is AWS Community Day different from regular meetups?"
         answer: "Unlike regular meetups, which are shorter and usually have a single track, Community Days are larger in scale and offer a variety of simultaneous sessions catering to different interests."
       - question: "What are the key steps in organizing a Community Day?"
-        answer: "Organizing a Community Day involves several key steps: 1. Form an Organizing Committee 2. Planning Timeline 3. Venue and Logistics 4. Budget & Sponsorship 5. Content and Agenda 6. AWS Coordination 7. Registrations and Attendance 8. On the Event Day
+        answer: "Organizing a Community Day involves several key steps: 1. Form an Organizing Committee 2. Planning Timeline 3. Venue and Logistics 4. Budget & Sponsorship 5. Content and Agenda 6. AWS Coordination 7. Registrations and Attendance 8. On the Event Day"
       - question: "What roles should be defined in the organizing committee?"
         answer: "Roles such as Event Chair, Speaker Coordinator, Sponsor Coordinator, Logistics Manager, Marketing Lead, and Volunteer Manager should be defined."
       - question: "When should planning for a Community Day start?"
