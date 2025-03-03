@@ -11,11 +11,15 @@ seed_examples:
         answer: "The questions can range from general knowledge to specific topics, making it a versatile and enjoyable activity for all participants."
       - question: "Where is a pubquiz typically held?"
         answer: "A pubquiz is typically held in a pub or bar setting."
+  - context: |
+            A pubquiz is a social event where participants answer trivia questions in teams. It is typically held in a pub or bar, but can also be organized in other venues or online. The questions cover a wide range of topics, making it an enjoyable activity for everyone involved.
+    questions_and_answers:
       - question: "What is the purpose of a pubquiz?"
         answer: "The purpose of a pubquiz is to provide a fun and engaging activity where participants can compete for prizes or bragging rights."
       - question: "How do participants compete in a pubquiz?"
         answer: "Participants form teams and answer questions across various categories to compete for prizes or bragging rights."
-
+      - question: "What topics are covered in a pubquiz?"
+        answer: "A pubquiz covers a wide range of topics, making it an enjoyable activity for everyone involved."
   - context: |
       As an AWS user group leader, you can leverage the pubquiz format to create an interactive and educational event for your community. By focusing on AWS-related questions, you can help members learn more about AWS services, best practices, and industry trends while fostering a sense of camaraderie and friendly competition.
     questions_and_answers:
