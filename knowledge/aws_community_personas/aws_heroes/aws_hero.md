@@ -44,4 +44,4 @@ Most importantly, being an AWS Hero connects them with a global network of fello
 
 The AWS Heroes program, now over 10 years running, showcases AWS’s commitment to recognizing community leadership and expertise. It is an ongoing effort to support and celebrate those who contribute significantly to the AWS ecosystem.
 
-For more information, visit the [AWS Heroes | Expert Cloud Community | AWS Developer Center](https://aws.amazon.com/developer/community/heroes/).
+For more information, visit the [AWS Heroes - Expert Cloud Community - AWS Developer Center](https://aws.amazon.com/developer/community/heroes/).
