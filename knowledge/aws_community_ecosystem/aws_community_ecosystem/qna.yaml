@@ -66,6 +66,6 @@ document_outline: |
   details on specific programs (such as AWS Heroes or Community Builders).
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_ecosystem/aws_community_ecosystem/aws_community_ecosystem.md
