@@ -11,20 +11,42 @@ seed_examples:
         answer: "The event is organized by AWS user groups from the Central and Eastern Europe region."
       - question: "What can attendees expect at AWS Community Day Central and Eastern Europe?"
         answer: "Attendees can expect technical sessions, workshops, networking opportunities, keynote sessions by AWS experts, technical deep dives, hands-on workshops, and community lightning talks."
-      - question: "Where can I find more information about AWS Community Day Central and Eastern Europe?"
-        answer: "More information can be found on the official website: [AWS Community Day CEE](https://awscommunity.eu/)."
-      - question: "How can I register for AWS Community Day Central and Eastern Europe?"
-        answer: "You can register for the event on the official website: [AWS Community Day CEE](https://awscommunity.eu/). Early registration is recommended as spaces are limited."
-      - question: "What is AWS Community CEE?"
-        answer: "AWS Community CEE is a network of AWS user groups in the Central and Eastern European region, spanning Austria, Croatia, Romania, Slovakia, and Hungary, with approximately 20 distinct local groups."
-      - question: "What is the purpose of AWS Community CEE?"
-        answer: "The purpose of AWS Community CEE is to foster technological exchange and collaborative learning in the cloud computing landscape through events like AWS Community Day CEE."
-      - question: "Who are some of the partner user groups of AWS Community CEE?"
-        answer: "Some of the partner user groups include AWS User Group Budapest, AWS User Group Kosice, AWS User Group Timisoara, AWS User Group Vienna, and AWS User Group Zagreb."
-      - question: "How can I contact the organizers of AWS Community Day Central and Eastern Europe?"
-        answer: "You can contact the organizers at contact@awscommunity.eu."
-      - question: "Who are some of the team members of AWS Community CEE?"
-        answer: "Some of the team members include Mihaly Balassy (UG Budapest), Gabor Madi (UG Budapest), Michal Salanci (UG Kosice) and Linda Mohamed (UG Vienna)."
+  - context: |
+      The AWS Community Day Central and Eastern Europe agenda includes keynote sessions by AWS experts, technical deep dives, hands-on workshops, networking sessions, and community lightning talks. This diverse agenda ensures that there is something for everyone, whether you are a beginner or an experienced AWS user.
+    questions_and_answers:
+      - question: "What topics will be covered in the keynote sessions?"
+        answer: "The keynote sessions will cover the latest AWS technologies, best practices, and success stories from the AWS community."
+      - question: "Are there any hands-on workshops at the event?"
+        answer: "Yes, there will be hands-on workshops where attendees can learn and practice AWS services and solutions."
+      - question: "Will there be opportunities for networking?"
+        answer: "Yes, there will be dedicated networking sessions where attendees can connect with other AWS enthusiasts, developers, and experts."
+  - context: |
+      The AWS Community Day Central and Eastern Europe will feature speakers from the AWS community, including AWS Heroes, AWS User Group leaders, and industry experts. These speakers will share their knowledge and experience with AWS services and solutions, providing valuable insights and practical tips.
+    questions_and_answers:
+      - question: "Who are some of the speakers at the event?"
+        answer: "The event will feature speakers from the AWS community, including AWS Heroes, AWS User Group leaders, and industry experts. The full speaker lineup will be announced soon."
+      - question: "What can I learn from the speakers?"
+        answer: "You can learn about the latest AWS technologies, best practices, and success stories from the AWS community."
+      - question: "How can I stay updated on the speaker lineup?"
+        answer: "You can stay updated on the speaker lineup by visiting the official website: [AWS Community Day CEE](https://awscommunity.eu/)."
+  - context: |
+      To attend the AWS Community Day Central and Eastern Europe, please register on the official website. Early registration is recommended as spaces are limited. The registration process is simple and straightforward, ensuring that you can secure your spot at the event quickly and easily.
+    questions_and_answers:
+      - question: "How can I register for the event?"
+        answer: "You can register for the event on the official website: [AWS Community Day CEE](https://awscommunity.eu/)."
+      - question: "Is early registration recommended?"
+        answer: "Yes, early registration is recommended as spaces are limited."
+      - question: "What information do I need to provide during registration?"
+        answer: "You will need to provide your name, email address, and any other required information during the registration process."
+  - context: |
+      We would like to thank our sponsors for their support of the AWS Community Day Central and Eastern Europe. Their contributions help make this event possible. If you are interested in sponsoring the event, please visit the sponsorship page on the official website for more information.
+    questions_and_answers:
+      - question: "Who are the sponsors of the event?"
+        answer: "The sponsors of the event will be listed on the official website: [AWS Community Day CEE](https://awscommunity.eu/)."
+      - question: "How can I become a sponsor?"
+        answer: "If you are interested in sponsoring the event, please visit the sponsorship page on the official website for more information."
+      - question: "What benefits do sponsors receive?"
+        answer: "Sponsors receive various benefits, including brand visibility, networking opportunities, and the chance to support the AWS community."
 
 document_outline: |
   This document introduces the AWS Community Day Central and Eastern Europe, highlighting its purpose, event details, agenda, speakers, registration process, sponsors, and contact information. It explains how the event fosters knowledge sharing and networking among AWS enthusiasts, developers, and experts in the region. Additionally, it provides an overview of the AWS Community CEE, its purpose, partner user groups, and key team members.

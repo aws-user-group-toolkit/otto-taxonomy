@@ -43,7 +43,33 @@ seed_examples:
         answer: "Project OTTO documents best practices, event planning guides, and community engagement strategies."
       - question: "Why is Project OTTO important for AWS user groups?"
         answer: "Project OTTO is important for AWS user groups because it provides a structured repository of knowledge that helps them thrive and grow."
+  - context: |
+      Contributing your AWS user group markdown and Q&A file to our repository helps build a comprehensive knowledge base that benefits the entire AWS community. By sharing your experiences and insights, you help other user groups learn and grow.
+    questions_and_answers:
+      - question: "Why should I contribute my user group markdown and Q&A file?"
+        answer: "Contributing your user group markdown and Q&A file helps build a comprehensive knowledge base that benefits the entire AWS community."
+      - question: "How does contributing help other AWS user groups?"
+        answer: "Contributing helps other AWS user groups by providing them with valuable insights and best practices that they can learn from and implement."
+      - question: "What is the benefit of sharing my experiences with the AWS community?"
+        answer: "Sharing your experiences with the AWS community helps others learn from your successes and challenges, fostering a collaborative environment."
+      - question: "How can my contributions impact the AWS community?"
+        answer: "Your contributions can impact the AWS community by providing valuable knowledge and resources that help user groups thrive and grow."
+      - question: "What kind of content should I contribute to the repository?"
+        answer: "You should contribute content such as best practices, event planning guides, and Q&A files that provide valuable insights and knowledge to the AWS community."
 
+  - context: |
+      By contributing to our repository, you become part of a larger effort to document and share best practices within the AWS community. Your contributions help create a centralized resource that is accessible to all AWS user groups.
+    questions_and_answers:
+      - question: "What is the purpose of contributing to the repository?"
+        answer: "The purpose of contributing to the repository is to document and share best practices within the AWS community, creating a centralized resource for all user groups."
+      - question: "How does my contribution help create a centralized resource?"
+        answer: "Your contribution helps create a centralized resource by adding valuable knowledge and insights that are accessible to all AWS user groups."
+      - question: "Why is it important to document best practices?"
+        answer: "Documenting best practices is important because it provides a reference for other user groups to follow, helping them avoid common pitfalls and succeed."
+      - question: "How can I contribute to the repository?"
+        answer: "You can contribute to the repository by submitting your user group markdown and Q&A files, sharing your experiences and best practices."
+      - question: "What is the impact of a centralized knowledge base on the AWS community?"
+        answer: "A centralized knowledge base impacts the AWS community by providing a valuable resource that helps user groups learn, grow, and succeed."
 document_outline: |
   This document introduces the purpose of general AWS user groups, highlighting their core objectives: knowledge sharing and networking. It explains how the AWS User Group Vienna team initiated a knowledge base template and the role of Project OTTO in documenting best practices and event planning guides.
 document:

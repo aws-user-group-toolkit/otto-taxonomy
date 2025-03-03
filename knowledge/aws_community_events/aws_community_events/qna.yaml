@@ -57,7 +57,15 @@ seed_examples:
         answer: "AWS GameDays are structured as team-based competitions where participants solve real-world problems using AWS services."
       - question: "What skills can participants develop during AWS GameDays?"
         answer: "Participants can develop their AWS skills, problem-solving abilities, and teamwork during AWS GameDays."
-
+  - context: |
+      AWS User Group Leaders are volunteers who organize and manage AWS user groups in their local communities. They play a crucial role in fostering a collaborative environment for AWS enthusiasts to learn and share knowledge. User Group Leaders coordinate events, engage with members, and often collaborate with AWS to bring valuable resources to their groups.
+    questions_and_answers:
+      - question: "Who are AWS User Group Leaders?"
+        answer: "AWS User Group Leaders are volunteers who organize and manage AWS user groups in their local communities."
+      - question: "What role do AWS User Group Leaders play?"
+        answer: "AWS User Group Leaders play a crucial role in fostering a collaborative environment for AWS enthusiasts to learn and share knowledge."
+      - question: "What activities do AWS User Group Leaders coordinate?"
+        answer: "AWS User Group Leaders coordinate events, engage with members, and often collaborate with AWS to bring valuable resources to their groups."
 document_outline: |
   This document introduces various AWS Community events, highlighting their purposes and activities. It explains how these events foster collaboration, knowledge sharing, and networking among AWS enthusiasts through community-led conferences, community stages at major AWS events, informal meetups, and interactive learning exercises.
 document:

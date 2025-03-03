@@ -57,7 +57,15 @@ seed_examples:
         answer: "Cultural outings, such as visits to museums or art galleries, provide a relaxed environment for networking and cultural enrichment."
       - question: "How can organizing diverse activities make women in tech gatherings more engaging?"
         answer: "Diverse activities cater to different interests and promote a well-rounded experience, making the gatherings more engaging and beneficial."
-
+  - context: |
+      These special female oriented events are fantastic opportunities for networking, sharing experiences, and building connections with other women in the industry.
+    questions_and_answers:
+      - question: "What should you do to prepare for women in tech meetups at AWS re:Invent?"
+        answer: "To prepare, join online communities, attend local meetups, and reach out directly to organizers or community leaders."
+      - question: "What are some benefits of attending women in tech gatherings?"
+        answer: "Benefits include networking, sharing experiences, and building connections with other women in the industry."
+      - question: "How can you find out about women in tech meetups that are not publicly advertised?"
+        answer: "You can find out by joining online communities, attending local meetups, and reaching out directly to organizers or community leaders."
 document_outline: |
   This document introduces the importance of women in tech meetups and gatherings at conferences like AWS re:Invent. It provides tips on networking before the event, describes what to expect at these gatherings, and offers creative ideas for organizing engaging activities.
 document:

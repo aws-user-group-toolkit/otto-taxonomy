@@ -43,7 +43,25 @@ seed_examples:
         answer: "The keynote speakers were Massimo Re Ferre' and Viktoria Semaan."
       - question: "How many workshops were held at AWS Community Day DACH 2024?"
         answer: "There were 3 workshops, including a Women of Cloud Workshop."
+  - context: |
+      AWS Community Day DACH is an event where you can learn from the experts. Engage with AWS professionals who are pioneering the future of cloud computing. Sessions are packed with insights that will fuel your professional growth.
+    questions_and_answers:
+      - question: "Why should you attend AWS Community Day DACH?"
+        answer: "You should attend to learn from AWS professionals who are pioneering the future of cloud computing."
+      - question: "What can you expect from the sessions at AWS Community Day DACH?"
+        answer: "Sessions are packed with insights that will fuel your professional growth."
+      - question: "Who are the experts at AWS Community Day DACH?"
+        answer: "The experts are AWS professionals who are pioneering the future of cloud computing."
 
+  - context: |
+      AWS Community Day DACH is a great place to network with peers. Connect with a vibrant community that shares your passion for technology. Make lasting connections that could transform your career.
+    questions_and_answers:
+      - question: "What is one of the benefits of attending AWS Community Day DACH?"
+        answer: "One of the benefits is networking with peers who share your passion for technology."
+      - question: "How can AWS Community Day DACH impact your career?"
+        answer: "It can help you make lasting connections that could transform your career."
+      - question: "What kind of community can you expect at AWS Community Day DACH?"
+        answer: "You can expect a vibrant community that shares your passion for technology."
 document_outline: |
   This document introduces the purpose of the AWS Community Day DACH, highlighting its core objectives: knowledge sharing and networking. It explains how the community fosters collaboration through events, documentation, forums, and discussion groups, and provides various networking opportunities through meetups, online communities, user groups, and major AWS events.
 document:

@@ -43,7 +43,25 @@ seed_examples:
         answer: "Women and allies who support the empowerment of women in tech can join."
       - question: "How do Women's User Groups contribute to diversity in tech?"
         answer: "They contribute by organizing discussions on diversity and inclusion and providing a supportive community for women."
+  - context: |
+      Student AWS User Groups are communities formed within educational institutions to help students learn about AWS technologies and cloud computing. These groups often collaborate with AWS Educate and AWS Academy to provide resources, training, and certification opportunities for students.
+    questions_and_answers:
+      - question: "What are Student AWS User Groups?"
+        answer: "These are communities formed within educational institutions to help students learn about AWS technologies and cloud computing."
+      - question: "How do Student AWS User Groups collaborate with AWS?"
+        answer: "They often collaborate with AWS Educate and AWS Academy to provide resources, training, and certification opportunities."
+      - question: "What benefits do students get from joining these groups?"
+        answer: "Students gain access to learning resources, training sessions, and opportunities to earn AWS certifications."
 
+  - context: |
+      Professional Networking User Groups focus on connecting AWS professionals across various industries. These groups provide opportunities for members to network, share industry insights, and collaborate on projects. Events may include panel discussions, networking mixers, and industry-specific workshops.
+    questions_and_answers:
+      - question: "What are Professional Networking User Groups?"
+        answer: "These groups focus on connecting AWS professionals across various industries."
+      - question: "What types of events do Professional Networking User Groups organize?"
+        answer: "Events may include panel discussions, networking mixers, and industry-specific workshops."
+      - question: "How do these groups benefit AWS professionals?"
+        answer: "They provide opportunities for networking, sharing industry insights, and collaborating on projects."
 document_outline: |
   This document introduces the purpose of special AWS user groups, highlighting their focus on specific technologies, demographics, or interests. It explains how these groups organize targeted events to cater to their unique audience, providing a platform for knowledge sharing, networking, and collaboration.
 document:

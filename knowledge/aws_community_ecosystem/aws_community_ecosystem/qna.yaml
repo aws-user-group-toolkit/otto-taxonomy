@@ -3,32 +3,59 @@ created_by: your_github_username
 domain: aws_community_ecosystem
 seed_examples:
   - context: |
-      Overview of the AWS Community Ecosystem:
-      The AWS Community Ecosystem is a global, volunteer-driven network where AWS users,
-      from beginners to seasoned experts, collaborate to learn new skills, solve
-      cloud challenges, and engage in thought leadership. This ecosystem
-      includes various local User Groups, community-driven leadership programs
-      like AWS Heroes and AWS Community Builders, and recurring events such as
-      AWS Community Days and user group meetups. Additionally, many participants
-      are involved in open source contributions, collaborative projects, and mentorship
-      initiatives. To find more details about each specific program or topic,
-      refer to the separate documents in this repository or visit the official AWS
-      websites provided.
+      Overview of AWS User Groups:
+      AWS User Groups are independent, community-organized gatherings of AWS enthusiasts who meet regularly to share knowledge, discuss new AWS services, and collaborate on projects. These groups provide a platform for members to learn from each other, host guest speakers, and participate in workshops and hackathons.
     questions_and_answers:
-      - question: "What is the AWS Community Ecosystem?"
-        answer: "It's a volunteer-driven network of AWS enthusiasts, leaders, and user groups working together to share knowledge and foster innovation on AWS."
-      - question: "How do I learn more about User Groups or specific AWS Community Programs?"
-        answer: "You can refer to the separate markdown documents in this repository, such as aws_hero.md or aws_community_builders.md, or check out the public AWS web pages for official information."
-      - question: "What benefits can I gain from joining the AWS Community Ecosystem?"
-        answer: "Members benefit from networking, hands-on learning, mentorship, leadership opportunities, and participation in local or global community events."
-      - question: "Are there any official AWS programs that recognize community leaders?"
-        answer: "Yes. AWS Heroes and AWS Community Builders are two such programs. Details are available in the dedicated docs here or on AWS’s official site."
-      - question: "What kind of events are part of the AWS Community Ecosystem?"
-        answer: "Local user group meetups, virtual webinars, AWS Community Days, and other gatherings where members share real-world solutions and best practices."
-      - question: "How can I participate in open source projects within the AWS Community?"
-        answer: "Look for AWS-focused repositories on GitHub, check the AWS Open Source site, or collaborate with peers during community-organized hackathons and workshops."
-      - question: "Is there support for diversity and inclusion in the AWS Community?"
-        answer: "Yes, the ecosystem embraces diversity. Many user groups feature specialized meetups (e.g., Women in Cloud), and all events strive to be welcoming and inclusive."
+      - question: "What are AWS User Groups?"
+        answer: "AWS User Groups are community-organized gatherings where AWS users meet to share knowledge, discuss new services, and collaborate on projects."
+      - question: "How can I join an AWS User Group?"
+        answer: "You can find and join an AWS User Group by visiting the AWS User Groups Official Page."
+      - question: "What activities do AWS User Groups typically organize?"
+        answer: "AWS User Groups organize meetups, workshops, hackathons, and guest speaker sessions to foster learning and collaboration."
+
+  - context: |
+      Overview of AWS Heroes:
+      AWS Heroes are individuals recognized by AWS for their significant contributions to the community through content creation, open-source projects, and community leadership. They are experts who share their knowledge and help others succeed with AWS.
+    questions_and_answers:
+      - question: "Who are AWS Heroes?"
+        answer: "AWS Heroes are individuals recognized by AWS for their significant contributions to the community through content creation, open-source projects, and community leadership."
+      - question: "How can I become an AWS Hero?"
+        answer: "To become an AWS Hero, you need to make significant contributions to the AWS community, such as creating content, contributing to open-source projects, and demonstrating leadership."
+      - question: "What benefits do AWS Heroes receive?"
+        answer: "AWS Heroes receive recognition, access to exclusive resources, and opportunities to connect with AWS teams and other community leaders."
+
+  - context: |
+      Overview of AWS Community Builders:
+      AWS Community Builders is a program that offers participants access to exclusive resources, mentorship opportunities, and a platform to share their expertise with a broader audience. It aims to support and recognize individuals who are passionate about sharing their AWS knowledge.
+    questions_and_answers:
+      - question: "What is the AWS Community Builders program?"
+        answer: "The AWS Community Builders program offers participants access to exclusive resources, mentorship opportunities, and a platform to share their AWS expertise."
+      - question: "How can I join the AWS Community Builders program?"
+        answer: "You can apply to join the AWS Community Builders program by visiting the AWS Community Builders Official Page and submitting an application."
+      - question: "What are the benefits of being an AWS Community Builder?"
+        answer: "AWS Community Builders gain access to exclusive resources, mentorship opportunities, and a platform to share their expertise with a broader audience."
+
+  - context: |
+      Overview of AWS Community Days:
+      AWS Community Days are community-organized events where AWS enthusiasts gather to share real-world solutions, demos, and best practices. These events provide an opportunity for attendees to learn from AWS experts, network with peers, and gain insights into the latest AWS trends and technologies.
+    questions_and_answers:
+      - question: "What are AWS Community Days?"
+        answer: "AWS Community Days are community-organized events where AWS enthusiasts gather to share real-world solutions, demos, and best practices."
+      - question: "How can I participate in an AWS Community Day?"
+        answer: "You can participate in an AWS Community Day by finding an event near you on the AWS Community Day Overview page and registering to attend."
+      - question: "What can I expect at an AWS Community Day event?"
+        answer: "At an AWS Community Day event, you can expect to learn from AWS experts, network with peers, and gain insights into the latest AWS trends and technologies."
+
+  - context: |
+      Overview of AWS Open Source Contributions:
+      The AWS community actively contributes to open-source projects, sharing tools, libraries, and frameworks that help others succeed with AWS. AWS supports these contributions through initiatives like the AWS Open Source Program, which provides resources and support to open-source contributors.
+    questions_and_answers:
+      - question: "How does the AWS community contribute to open source?"
+        answer: "The AWS community contributes to open-source projects by sharing tools, libraries, and frameworks that help others succeed with AWS."
+      - question: "What is the AWS Open Source Program?"
+        answer: "The AWS Open Source Program is an initiative that provides resources and support to open-source contributors within the AWS community."
+      - question: "How can I get involved in AWS open-source projects?"
+        answer: "You can get involved in AWS open-source projects by exploring AWS-focused repositories on GitHub, checking the AWS Open Source site, and collaborating with peers during community-organized hackathons and workshops."
 
 document_outline: |
   This document briefly introduces the AWS Community Ecosystem, highlighting

@@ -57,7 +57,15 @@ seed_examples:
         answer: "Community leaders are given special recognition during the event for their contributions to the AWS community."
       - question: "Why does AWS re:Invent provide these exclusive benefits to community leaders?"
         answer: "These exclusive benefits are provided to recognize and reward the efforts of community leaders and to enhance their experience at AWS re:Invent."
-
+  - context: |
+      AWS re:Invent offers a variety of workshops and sessions specifically designed for community leaders. These sessions provide in-depth knowledge on AWS services, best practices, and community building strategies, helping leaders to better support their communities.
+    questions_and_answers:
+      - question: "What type of sessions are available for community leaders at AWS re:Invent?"
+        answer: "AWS re:Invent offers workshops and sessions specifically designed for community leaders, focusing on AWS services, best practices, and community building strategies."
+      - question: "How do these sessions benefit community leaders?"
+        answer: "These sessions provide in-depth knowledge and strategies that help community leaders better support their communities."
+      - question: "Are the sessions for community leaders different from the general sessions at AWS re:Invent?"
+        answer: "Yes, the sessions for community leaders are specifically tailored to their needs, focusing on community building and leadership."
 document_outline: |
   This document introduces the various offers and benefits available to community leaders at AWS re:Invent, including the Community Lounge, mixers, discounts, and additional exclusive benefits. It explains how these offers are designed to recognize and reward the efforts of community leaders and to enhance their experience at AWS re:Invent.
 document:

@@ -3,32 +3,54 @@ created_by: your_github_username
 domain: aws_community_ecosystem
 seed_examples:
   - context: |
-      When starting an AWS User Group, it’s important to decide if you want a general AWS group or a specialized group focused on a particular technology or target audience. Below is an overview of different types of AWS user groups and how they typically operate.
+      AWS Container User Groups focus on container technologies like Docker and Kubernetes, and AWS container services such as Amazon ECS, Amazon EKS, and AWS Fargate. These groups are ideal for members who want to dive deep into container orchestration and container-based deployments.
     questions_and_answers:
-      - question: "What are the two main types of AWS User Groups?"
-        answer: "The two main types of AWS User Groups are general AWS user groups and specialized AWS user groups."
-      - question: "Who typically attends a general AWS User Group?"
-        answer: "A general AWS user group attracts beginners exploring AWS, professionals looking to stay current with AWS updates, and enthusiasts who want to network and share experiences."
-      - question: "What are the key benefits of a general AWS User Group?"
-        answer: "Key benefits include broad appeal across multiple AWS services, building a large inclusive community, and a flexible agenda that can adapt to different member interests."
-      - question: "What is the focus of an AWS Container User Group?"
-        answer: "An AWS Container User Group focuses on container technologies like Docker and Kubernetes, and AWS container services such as Amazon ECS, Amazon EKS, and AWS Fargate."
-      - question: "What is the purpose of an AWS Women User Group?"
-        answer: "The purpose of an AWS Women User Group is to support and empower women in the AWS community by providing a safe, inclusive environment to share experiences, network, and learn."
+      - question: "What technologies are discussed in an AWS Container User Group?"
+        answer: "Technologies discussed include Docker, Kubernetes, Amazon ECS, Amazon EKS, and AWS Fargate."
+      - question: "Who benefits from attending an AWS Container User Group?"
+        answer: "Members who want to dive deep into container orchestration and container-based deployments benefit from attending."
+      - question: "What advanced topics might be covered in an AWS Container User Group?"
+        answer: "Advanced topics include microservices architecture and service mesh."
 
   - context: |
-      A general AWS user group covers a broad range of AWS topics and attracts a diverse audience. This group is ideal for bringing together beginners, professionals, and enthusiasts.
+      AWS Women User Groups support and empower women in the AWS community by providing a safe, inclusive environment to share experiences, network, and learn. These groups often feature female speakers and create a supportive space for women in tech.
     questions_and_answers:
-      - question: "What topics are covered in a general AWS User Group?"
-        answer: "A general AWS User Group covers a broad range of AWS topics, including services like EC2, RDS, and Lambda."
-      - question: "Who benefits from attending a general AWS User Group?"
-        answer: "Beginners, professionals, and enthusiasts benefit from attending a general AWS User Group."
-      - question: "Why is a general AWS User Group ideal for building a large community?"
-        answer: "A general AWS User Group is ideal for building a large community because it has broad appeal across multiple AWS services and can attract a diverse audience."
-      - question: "How can the agenda of a general AWS User Group be described?"
-        answer: "The agenda of a general AWS User Group is flexible and can adapt to different member interests."
-      - question: "What is the main advantage of having a broad appeal in a general AWS User Group?"
-        answer: "The main advantage of having a broad appeal is that it can attract a wide range of members, making it easier to build a large and inclusive community."
+      - question: "What is the purpose of an AWS Women User Group?"
+        answer: "The purpose is to support and empower women in the AWS community by providing a safe, inclusive environment."
+      - question: "Who typically speaks at AWS Women User Group events?"
+        answer: "Events often feature female speakers."
+      - question: "What is a key benefit of attending an AWS Women User Group?"
+        answer: "A key benefit is the supportive space it creates for women in tech."
+
+  - context: |
+      AWS User Groups for Startups focus on helping early-stage companies leverage AWS for quick deployment, scaling, and cost management. These groups discuss topics like MVPs on AWS, best practices for limited budgets, and scaling from zero to production.
+    questions_and_answers:
+      - question: "What is the focus of an AWS User Group for Startups?"
+        answer: "The focus is on helping early-stage companies leverage AWS for quick deployment, scaling, and cost management."
+      - question: "What topics are discussed in an AWS User Group for Startups?"
+        answer: "Topics include MVPs on AWS, best practices for limited budgets, and scaling from zero to production."
+      - question: "Who benefits from attending an AWS User Group for Startups?"
+        answer: "Early-stage companies and startup founders benefit from attending."
+
+  - context: |
+      AWS Machine Learning User Groups focus on Amazon SageMaker, AI/ML frameworks on AWS like TensorFlow and PyTorch, and data engineering best practices. These groups are ideal for data scientists, AI/ML enthusiasts, and DevOps engineers working on ML pipelines.
+    questions_and_answers:
+      - question: "What is the focus of an AWS Machine Learning User Group?"
+        answer: "The focus is on Amazon SageMaker, AI/ML frameworks on AWS, and data engineering best practices."
+      - question: "Who benefits from attending an AWS Machine Learning User Group?"
+        answer: "Data scientists, AI/ML enthusiasts, and DevOps engineers working on ML pipelines benefit from attending."
+      - question: "What frameworks are commonly discussed in an AWS Machine Learning User Group?"
+        answer: "Commonly discussed frameworks include TensorFlow and PyTorch."
+
+  - context: |
+      AWS IoT User Groups focus on AWS IoT Core, device management, edge computing, and real-time analytics. These groups are ideal for engineers and developers working on IoT solutions, connected devices, or industrial IoT.
+    questions_and_answers:
+      - question: "What is the focus of an AWS IoT User Group?"
+        answer: "The focus is on AWS IoT Core, device management, edge computing, and real-time analytics."
+      - question: "Who benefits from attending an AWS IoT User Group?"
+        answer: "Engineers and developers working on IoT solutions, connected devices, or industrial IoT benefit from attending."
+      - question: "What topics are commonly discussed in an AWS IoT User Group?"
+        answer: "Commonly discussed topics include device management and edge computing."
 
 document_outline: |
   This document introduces the purpose of different types of AWS User Groups, highlighting their core objectives and benefits. It explains how general and specialized user groups operate, and provides guidance on choosing the right focus for your user group.

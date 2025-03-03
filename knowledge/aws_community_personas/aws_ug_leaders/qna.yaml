@@ -29,7 +29,35 @@ seed_examples:
         answer: "AWS Heroes and Community Builders often take on mentoring roles, sharing their expertise and supporting community members."
       - question: "How do user group leaders engage members during events?"
         answer: "Leaders engage members by facilitating introductions and discussions, ensuring everyone feels connected and included."
+  - context: |
+      Effective community leadership in AWS circles has evolved with input from many experienced organizers, AWS Community Heroes, and the AWS community team. This section covers best practices for AWS community leaders, including knowing your audience, maintaining consistency, fostering an inclusive leadership style, delegating tasks, leveraging AWS support, and recognizing and growing the community.
+    questions_and_answers:
+      - question: "What are some best practices for AWS community leaders?"
+        answer: "Best practices include knowing your audience, maintaining consistency, fostering an inclusive leadership style, delegating tasks, leveraging AWS support, and recognizing and growing the community."
+      - question: "How can AWS community leaders know their audience?"
+        answer: "Leaders can know their audience by polling the group about preferred meetup times and topics, gathering info on members’ AWS experience levels and interests, and tailoring content accordingly."
+      - question: "Why is consistency important for AWS community leaders?"
+        answer: "Consistency is important because it helps build momentum and a habit of attending events. Regular meetups, clear communication, and sharing event details well in advance contribute to a reliable community experience."
 
+  - context: |
+      Building an inclusive and sustainable community is a core trait of effective community leadership. This section discusses the importance of enforcing a code of conduct, encouraging diverse voices, maintaining a community feedback loop, mentoring new leaders, and ensuring the community evolves based on member feedback.
+    questions_and_answers:
+      - question: "Why is enforcing a code of conduct important for AWS community leaders?"
+        answer: "Enforcing a code of conduct ensures the community remains a safe, welcoming space where everyone feels included and encouraged to participate."
+      - question: "How can AWS community leaders encourage diverse voices?"
+        answer: "Leaders can encourage diverse voices by reaching out to underrepresented groups, partnering with diversity-focused tech groups, and ensuring event marketing uses inclusive language and imagery."
+      - question: "What is the role of a community feedback loop in AWS communities?"
+        answer: "A community feedback loop helps ensure the community evolves based on member feedback, encouraging loyalty and active participation while preventing stagnation."
+
+  - context: |
+      AWS values its community leaders and provides various support mechanisms. This section covers the AWS Community Network, mentorship by AWS Heroes and Core Team, resource kits, and events for leaders. These resources help leaders connect, share best practices, and receive support from AWS.
+    questions_and_answers:
+      - question: "What is the AWS Community Network?"
+        answer: "The AWS Community Network is an official portal and Slack where leaders globally connect, share best practices, and ask questions from AWS community managers."
+      - question: "How do AWS Heroes and Core Team support community leaders?"
+        answer: "AWS Heroes and Core Team provide mentorship, advice, and support to new user group leaders, helping them run successful events and grow their communities."
+      - question: "What resources does AWS provide to community leaders?"
+        answer: "AWS provides resource kits, slide templates, credits, merchandise packs, and early access to workshops or demos to help community leaders run events and engage their members."
 document_outline: |
   This document introduces the purpose of the AWS Community, highlighting its core objectives: knowledge sharing and networking. It explains how the community fosters collaboration through events, documentation, forums, and discussion groups, and provides various networking opportunities through meetups, online communities, user groups, and major AWS events.
 document:

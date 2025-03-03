@@ -43,7 +43,25 @@ seed_examples:
         answer: "The Expo at AWS Summits provides opportunities to see solutions from sponsoring partners and interact with AWS booths."
       - question: "How can attendees enhance their skills at AWS Summits?"
         answer: "Attendees can enhance their skills at AWS Summits through hands-on workshops and training sessions."
+  - context: |
+      AWS Summits offer a variety of networking opportunities, allowing attendees to connect with industry peers, AWS partners, and experts. These interactions can lead to valuable collaborations, knowledge sharing, and professional growth.
+    questions_and_answers:
+      - question: "What networking opportunities are available at AWS Summits?"
+        answer: "AWS Summits offer networking opportunities with industry peers, AWS partners, and experts."
+      - question: "Why is networking important at AWS Summits?"
+        answer: "Networking at AWS Summits can lead to valuable collaborations, knowledge sharing, and professional growth."
+      - question: "Who can you connect with at AWS Summits?"
+        answer: "You can connect with industry peers, AWS partners, and experts at AWS Summits."
 
+  - context: |
+      The "Ask the Expert" sessions at AWS Summits provide attendees with the chance to get their questions answered by AWS experts. These sessions are designed to help attendees solve specific challenges and gain deeper insights into AWS services and solutions.
+    questions_and_answers:
+      - question: "What are 'Ask the Expert' sessions at AWS Summits?"
+        answer: "'Ask the Expert' sessions at AWS Summits are opportunities to get questions answered by AWS experts."
+      - question: "What can you gain from 'Ask the Expert' sessions?"
+        answer: "You can gain deeper insights into AWS services and solutions and solve specific challenges."
+      - question: "Who conducts the 'Ask the Expert' sessions?"
+        answer: "'Ask the Expert' sessions are conducted by AWS experts."
 document_outline: |
   This document introduces the purpose of AWS Summits, highlighting their core objectives: learning, thinking big, and making new connections. It explains how the summits provide opportunities to explore emerging technologies, learn best practices, and network with industry peers and experts. It also details the key features of the summits, including the Community Stage, Keynotes, Educational Sessions, and more.
 document:

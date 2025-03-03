@@ -32,7 +32,33 @@ seed_examples:
         answer: "Use an event registration system, decide if the event will be free or low-cost, and promote the event heavily through user groups, social media, AWS mailing lists, and tech media."
       - question: "What should be done on the event day?"
         answer: "Execute like a professional conference and have volunteers for various tasks."
-
+  - context: |
+      Effective marketing and promotion are crucial for the success of an AWS Community Day. Utilize various channels such as social media, email newsletters, and partnerships with local tech communities to spread the word. Highlight unique aspects of the event, such as keynote speakers, workshops, and networking opportunities.
+    questions_and_answers:
+      - question: "What are effective channels for promoting AWS Community Day?"
+        answer: "Effective channels include social media, email newsletters, and partnerships with local tech communities."
+      - question: "How can you highlight the unique aspects of the event?"
+        answer: "Highlight unique aspects such as keynote speakers, workshops, and networking opportunities."
+      - question: "Why is marketing important for AWS Community Day?"
+        answer: "Marketing is important to attract attendees, sponsors, and speakers, ensuring the event's success."
+  - context: |
+      Managing volunteers effectively is key to a smooth event. Volunteers can assist with tasks such as registration, session management, and attendee support. Provide clear instructions, training, and assign specific roles to ensure everyone knows their responsibilities.
+    questions_and_answers:
+      - question: "What tasks can volunteers assist with during AWS Community Day?"
+        answer: "Volunteers can assist with registration, session management, and attendee support."
+      - question: "How should volunteers be managed?"
+        answer: "Provide clear instructions, training, and assign specific roles to ensure everyone knows their responsibilities."
+      - question: "Why is it important to manage volunteers effectively?"
+        answer: "Effective volunteer management ensures a smooth event and enhances the attendee experience."
+  - context: |
+      Post-event activities are essential for maintaining community engagement and gathering feedback. Send thank-you emails to attendees, sponsors, and speakers. Share event highlights and recordings on social media and community platforms. Collect feedback through surveys to improve future events.
+    questions_and_answers:
+      - question: "What should be done after AWS Community Day?"
+        answer: "Send thank-you emails, share event highlights and recordings, and collect feedback through surveys."
+      - question: "How can you maintain community engagement post-event?"
+        answer: "Share event highlights and recordings on social media and community platforms."
+      - question: "Why is collecting feedback important?"
+        answer: "Collecting feedback helps improve future events and addresses any issues attendees may have experienced."
 document_outline: |
   This document provides an overview of AWS Community Day Planning, detailing the steps involved in organizing a Community Day, including forming an organizing committee, planning timeline, venue and logistics, budget and sponsorship, content and agenda, AWS coordination, registrations and attendance, and executing the event on the day.
 document:

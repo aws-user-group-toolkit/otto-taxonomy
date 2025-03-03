@@ -37,7 +37,33 @@ seed_examples:
           - Register for an [AWS Summit](https://aws.amazon.com/events/summits/)
       - question: "Where can I find more information on AWS Community Events?"
         answer: "For more information on AWS Community Events, visit the [official AWS Community page](https://aws.amazon.com/developer/community/)."
-
+  - context: |
+      AWS User Groups are local communities that meet regularly to discuss AWS topics, share best practices, and network. These groups are open to everyone, from beginners to experts.
+    questions_and_answers:
+      - question: "What is the purpose of AWS User Groups?"
+        answer: "The purpose of AWS User Groups is to provide a platform for AWS users to discuss AWS topics, share best practices, and network."
+      - question: "Who can join AWS User Groups?"
+        answer: "AWS User Groups are open to everyone, from beginners to experts."
+      - question: "How often do AWS User Groups meet?"
+        answer: "The frequency of meetings varies by group, but they typically meet regularly."
+  - context: |
+      AWS Community Days are community-organized events that provide a platform for AWS users to come together to network, learn, and share their experiences. These events typically feature technical sessions, workshops, and networking opportunities.
+    questions_and_answers:
+      - question: "What are AWS Community Days?"
+        answer: "AWS Community Days are community-organized events that provide a platform for AWS users to come together to network, learn, and share their experiences."
+      - question: "What activities are typically featured at AWS Community Days?"
+        answer: "These events typically feature technical sessions, workshops, and networking opportunities."
+      - question: "Who organizes AWS Community Days?"
+        answer: "AWS Community Days are organized by AWS enthusiasts and professionals within the community."
+  - context: |
+      AWS Summits are free events hosted by AWS that bring the cloud computing community together to connect, collaborate, and learn about AWS. These events feature keynote speakers, technical sessions, and hands-on workshops.
+    questions_and_answers:
+      - question: "What are AWS Summits?"
+        answer: "AWS Summits are free events hosted by AWS that bring the cloud computing community together to connect, collaborate, and learn about AWS."
+      - question: "What activities are featured at AWS Summits?"
+        answer: "These events feature keynote speakers, technical sessions, and hands-on workshops."
+      - question: "How can I register for an AWS Summit?"
+        answer: "You can register for an AWS Summit by visiting the [AWS Summit page](https://aws.amazon.com/events/summits/)."
 document_outline: |
   This document provides an overview of AWS Community Events, including AWS User Groups, AWS Community Days, AWS Meetups, and AWS Summits. It explains how to get involved and the benefits of participating in these events.
 document:

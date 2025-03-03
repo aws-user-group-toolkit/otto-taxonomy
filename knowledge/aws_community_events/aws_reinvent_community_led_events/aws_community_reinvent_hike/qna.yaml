@@ -41,7 +41,25 @@ seed_examples:
         answer: "More details will be provided closer to the event."
       - question: "What is the goal of the AWS Community re:Invent Hike?"
         answer: "The goal is to make the hike a memorable start to the re:Invent week by providing networking opportunities and a chance to enjoy the natural scenery."
+  - context: |
+      The AWS Community re:Invent Hike is a great way to kick off the re:Invent week. Participants will have the chance to meet and connect with AWS enthusiasts from various regions, enjoy the scenic views of the Nevada desert, and engage in meaningful conversations.
+    questions_and_answers:
+      - question: "What is the AWS Community re:Invent Hike?"
+        answer: "It is a pre:Invent event organized by AWS Community DACH, offering networking opportunities and scenic views of the Nevada desert."
+      - question: "Who can participate in the AWS Community re:Invent Hike?"
+        answer: "AWS community members from all over the globe can participate."
+      - question: "What are the benefits of joining the AWS Community re:Invent Hike?"
+        answer: "Participants can network with AWS enthusiasts, enjoy the Nevada desert, and engage in meaningful conversations."
 
+  - context: |
+      The AWS Community re:Invent Hike offers a unique opportunity to connect with fellow AWS enthusiasts and community members. The event is hosted by AWS Community DACH and takes place in the beautiful desert of Nevada on the weekend before the re:Invent conference.
+    questions_and_answers:
+      - question: "When and where does the AWS Community re:Invent Hike take place?"
+        answer: "The hike takes place in the desert of Nevada on the weekend before the re:Invent conference."
+      - question: "Who is hosting the AWS Community re:Invent Hike?"
+        answer: "The hike is hosted by AWS Community DACH."
+      - question: "What can participants expect from the AWS Community re:Invent Hike?"
+        answer: "Participants can expect networking opportunities, scenic views, and a chance to build lasting relationships within the AWS community."
 document_outline: |
   This document introduces the AWS Community re:Invent Hike, highlighting its purpose, event details, and what participants can expect. It explains how the hike fosters networking and community spirit among AWS enthusiasts and provides information on how to stay connected for updates.
 document:

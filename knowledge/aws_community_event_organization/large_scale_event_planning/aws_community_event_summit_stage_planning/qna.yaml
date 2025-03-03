@@ -3,41 +3,50 @@ created_by: your_github_username
 domain: aws_community_ecosystem
 seed_examples:
   - context: |
-      Organizing the community stage at an AWS Summit involves several key steps. This guide will help you plan and execute the event successfully.
+      Coordination with AWS is essential for organizing the community stage at an AWS Summit. This ensures that all plans are aligned with AWS guidelines and expectations.
     questions_and_answers:
-      - question: "Why is coordination with AWS important for organizing the community stage at an AWS Summit?"
-        answer: "Since the AWS Summit is an official AWS event, close alignment with AWS is crucial. Regular meetings with the AWS event team will ensure that all plans are in sync."
-      - question: "How should speakers be planned for the community stage?"
-        answer: |
-          - Reach out to potential speakers within the community.
-          - Ensure a diverse range of topics and expertise.
-          - Confirm speaker availability and commitment.
-      - question: "What steps are involved in scheduling speakers?"
-        answer: |
-          - Create a detailed schedule for the community stage.
-          - Allocate time slots for each speaker, including Q&A sessions.
-          - Share the schedule with AWS for final approval.
-      - question: "How can volunteers be managed for the event?"
-        answer: |
-          - Identify and recruit volunteers from the community.
-          - Ensure volunteers are available for the entire duration of the event.
-          - Provide training sessions for volunteers.
-          - Assign specific roles and responsibilities to each volunteer.
-      - question: "What marketing materials are needed for the event?"
-        answer: |
-          - Design and print marketing materials such as banners, flyers, and brochures.
-          - Ensure all materials align with AWS branding guidelines.
-          - Plan the transportation of marketing materials to the event venue.
-          - Set up marketing materials at the community stage area.
-      - question: "What are the key steps for on-site coordination?"
-        answer: |
-          - Arrive early to set up the community stage.
-          - Ensure all technical equipment is functioning properly.
-          - Coordinate with AWS staff to address any issues.
-          - Ensure speakers and volunteers are present and prepared.
-          - Collect feedback from speakers, volunteers, and attendees post-event.
-          - Share feedback with AWS for future improvements.
-
+      - question: "Why is it important to have regular meetings with the AWS event team?"
+        answer: "Regular meetings help ensure that all plans are in sync with AWS guidelines and expectations, preventing any last-minute issues."
+      - question: "How can you ensure alignment with AWS branding guidelines?"
+        answer: "Review AWS branding guidelines and ensure all materials and communications adhere to these standards."
+      - question: "What should be discussed in meetings with the AWS event team?"
+        answer: "Discuss event logistics, speaker schedules, marketing materials, and any potential issues that may arise."
+  - context: |
+      Planning speakers for the community stage involves identifying potential speakers, ensuring a diverse range of topics, and confirming their availability and commitment.
+    questions_and_answers:
+      - question: "How do you identify potential speakers within the community?"
+        answer: "Reach out to community members who have expertise in relevant topics and a track record of engaging presentations."
+      - question: "Why is it important to ensure a diverse range of topics and expertise?"
+        answer: "A diverse range of topics and expertise ensures that the event appeals to a broader audience and provides valuable insights."
+      - question: "What steps should be taken to confirm speaker availability and commitment?"
+        answer: "Communicate with potential speakers early, confirm their availability, and secure their commitment through formal agreements."
+  - context: |
+      Managing volunteers is crucial for the smooth execution of the event. This involves recruiting, training, and assigning specific roles to volunteers.
+    questions_and_answers:
+      - question: "How do you recruit volunteers from the community?"
+        answer: "Identify active community members and reach out to them with volunteer opportunities and benefits."
+      - question: "What kind of training should be provided to volunteers?"
+        answer: "Provide training sessions that cover event logistics, roles and responsibilities, and emergency procedures."
+      - question: "How do you ensure volunteers are available for the entire duration of the event?"
+        answer: "Confirm volunteer availability in advance and create a schedule that accommodates their availability."
+  - context: |
+      Preparing marketing materials is essential for promoting the event and ensuring a professional appearance. This includes designing, printing, and setting up materials.
+    questions_and_answers:
+      - question: "What types of marketing materials are needed for the event?"
+        answer: "Banners, flyers, brochures, and digital materials that align with AWS branding guidelines."
+      - question: "How do you ensure all marketing materials align with AWS branding guidelines?"
+        answer: "Review AWS branding guidelines and work with a designer to ensure all materials comply."
+      - question: "What are the logistics involved in transporting marketing materials to the event venue?"
+        answer: "Plan the transportation in advance, considering the size and quantity of materials, and ensure they arrive on time."
+  - context: |
+      On-site coordination is key to ensuring the event runs smoothly. This includes setup, coordination during the event, and post-event activities.
+    questions_and_answers:
+      - question: "What are the key steps for setting up the community stage?"
+        answer: "Arrive early, set up technical equipment, and ensure the stage is ready for speakers and attendees."
+      - question: "How do you coordinate with AWS staff during the event?"
+        answer: "Maintain open communication with AWS staff to address any issues promptly and ensure the event runs smoothly."
+      - question: "What should be done post-event to gather feedback?"
+        answer: "Collect feedback from speakers, volunteers, and attendees, and share it with AWS for future improvements."
 document_outline: |
   This document provides a comprehensive guide for organizing the community stage at an AWS Summit. It covers coordination with AWS, planning and scheduling speakers, managing volunteers, preparing marketing materials, and on-site coordination to ensure a successful event.
 document:

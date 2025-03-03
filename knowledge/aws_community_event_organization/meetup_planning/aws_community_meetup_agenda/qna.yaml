@@ -15,7 +15,42 @@ seed_examples:
         answer: "Yes, Q&A sessions are typically included in the agenda and usually last around 15 minutes."
       - question: "How is time managed during AWS Community Meetups?"
         answer: "Each session is carefully timed to ensure a smooth flow of events, with effective time management and clear communication being key to the success of the meetups."
-
+  - context: |
+      Planning an agenda for each AWS Community Meetup is crucial for its success. The agenda should be published beforehand on the event invite page. A typical agenda might include a welcome and news segment, presentations on AWS topics, Q&A sessions, optional lightning talks or member shout-outs, and a networking session. The welcome segment usually lasts 5-10 minutes, presentations 20-30 minutes each, Q&A sessions 5-10 minutes, and networking sessions 30+ minutes. Effective time management and clear communication are essential.
+    questions_and_answers:
+      - question: "What should be included in the agenda for an AWS Community Meetup?"
+        answer: "The agenda should include a welcome and news segment, presentations on AWS topics, Q&A sessions, optional lightning talks or member shout-outs, and a networking session."
+      - question: "How long should the welcome and news segment last?"
+        answer: "The welcome and news segment usually lasts 5-10 minutes."
+      - question: "What is the typical duration for presentations at AWS Community Meetups?"
+        answer: "Presentations typically last 20-30 minutes each."
+  - context: |
+      AWS Community Meetups often feature a mix of deep-dive presentations and higher-level case studies. It's important to ensure that the topics align with the interests of the members. Early on, organizers might have to rely on themselves or close colleagues to speak. Introductory topics are also valuable as they help new AWS users and provide refreshers for experienced members. Feedback from attendees can help in selecting future topics.
+    questions_and_answers:
+      - question: "What types of presentations are featured at AWS Community Meetups?"
+        answer: "Presentations can include deep-dive sessions on specific AWS services and higher-level case studies."
+      - question: "Who usually speaks at the early AWS Community Meetups?"
+        answer: "Early on, organizers or close colleagues might have to speak."
+      - question: "Are introductory topics valuable at AWS Community Meetups?"
+        answer: "Yes, introductory topics help new AWS users and provide refreshers for experienced members."
+  - context: |
+      Q&A sessions are an integral part of AWS Community Meetups. They typically follow each presentation and last around 5-10 minutes. As an organizer, it's important to be prepared to spark the Q&A by asking a question yourself if the audience is initially shy. This encourages others to participate and ask their own questions. Effective facilitation of Q&A sessions can enhance the overall experience for attendees.
+    questions_and_answers:
+      - question: "When do Q&A sessions typically occur during AWS Community Meetups?"
+        answer: "Q&A sessions typically follow each presentation."
+      - question: "How long do Q&A sessions usually last?"
+        answer: "Q&A sessions usually last around 5-10 minutes."
+      - question: "What should an organizer do if the audience is shy during the Q&A session?"
+        answer: "The organizer should be prepared to ask a question themselves to spark the Q&A and encourage others to participate."
+  - context: |
+      Networking sessions are a valuable part of AWS Community Meetups. They usually occur after the formal talks and can last 30 minutes or more. In-person networking sessions often include pizza, snacks, and drinks provided by a sponsor or host. Virtual networking sessions can be facilitated using breakout rooms or open discussions. Unstructured social time during these sessions helps attendees form connections and discuss what they heard in the talks.
+    questions_and_answers:
+      - question: "When do networking sessions typically occur during AWS Community Meetups?"
+        answer: "Networking sessions usually occur after the formal talks."
+      - question: "How long do networking sessions usually last?"
+        answer: "Networking sessions usually last 30 minutes or more."
+      - question: "What is the value of unstructured social time during networking sessions?"
+        answer: "Unstructured social time helps attendees form connections and discuss what they heard in the talks."
 document_outline: |
   This document provides an overview of the agenda for AWS Community Meetups, detailing the typical duration of each session, the inclusion of Q&A sessions, and the importance of effective time management and clear communication.
 document:

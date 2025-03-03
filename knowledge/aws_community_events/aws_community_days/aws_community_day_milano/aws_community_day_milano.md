@@ -64,9 +64,9 @@ Experience a day filled with cutting-edge technology, inspiring speakers, and en
 Viale Cassala 30, Milano
 
 ### How to Get Here
-- **By Metro:** 🚇 M2 (Green Line): Romolo station, 2-minute walk
-- **By Train:** 🚆 From Milano Centrale or Milano Garibaldi: Take M2 towards Assago/Abbiategrasso to Romolo
-- **By Car:** 🚗 ATM Romolo parking available nearby, easy access from the city ring road
+- **By Metro:** M2 (Green Line): Romolo station, 2-minute walk
+- **By Train:** From Milano Centrale or Milano Garibaldi: Take M2 towards Assago/Abbiategrasso to Romolo
+- **By Car:** ATM Romolo parking available nearby, easy access from the city ring road
 
 ## Code of Conduct
 All attendees, speakers, sponsors, and volunteers at our conference are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.

@@ -1,5 +1,5 @@
 version: 3
-created_by: GitHub Copilot
+created_by: your_github_username
 domain: aws_community_ecosystem
 seed_examples:
   - context: |
@@ -49,7 +49,25 @@ seed_examples:
         answer: "Yes, you can contact the leaders through LinkedIn."
       - question: "Is it possible to reach the AWS User Group Vienna leaders via their Meetup group?"
         answer: "Yes, you can reach the leaders via their Meetup group."
+  - context: |
+      The AWS User Group Vienna is part of a larger network of AWS communities in Austria, including the AWS Women's User Group Vienna and the AWS User Group Linz. These groups provide a platform for AWS enthusiasts to connect, share knowledge, and collaborate on projects. The AWS Women's User Group Vienna focuses on empowering women in tech, while the AWS User Group Linz serves the AWS community in Linz.
+    questions_and_answers:
+      - question: "What other AWS user groups are part of the AWS community in Austria?"
+        answer: "The AWS community in Austria includes the AWS Women's User Group Vienna and the AWS User Group Linz."
+      - question: "What is the focus of the AWS Women's User Group Vienna?"
+        answer: "The AWS Women's User Group Vienna focuses on empowering women in tech."
+      - question: "Where is the AWS User Group Linz located?"
+        answer: "The AWS User Group Linz is located in Linz, Austria."
 
+  - context: |
+      The AWS User Group Vienna covers a wide range of technical areas, including Compute & Serverless, AI & Machine Learning, Security & Compliance, Data & Analytics, Networking & Hybrid, and Infrastructure as Code. The group also focuses on industry-specific solutions and offers various session types such as technical deep-dives, architecture discussions, best practices sharing, live demonstrations, re:Invent recaps, and hands-on workshops.
+    questions_and_answers:
+      - question: "What technical areas does the AWS User Group Vienna cover?"
+        answer: "The AWS User Group Vienna covers Compute & Serverless, AI & Machine Learning, Security & Compliance, Data & Analytics, Networking & Hybrid, and Infrastructure as Code."
+      - question: "What types of sessions are offered by the AWS User Group Vienna?"
+        answer: "The AWS User Group Vienna offers technical deep-dives, architecture discussions, best practices sharing, live demonstrations, re:Invent recaps, and hands-on workshops."
+      - question: "Does the AWS User Group Vienna focus on industry-specific solutions?"
+        answer: "Yes, the AWS User Group Vienna also focuses on industry-specific solutions."
 document_outline: |
   This document introduces the AWS User Group Vienna, detailing its community size, meetup schedule, communication channels, major events, leadership team, and how to become a leader. It also outlines the standard agenda for meetups, talk formats, and technical levels.
 document:

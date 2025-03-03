@@ -3,18 +3,54 @@ created_by: your_github_username
 domain: aws_community_ecosystem
 seed_examples:
   - context: |
-      AWS Community Event Meetups are organized gatherings where AWS enthusiasts, developers, and professionals come together to share knowledge, network, and collaborate on AWS-related topics. These meetups provide a platform for members to learn from each other, discuss the latest AWS services and best practices, and showcase their projects. The events often feature presentations by AWS experts, hands-on workshops, and opportunities for attendees to ask questions and get advice on their AWS projects. Meetups are typically held in various locations around the world, making it easy for community members to participate and connect with others who share their interests in AWS technologies.
+      Planning and executing events is a core function of AWS community engagement – whether it’s a small local meetup or a larger community-led conference. This section provides a detailed guide to event planning in the AWS community context, including regular user group meetups and special events like AWS Community Days. The focus is on best practices for organizing effective, inclusive, and engaging events.
     questions_and_answers:
-      - question: "What are AWS Community Event Meetups?"
-        answer: "AWS Community Event Meetups are organized gatherings where AWS enthusiasts, developers, and professionals come together to share knowledge, network, and collaborate on AWS-related topics."
-      - question: "What activities typically occur at AWS Community Event Meetups?"
-        answer: "Activities at AWS Community Event Meetups often include presentations by AWS experts, hands-on workshops, and opportunities for attendees to ask questions and get advice on their AWS projects."
-      - question: "Who can participate in AWS Community Event Meetups?"
-        answer: "Anyone with an interest in AWS technologies, including enthusiasts, developers, and professionals, can participate in AWS Community Event Meetups."
-      - question: "Where are AWS Community Event Meetups held?"
-        answer: "AWS Community Event Meetups are held in various locations around the world, making it easy for community members to participate and connect with others."
-      - question: "What is the purpose of AWS Community Event Meetups?"
-        answer: "The purpose of AWS Community Event Meetups is to provide a platform for members to learn from each other, discuss the latest AWS services and best practices, and showcase their projects."
+      - question: "What is the focus of this section?"
+        answer: "The focus is on best practices for organizing effective, inclusive, and engaging AWS community events."
+      - question: "What types of events are covered in this section?"
+        answer: "This section covers regular user group meetups and special events like AWS Community Days."
+      - question: "Why is event planning important in the AWS community?"
+        answer: "Event planning is important because it helps in organizing effective, inclusive, and engaging events that foster community engagement."
+
+  - context: |
+      Start by deciding how often to hold meetups (e.g., monthly, bi-monthly) and whether they will be in-person, virtual, or hybrid. Many groups found that a 4-8 week cadence works well – frequent enough to maintain interest but not so frequent that organizers or attendees burn out. Use a poll or questionnaire to identify the best day and time for most members.
+    questions_and_answers:
+      - question: "How often should meetups be held?"
+        answer: "Many groups found that a 4-8 week cadence works well."
+      - question: "What formats can meetups take?"
+        answer: "Meetups can be in-person, virtual, or hybrid."
+      - question: "How can organizers determine the best day and time for meetups?"
+        answer: "Organizers can use a poll or questionnaire to identify the best day and time for most members."
+
+  - context: |
+      Finding a suitable location is often the first big task for an organizer. Ideal venues are accessible, comfortable, and free of charge. Good options include: your own company’s conference room, local co-working spaces, tech company offices, university halls, or community centers.
+    questions_and_answers:
+      - question: "What are some good venue options for in-person events?"
+        answer: "Good options include your own company’s conference room, local co-working spaces, tech company offices, university halls, or community centers."
+      - question: "What should organizers consider when choosing a venue?"
+        answer: "Organizers should consider accessibility, comfort, and cost (ideally free of charge)."
+      - question: "How can organizers find a host for their events?"
+        answer: "Organizers can reach out through their network or LinkedIn to find a host."
+
+  - context: |
+      If events are virtual, pick a platform (Amazon Chime, Zoom, etc.) that can handle your expected audience size. Enable features like screen sharing (for speakers) and Q&A or chat for interactivity. Do a dry run to test audio/video quality.
+    questions_and_answers:
+      - question: "What platforms can be used for virtual events?"
+        answer: "Platforms like Amazon Chime, Zoom, etc. can be used for virtual events."
+      - question: "What features should be enabled for virtual events?"
+        answer: "Features like screen sharing and Q&A or chat should be enabled for interactivity."
+      - question: "Why is it important to do a dry run before the event?"
+        answer: "A dry run helps test audio/video quality and ensures everything runs smoothly during the event."
+
+  - context: |
+      The AWS User Group Vienna is a vibrant community of AWS enthusiasts and professionals in Vienna. They hold regular meetups to share knowledge, network, and discuss the latest in AWS technology. Here’s how they structure their meetups.
+    questions_and_answers:
+      - question: "What is the AWS User Group Vienna?"
+        answer: "The AWS User Group Vienna is a community of AWS enthusiasts and professionals in Vienna."
+      - question: "How often does the AWS User Group Vienna hold meetups?"
+        answer: "They typically hold meetups every 4-6 weeks."
+      - question: "What is the typical format of their meetups?"
+        answer: "Each event usually features one or two main talks of around 30 minutes each, followed by a Q&A session and informal networking."
 
 document_outline: |
   This document introduces AWS Community Event Meetups, highlighting their purpose and activities. It explains how these meetups provide a platform for knowledge sharing, networking, and collaboration among AWS enthusiasts, developers, and professionals. The document also covers the typical activities at these events and the global nature of their locations.

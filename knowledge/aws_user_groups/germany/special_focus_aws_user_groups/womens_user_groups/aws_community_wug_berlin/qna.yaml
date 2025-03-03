@@ -28,6 +28,34 @@ seed_examples:
         answer: "The planning timeline involves date and venue selection two months before, speaker and topic selection four to six weeks before, event publication and promotion three to four weeks before, registration management two weeks before, and a final logistics check one week before the event."
       - question: "What activities are conducted post-event for the AWS Women's User Group Berlin meetups?"
         answer: "Post-event activities include feedback collection and documentation."
+  - context: |
+      The AWS Women's User Group Berlin focuses on creating a safe and inclusive environment for women and FLINTA individuals to learn and grow in the field of AWS cloud computing. The group emphasizes knowledge sharing, professional networking, and career development. The leadership team is committed to fostering a supportive community where members can collaborate and support each other. The group also provides opportunities for members to present their work, share their experiences, and learn from others in the community.
+    questions_and_answers:
+      - question: "What is the focus of the AWS Women's User Group Berlin?"
+        answer: "The focus is on creating a safe and inclusive environment for women and FLINTA individuals to learn and grow in the field of AWS cloud computing."
+      - question: "How does the AWS Women's User Group Berlin support its members?"
+        answer: "The group supports its members through knowledge sharing, professional networking, and career development opportunities."
+      - question: "What opportunities does the AWS Women's User Group Berlin provide for its members?"
+        answer: "The group provides opportunities for members to present their work, share their experiences, and learn from others in the community."
+  - context: |
+      The AWS Women's User Group Berlin is dedicated to supporting the professional growth of its members. The group offers various resources and opportunities for career development, including mentorship programs, workshops, and networking events. The leadership team works closely with industry professionals to provide valuable insights and guidance to members. The group also collaborates with other AWS user groups and organizations to expand its reach and impact.
+    questions_and_answers:
+      - question: "How does the AWS Women's User Group Berlin support professional growth?"
+        answer: "The group supports professional growth through mentorship programs, workshops, and networking events."
+      - question: "Who does the AWS Women's User Group Berlin collaborate with?"
+        answer: "The group collaborates with other AWS user groups and organizations to expand its reach and impact."
+      - question: "What resources does the AWS Women's User Group Berlin offer for career development?"
+        answer: "The group offers resources such as mentorship programs, workshops, and networking events for career development."
+  - context: |
+      The AWS Women's User Group Berlin is committed to fostering a culture of continuous learning and development. The group organizes various events and activities that focus on technical education, soft skills development, and career growth. Members are encouraged to actively participate in these events and contribute to the community by sharing their knowledge and experiences. The group also provides a platform for members to showcase their work and gain recognition within the AWS community.
+    questions_and_answers:
+      - question: "What is the culture of the AWS Women's User Group Berlin?"
+        answer: "The culture is focused on continuous learning and development."
+      - question: "What types of events does the AWS Women's User Group Berlin organize?"
+        answer: "The group organizes events focusing on technical education, soft skills development, and career growth."
+      - question: "How can members contribute to the AWS Women's User Group Berlin?"
+        answer: "Members can contribute by actively participating in events and sharing their knowledge and experiences."
+
 document_outline: |
   This document introduces the AWS Women's User Group Berlin, highlighting its core objectives: knowledge sharing, professional networking, and career development. It explains how the community fosters collaboration through events, documentation, forums, and discussion groups, and provides various networking opportunities through meetups, online communities, user groups, and major AWS events.
 document:
