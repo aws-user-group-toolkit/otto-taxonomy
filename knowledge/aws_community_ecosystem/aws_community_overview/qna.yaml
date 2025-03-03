@@ -65,6 +65,6 @@ document_outline: |
   This document provides an overview of the AWS Community Ecosystem, highlighting its core principles, global reach, volunteer-driven initiatives, key programs, community events, open-source contributions, and the benefits of participation.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_ecosystem/aws_community_overview/aws_community_overview.md

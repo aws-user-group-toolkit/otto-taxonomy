@@ -55,6 +55,6 @@ document_outline: |
   This document provides detailed information about AWS Community Day CZ, including the event date, location, agenda, organizers, sponsorship levels, code of conduct, and registration details.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_events/aws_community_days/aws_community_day_prague/aws_community_day_prague.md

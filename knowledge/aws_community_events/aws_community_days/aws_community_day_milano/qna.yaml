@@ -58,6 +58,6 @@ document_outline: |
   This document provides details about AWS Community Day Italy 2025, including the event schedule, keynote speaker, session topics, speakers, sponsors, and venue information. It highlights the purpose of the event, which is to explore the future of cloud computing through technology sessions, networking opportunities, and expert insights.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_events/aws_community_days/aws_community_day_milano/aws_community_day_milano.md

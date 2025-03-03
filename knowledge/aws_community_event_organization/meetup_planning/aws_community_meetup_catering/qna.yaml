@@ -56,6 +56,6 @@ document_outline: |
   This document provides detailed guidance on organizing catering for AWS Community Meetups. It covers key considerations such as dietary preferences, vendor coordination, food quantity planning, meal scheduling, setup and cleanup, budget management, and the importance of attendee feedback.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_event_organization/meetup_planning/aws_community_meetup_catering/aws_community_meetup_catering.md

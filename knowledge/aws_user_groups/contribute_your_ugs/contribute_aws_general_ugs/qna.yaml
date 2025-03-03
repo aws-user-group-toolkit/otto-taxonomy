@@ -74,6 +74,6 @@ document_outline: |
   This document introduces the purpose of general AWS user groups, highlighting their core objectives: knowledge sharing and networking. It explains how the AWS User Group Vienna team initiated a knowledge base template and the role of Project OTTO in documenting best practices and event planning guides.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_user_groups/contribute_your_ugs/contribute_aws_general_ugs/contribute_aws_general_ugs.md

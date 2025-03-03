@@ -56,6 +56,6 @@ document_outline: |
   This document introduces AWS Community Event Meetups, highlighting their purpose and activities. It explains how these meetups provide a platform for knowledge sharing, networking, and collaboration among AWS enthusiasts, developers, and professionals. The document also covers the typical activities at these events and the global nature of their locations.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_event_organization/meetup_planning/aws_community_event_meetups/aws_community_event_meetups.md

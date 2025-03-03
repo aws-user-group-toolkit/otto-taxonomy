@@ -56,6 +56,6 @@ document_outline: |
   This document provides a detailed guide on scheduling an AWS Community Meetup on meetup.com, covering key steps such as creating an account, proposing a new event, choosing a suitable date and time, promoting the event, and preparing an engaging agenda.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_event_organization/meetup_planning/aws_community_meetup_scheduling/aws_community_meetup_scheduling.md

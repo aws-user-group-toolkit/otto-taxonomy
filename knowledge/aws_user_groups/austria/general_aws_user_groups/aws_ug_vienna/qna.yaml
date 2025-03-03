@@ -72,6 +72,6 @@ document_outline: |
   This document introduces the AWS User Group Vienna, detailing its community size, meetup schedule, communication channels, major events, leadership team, and how to become a leader. It also outlines the standard agenda for meetups, talk formats, and technical levels.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_user_groups/austria/general_aws_user_groups/aws_ug_vienna/aws_ug_vienna.md

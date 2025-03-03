@@ -76,6 +76,6 @@ document_outline: |
   This document introduces the purpose of the AWS Community, highlighting its core objectives: knowledge sharing and networking. It explains how the community fosters collaboration through events, documentation, forums, and discussion groups, and provides various networking opportunities through meetups, online communities, user groups, and major AWS events.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_events/aws_reinvent_community_led_events/aws_community_reinvent_women_empower/aws_community_reinvent_women_empower.md

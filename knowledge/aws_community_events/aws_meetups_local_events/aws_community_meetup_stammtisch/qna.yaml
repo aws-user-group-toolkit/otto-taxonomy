@@ -76,6 +76,6 @@ document_outline: |
   This document introduces the concept of a Stammtisch and its application within the AWS community. It explains how to organize an AWS Community Stammtisch, the benefits of such events, and tips for ensuring a successful and enjoyable gathering.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_events/aws_meetups_local_events/aws_community_meetup_stammtisch/aws_community_meetup_stammtisch.md

@@ -63,6 +63,6 @@ document_outline: |
   This document introduces the AWS Community Leadership Principles, highlighting key principles such as Customer Obsession, Ownership, and Learn and Be Curious. It explains how these principles guide leaders in fostering a collaborative and inclusive community.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_personas/aws_community_leadership/aws_community_leadership.md

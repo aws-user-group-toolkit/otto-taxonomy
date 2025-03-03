@@ -76,6 +76,6 @@ document_outline: |
   This document introduces the concept of AWS Community User Group GameDays, explaining their purpose, organization, and benefits. It provides detailed steps for initiating and hosting both collaborative and local GameDays, and highlights an example initiative. Additional resources and next steps for interested User Groups are also provided.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_events/aws_meetups_local_events/aws_community_meetup_gamedays/aws_community_meetup_gameday.md

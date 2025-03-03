@@ -70,6 +70,6 @@ document_outline: |
   This document introduces the various offers and benefits available to community leaders at AWS re:Invent, including the Community Lounge, mixers, discounts, and additional exclusive benefits. It explains how these offers are designed to recognize and reward the efforts of community leaders and to enhance their experience at AWS re:Invent.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_events/aws_reinvent_community_led_events/aws_community_reinvent/aws_community_reinvent.md

@@ -52,6 +52,6 @@ document_outline: |
   This document introduces the two primary types of large-scale events in the AWS community: Community Days and Community Stages at Summits. It explains the purpose, structure, and benefits of each event type, highlighting their role in fostering a vibrant and engaged AWS community.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_event_organization/large_scale_event_planning/aws_community_event_large/aws_community_event_large.md

@@ -52,6 +52,6 @@ document_outline: |
   This document introduces the concept of a pubquiz and explains how AWS user group leaders can leverage the pubquiz format to create interactive and educational events for their community. It highlights the benefits of an AWS Community Pubquiz and provides tips for organizing a successful event.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_events/aws_meetups_local_events/aws_community_meetup_pubquizes/aws_community_meetup_pubquiz.md

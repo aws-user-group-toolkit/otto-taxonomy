@@ -51,6 +51,6 @@ document_outline: |
   This document introduces the User Group First-Timer badge, highlighting its purpose, design, and implementation. It explains how the badge fosters a welcoming environment for newcomers and provides tips for effective usage. The document also acknowledges the community project initiated by the AWS Meetup Vienna, Austria.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_personas/aws_ug_firsttimers/aws_ug_firsttimer.md

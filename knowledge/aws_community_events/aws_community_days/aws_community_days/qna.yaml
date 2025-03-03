@@ -57,6 +57,6 @@ document_outline: |
   This document introduces AWS Community Days, highlighting their purpose, key features, and the benefits they offer to attendees. It explains how these community-led events foster a sense of community, provide learning opportunities, and offer networking chances, all while being accessible to a broad audience.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_events/aws_community_days/aws_community_days/aws_community_days.md

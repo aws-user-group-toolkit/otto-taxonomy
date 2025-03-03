@@ -76,6 +76,6 @@ document_outline: |
   This document introduces the role of the User Group Speaker, highlighting their responsibilities, the significance of the speaker badge, best practices for presentations, the implementation of the badge system, and the importance of feedback and continuous improvement.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_personas/aws_ug_speakers/aws_ug_speaker.md

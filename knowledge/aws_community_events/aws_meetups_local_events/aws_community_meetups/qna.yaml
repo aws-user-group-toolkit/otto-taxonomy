@@ -76,6 +76,6 @@ document_outline: |
   This document introduces the purpose of AWS User Group Meetups, highlighting their benefits such as learning, networking, and inspiration. It explains how to find and join AWS User Groups and provides examples of special user groups focused on specific technologies, industries, or communities.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_events/aws_meetups_local_events/aws_community_meetups/aws_community_meetup.md

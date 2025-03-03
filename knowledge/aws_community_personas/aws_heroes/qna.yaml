@@ -76,6 +76,6 @@ document_outline: |
   This document introduces the AWS Heroes program, explaining its purpose, the selection process, and the various specializations of AWS Heroes. It highlights the activities and contributions of AWS Heroes, the benefits they receive, and their commitment to the community.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_personas/aws_heroes/aws_hero.md

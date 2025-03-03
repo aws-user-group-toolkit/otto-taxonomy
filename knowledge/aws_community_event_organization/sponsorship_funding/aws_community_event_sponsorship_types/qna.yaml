@@ -85,6 +85,6 @@ document_outline: |
   This document introduces the various types of sponsorships available for AWS community events, including Financial, In-Kind, Media, Venue, and Speaker Sponsorships. It also provides examples of sponsorship packages and special sponsorship opportunities.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_event_organization/sponsorship_funding/aws_community_event_sponsorship_types/aws_community_event_sponsorship_types.md

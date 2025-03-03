@@ -80,6 +80,6 @@ document_outline: |
   This document introduces the importance of Women's User Groups in tech, highlighting their role in representation, professional development, and community building. It provides detailed information about specific AWS Women's User Groups in Berlin, Munich, and Vienna, and outlines best practices for managing such groups, including organization structure, event planning, community engagement, and sustainability.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_user_groups/special_focus_aws_user_groups/womens_user_groups/aws_womens_ugs/aws_womens_ugs.md

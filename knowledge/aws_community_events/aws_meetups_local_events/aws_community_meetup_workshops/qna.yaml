@@ -64,6 +64,6 @@ document_outline: |
   This document introduces the purpose of user group workshops, highlighting their core objectives: collaborative learning and knowledge sharing. It explains how these workshops are organized, their key features, and how individuals can participate. Additionally, it provides an example of an AWS User Group Berlin workshop focused on Machine Learning in Production.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_events/aws_meetups_local_events/aws_community_meetup_workshops/aws_community_meetup_workshop.md

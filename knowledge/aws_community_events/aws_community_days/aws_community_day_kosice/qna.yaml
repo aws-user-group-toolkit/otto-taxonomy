@@ -76,6 +76,6 @@ document_outline: |
   This document introduces AWS Community Day Košice 2025, highlighting its key details, event highlights, tracks and sessions, keynote, speakers, and organizers. It provides a comprehensive overview of the event, including the date, location, and schedule, as well as the various opportunities for learning and networking.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_events/aws_community_days/aws_community_day_kosice/aws_community_day_kosice.md

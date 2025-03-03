@@ -63,6 +63,6 @@ document_outline: |
   This document provides an overview of AWS Community Day Planning, detailing the steps involved in organizing a Community Day, including forming an organizing committee, planning timeline, venue and logistics, budget and sponsorship, content and agenda, AWS coordination, registrations and attendance, and executing the event on the day.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_event_organization/large_scale_event_planning/aws_community_event_cd_planning/aws_community_event_cd_planning.md

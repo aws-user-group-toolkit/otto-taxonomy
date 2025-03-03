@@ -70,6 +70,6 @@ document_outline: |
   This document introduces the importance of women in tech meetups and gatherings at conferences like AWS re:Invent. It provides tips on networking before the event, describes what to expect at these gatherings, and offers creative ideas for organizing engaging activities.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_events/aws_reinvent_community_led_events/aws_community_reinvent_women_get_togethers/aws_community_reinvent_women_get_togethers.md

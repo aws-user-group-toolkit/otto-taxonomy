@@ -76,6 +76,6 @@ document_outline: |
   This document introduces the purpose of AWS Cloud Clubs, highlighting their core objectives: learning and community building. It explains the role of Cloud Captains, the focus of club activities, the cohort-based program structure, and the benefits of joining AWS Cloud Clubs.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_personas/aws_cloud_club_captains/aws_cloud_club_captain.md

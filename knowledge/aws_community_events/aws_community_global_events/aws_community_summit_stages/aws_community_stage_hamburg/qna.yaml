@@ -66,6 +66,6 @@ document_outline: |
   This document introduces the AWS Community Lounge at the AWS Summit Hamburg, highlighting its purpose, organization, and the opportunities it provides for attendees and speakers. It explains how the Community Lounge fosters knowledge sharing and networking among AWS users and provides details on how to participate and register for the event. It also mentions that the AWS Community Stage and Lounge, including the content, speakers, and volunteers, is organized by the Förderverein AWS Community DACH, with speakers sourced via Sessionize.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_events/aws_community_global_events/aws_community_summit_stages/aws_community_stage_hamburg/aws_community_stage_hamburg.md

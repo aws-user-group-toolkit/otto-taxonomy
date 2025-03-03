@@ -64,6 +64,6 @@ document_outline: |
   This document introduces the AWS Community re:Invent Hike, highlighting its purpose, event details, and what participants can expect. It explains how the hike fosters networking and community spirit among AWS enthusiasts and provides information on how to stay connected for updates.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_events/aws_reinvent_community_led_events/aws_community_reinvent_hike/aws_community_reinvent_hike.md

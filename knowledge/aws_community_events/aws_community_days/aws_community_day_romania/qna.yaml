@@ -58,6 +58,6 @@ document_outline: |
   This document introduces AWS Community Day Romania 2024, highlighting its purpose, key features, notable speakers, and opportunities for networking and learning. It provides detailed information about the event's agenda, speakers, and sponsorship opportunities.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_events/aws_community_days/aws_community_day_romania/aws_community_day_romania.md

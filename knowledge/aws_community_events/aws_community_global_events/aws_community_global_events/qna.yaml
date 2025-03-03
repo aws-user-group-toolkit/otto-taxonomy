@@ -90,6 +90,6 @@ document_outline: |
   This document introduces various AWS Community Global Events, highlighting their purposes and activities. It explains how these events foster collaboration, knowledge sharing, and skill development among AWS users through conferences, community stages, interactive exercises, virtual talks, and webinars.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_events/aws_community_global_events/aws_community_global_events/aws_community_global_events.md

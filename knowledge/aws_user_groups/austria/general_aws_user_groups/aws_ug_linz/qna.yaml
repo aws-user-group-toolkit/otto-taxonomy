@@ -76,6 +76,6 @@ document_outline: |
   This document provides detailed information about the AWS User Group Linz, including community details, event formats, leadership roles, and content focus. It explains the group's objectives, event planning timeline, and guidelines for speakers.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_user_groups/austria/general_aws_user_groups/aws_ug_linz/aws_ug_linz.md

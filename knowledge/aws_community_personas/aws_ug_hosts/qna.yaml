@@ -76,6 +76,6 @@ document_outline: |
   This document introduces the role of the User Group Host, highlighting their responsibilities and the significance of their contribution. It explains how hosts provide the venue, refreshments, and support during the event, and engage with attendees to foster networking opportunities. The document also outlines best practices for hosts to ensure a successful meetup experience.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_personas/aws_ug_hosts/aws_ug_host.md

@@ -56,6 +56,6 @@ document_outline: |
   This document introduces the purpose of different types of AWS User Groups, highlighting their core objectives and benefits. It explains how general and specialized user groups operate, and provides guidance on choosing the right focus for your user group.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_user_groups/special_focus_aws_user_groups/aws_community_special_focus_ugs/aws_community_special_focus_ugs.md

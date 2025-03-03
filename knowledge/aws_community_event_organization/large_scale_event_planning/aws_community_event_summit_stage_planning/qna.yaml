@@ -51,6 +51,6 @@ document_outline: |
   This document provides a comprehensive guide for organizing the community stage at an AWS Summit. It covers coordination with AWS, planning and scheduling speakers, managing volunteers, preparing marketing materials, and on-site coordination to ensure a successful event.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_event_organization/large_scale_event_planning/aws_community_event_summit_stage_planning/aws_community_event_summit_stage_planning.md

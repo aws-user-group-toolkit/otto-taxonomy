@@ -76,6 +76,6 @@ document_outline: |
   This document introduces the role and responsibilities of AWS User Group Members, highlighting their importance in discussions, networking, providing feedback, and continuous learning. It explains how their active participation and engagement contribute to the success of meetups and the overall community.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_personas/aws_ug_members/aws_ug_member.md

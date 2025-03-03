@@ -57,6 +57,6 @@ document_outline: |
   This document introduces the AWS Community Open Source, highlighting the development and contribution to open source projects related to AWS. It explains how community-led tools enhance AWS services and provides steps for getting involved in the community. Additionally, it lists resources for further exploration.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_ecosystem/aws_community_open_source/aws_community_open_source.md

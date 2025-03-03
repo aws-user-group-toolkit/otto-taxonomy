@@ -52,6 +52,6 @@ document_outline: |
   This document introduces the AWS Community Day Central and Eastern Europe, highlighting its purpose, event details, agenda, speakers, registration process, sponsors, and contact information. It explains how the event fosters knowledge sharing and networking among AWS enthusiasts, developers, and experts in the region. Additionally, it provides an overview of the AWS Community CEE, its purpose, partner user groups, and key team members.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_events/aws_community_days/aws_community_day_cee/aws_community_day_cee.md

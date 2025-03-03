@@ -76,6 +76,6 @@ document_outline: |
   This document introduces the AWS Community Builders program, highlighting its purpose, the role of Community Builders, the resources provided, the application process, and the activities of Community Builders. It explains how the program fosters knowledge sharing and networking among AWS enthusiasts worldwide.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_personas/aws_community_builders/aws_community_builder.md

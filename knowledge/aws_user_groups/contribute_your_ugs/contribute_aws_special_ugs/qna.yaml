@@ -66,6 +66,6 @@ document_outline: |
   This document introduces the purpose of special AWS user groups, highlighting their focus on specific technologies, demographics, or interests. It explains how these groups organize targeted events to cater to their unique audience, providing a platform for knowledge sharing, networking, and collaboration.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_user_groups/contribute_your_ugs/contribute_aws_special_ugs/contribute_aws_special_ugs.md

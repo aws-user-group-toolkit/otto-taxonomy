@@ -76,6 +76,6 @@ document_outline: |
   This document introduces the AWS Women's User Group Vienna, highlighting its unique features, event planning, leadership structure, and content focus. It provides detailed information on the group's objectives, event formats, planning timeline, leadership responsibilities, and technical areas of focus.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_user_groups/austria/special_focus_aws_user_groups/womens_user_groups/aws_community_wug_vienna/aws_community_wug_vienna.md

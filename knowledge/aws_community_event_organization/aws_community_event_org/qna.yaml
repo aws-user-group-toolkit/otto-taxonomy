@@ -68,6 +68,6 @@ document_outline: |
   This document provides an overview of AWS Community Events, including AWS User Groups, AWS Community Days, AWS Meetups, and AWS Summits. It explains how to get involved and the benefits of participating in these events.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_event_organization/aws_community_event_org/aws_community_event_org.md

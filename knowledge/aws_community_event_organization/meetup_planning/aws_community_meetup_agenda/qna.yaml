@@ -55,6 +55,6 @@ document_outline: |
   This document provides an overview of the agenda for AWS Community Meetups, detailing the typical duration of each session, the inclusion of Q&A sessions, and the importance of effective time management and clear communication.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_event_organization/meetup_planning/aws_community_meetup_agenda/aws_community_meetup_agenda.md

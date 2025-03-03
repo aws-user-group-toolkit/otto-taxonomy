@@ -76,6 +76,6 @@ document_outline: |
   This document introduces the AWS Ambassador Program, highlighting its purpose, roles, activities, benefits, and distinction from the AWS Heroes Program. It explains how the program empowers AWS experts within partner companies to drive cloud adoption and proficiency, and how Ambassadors contribute to the community through knowledge sharing and engagement.
 document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
-  commit: latest
+  commit: HEAD
   patterns:
     - knowledge/aws_community_personas/aws_partner_ambassador/aws_partner_ambassador.md
