@@ -21,7 +21,7 @@ seed_examples:
       - question: "Where can templates for printing badges be found?"
         answer: "Templates for printing badges on Avery L3415 stickers are available in the templates directory."
   - context: |
-      The **User Group First-Timer** badge serves as an invitation for existing members to welcome them and for leaders to ensure they have a great first experience. The primary goal of the First-Timer badge is to foster a welcoming and inclusive environment for newcomers. 
+      The **User Group First-Timer** badge serves as an invitation for existing members to welcome them and for leaders to ensure they have a great first experience. The primary goal of the First-Timer badge is to foster a welcoming and inclusive environment for newcomers.
     questions_and_answers:
       - question: "What is the purpose of the User Group First-Timer badge?"
         answer: "The purpose of the First-Timer badge is to foster a welcoming and inclusive environment for newcomers by encouraging experienced members to engage with them and make them feel part of the community."
@@ -30,7 +30,7 @@ seed_examples:
       - question: "How can badges be printed for AWS User Group meetups?"
         answer: "Templates for printing badges on Avery L3415 stickers are available in the templates directory, and high-quality PNG files are available for digital use or professional printing."
   - context: |
-      The **User Group First-Timer** badge is designed to identify attendees who are participating in an AWS User Group meetup for the first time. This badge serves as an invitation for existing members to welcome them and for leaders to ensure they have a great first experience. 
+      The **User Group First-Timer** badge is designed to identify attendees who are participating in an AWS User Group meetup for the first time. This badge serves as an invitation for existing members to welcome them and for leaders to ensure they have a great first experience.
     questions_and_answers:
       - question: "What is the primary goal of the First-Timer badge?"
         answer: "The primary goal of the First-Timer badge is to foster a welcoming and inclusive environment for newcomers."
