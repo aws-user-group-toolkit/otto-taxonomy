@@ -78,4 +78,4 @@ document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
   commit: HEAD
   patterns:
-    - knowledge/aws_user_groups/austria/special_focus_aws_user_groups/womens_user_groups/aws_community_wug_vienna/aws_community_wug_vienna.md
+    - knowledge/aws_user_groups/austria/special_focus_aws_user_groups/aws_wug_vienna/aws_wug_vienna.md
