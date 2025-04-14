@@ -68,6 +68,245 @@ seed_examples:
         answer: "The AWS User Group Vienna offers technical deep-dives, architecture discussions, best practices sharing, live demonstrations, re:Invent recaps, and hands-on workshops."
       - question: "Does the AWS User Group Vienna focus on industry-specific solutions?"
         answer: "Yes, the AWS User Group Vienna also focuses on industry-specific solutions."
+
+
+  - context: |
+      AWS User Group Vienna meetups are structured to provide a balance of technical learning and networking opportunities. The agenda typically includes two talks, each lasting 30–40 minutes, with a networking break in between. The first talk starts at 18:10 after a welcome and sponsor introduction, and the second talk begins at 19:10. The meetup concludes with closing remarks and open networking.
+    questions_and_answers:
+      - question: "What is the typical timing for an AWS User Group Vienna meetup agenda?"
+        answer: "A typical agenda includes: 17:00 - Entry & Networking, 18:00 - Welcome and Introduction, 18:10 - First Talk, 18:50 - Networking Break, 19:10 - Second Talk, 19:50 - Closing, 20:00 - Open Networking."
+      - question: "What time does the first talk usually start at AWS User Group Vienna?"
+        answer: "The first talk usually starts at 18:10, following the welcome and introductions."
+      - question: "What time does the networking break usually start at AWS User Group Vienna?"
+        answer: "The networking break typically starts at 18:50, right after the first talk."
+
+  - context: |
+      The AWS User Group Vienna encourages diversity in speaker selection and topics. Talks are chosen based on technical depth, relevance to AWS, and community interest. Speakers from AWS, partners, and the broader community are welcome, provided their content aligns with the group's focus on AWS technologies and best practices.
+    questions_and_answers:
+      - question: "What kind of talks are accepted at AWS User Group Vienna?"
+        answer: "Talks about real-world AWS usage, architecture lessons, DevOps, AI/ML, data, and cloud-native technologies are accepted. Talks should be vendor-neutral or show AWS integration."
+      - question: "Can AWS employees give talks at AWS User Group Vienna?"
+        answer: "Yes, AWS employees are welcome to present, especially when sharing technical knowledge or showcasing AWS services."
+      - question: "Can I submit a talk even if I’ve never spoken at a meetup before at AWS User Group Vienna?"
+        answer: "Yes, first-time speakers are welcome and encouraged! The community is supportive, and organizers can help you prepare if needed."
+
+  - context: |
+      Sponsorships play a vital role in supporting AWS User Group Vienna meetups. Sponsors typically provide the venue, food, and drinks, and they are acknowledged during the event. Talks by sponsors are allowed if they are vendor-neutral and provide technical value to the community.
+    questions_and_answers:
+      - question: "What does a sponsorship typically include for AWS User Group Vienna?"
+        answer: "Sponsorship usually includes hosting the meetup at your office, covering snacks and drinks, and giving a short welcome intro at the beginning of the event."
+      - question: "Can a sponsor give a talk at the AWS User Group Vienna event?"
+        answer: "Yes, but only if the talk is vendor-neutral, technically valuable, and fits the event's diversity and content criteria."
+      - question: "How can we apply to become a sponsor for a future AWS User Group Vienna meetup?"
+        answer: "To become a sponsor, you can contact the AWS User Group Vienna organizers via Meetup.com or LinkedIn, or by reaching out through your AWS Partner Manager if applicable."
+
+  - context: |
+      The AWS User Group Vienna encourages first-time speakers and provides support to help them prepare. Talks are selected based on technical depth, relevance to AWS, and community interest. The group values diversity in speakers and topics, ensuring a wide range of perspectives and expertise.
+    questions_and_answers:
+      - question: "Are first-time speakers welcome at AWS User Group Vienna?"
+        answer: "Yes, first-time speakers are welcome and encouraged! The community is supportive, and organizers can help you prepare if needed."
+      - question: "What criteria are used to select talks for AWS User Group Vienna?"
+        answer: "Talks are selected based on technical depth, relevance to AWS, and community interest."
+      - question: "How does AWS User Group Vienna ensure diversity in speakers?"
+        answer: "The group prioritizes diversity in speakers by encouraging participation from different companies, backgrounds, and genders."
+
+  - context: |
+      AWS User Group Vienna meetups are open to everyone, regardless of their professional background or AWS experience. The group aims to create an inclusive environment where beginners and experts alike can learn, network, and share knowledge about AWS technologies.
+    questions_and_answers:
+      - question: "Can beginners attend AWS User Group Vienna meetups?"
+        answer: "Yes, AWS User Group Vienna welcomes attendees of all skill levels, including beginners."
+      - question: "Do I need to use AWS professionally to attend AWS User Group Vienna?"
+        answer: "No, the meetups are open to anyone interested in cloud technology, regardless of their professional background."
+      - question: "What kind of environment does AWS User Group Vienna aim to create?"
+        answer: "The group aims to create an inclusive environment where attendees can learn, network, and share knowledge about AWS technologies."
+
+  - context: |
+      AWS User Group Vienna values community-driven content and avoids sales-oriented presentations. Talks should focus on technical insights, real-world use cases, and lessons learned, providing value to the audience while maintaining a vendor-neutral approach.
+    questions_and_answers:
+      - question: "What type of content is preferred for talks at AWS User Group Vienna?"
+        answer: "Talks should focus on technical insights, real-world use cases, and lessons learned, avoiding sales-oriented content."
+      - question: "Are vendor-neutral talks encouraged at AWS User Group Vienna?"
+        answer: "Yes, vendor-neutral talks are encouraged as long as they focus on AWS technologies or integrations."
+      - question: "Can I present a talk about AWS cost optimization at AWS User Group Vienna?"
+        answer: "Yes, cost optimization is a highly relevant topic. Talks should focus on practical strategies, tools like AWS Cost Explorer, or real-world examples of reducing AWS costs effectively."
+
+
+  - context: |
+      AWS User Group Vienna meetups are designed to provide a structured yet engaging experience for attendees. The agenda typically includes entry and networking, a welcome and sponsor introduction, two technical talks, and a closing segment. The group also organizes pre-meetup events like GameDays and informal Stammtisch gatherings during summer months.
+    questions_and_answers:
+      - question: "What is the usual start time for AWS User Group Vienna meetups?"
+        answer: "The usual start time for AWS User Group Vienna meetups is 18:00, but attendees are encouraged to arrive by 17:50 for a smooth start after the networking session."
+      - question: "When should attendees arrive at the AWS User Group Vienna meetup?"
+        answer: "Attendees should arrive by 17:00 for entry and networking. Talks typically start at 18:00, so arriving early ensures a smooth beginning."
+      - question: "Do all AWS User Group Vienna meetups follow the same schedule for talks and networking?"
+        answer: "Most AWS User Group Vienna meetups follow a structure of entry and networking at 17:00, welcome at 18:00, followed by two talks separated by a networking break, and ending with open networking around 20:00."
+      - question: "Can we have the first talk earlier than 18:00 at AWS User Group Vienna?"
+        answer: "No, the first talk usually starts at 18:10 after a short welcome. It’s important to start introductions around 18:00 to stay on schedule. But we also have the option to schedule a pre-meetup event that typically starts at 15:00."
+      - question: "How is the agenda structured when we have a pre-event like GameDay at AWS User Group Vienna?"
+        answer: "When there's a pre-event like GameDay, it usually starts at 15:00, followed by the regular meetup entry at 17:00 and talks starting at 18:00."
+
+  - context: |
+      The AWS User Group Vienna encourages diverse and high-quality talks that align with the interests of the community. Talks are selected based on technical depth, relevance to AWS, and speaker diversity. The group also supports first-time speakers and welcomes joint presentations.
+    questions_and_answers:
+      - question: "What kind of talks are accepted at AWS User Group Vienna?"
+        answer: "AWS User Group Vienna welcomes technical talks about real-world AWS usage, architecture lessons, DevOps, AI/ML, data, and cloud-native technologies. Talks should be vendor-neutral or show AWS integration if you're from a tech provider."
+      - question: "Can I submit a talk even if I’ve never spoken at a meetup before at AWS User Group Vienna?"
+        answer: "Yes, first-time speakers are welcome and encouraged! The community is supportive, and organizers can help you prepare if needed."
+      - question: "Can I co-present with someone else at AWS User Group Vienna?"
+        answer: "Yes, co-presenting is allowed and often encouraged, especially when it brings diverse perspectives or showcases collaboration between teams or companies."
+      - question: "Can I present a talk that I've already given elsewhere at AWS User Group Vienna?"
+        answer: "Yes, you can present a talk you’ve given before, especially if it hasn’t been shown to the Vienna audience yet. The focus is on delivering value, not exclusivity."
+      - question: "How long should my talk be at AWS User Group Vienna?"
+        answer: "Talks are usually 30 to 40 minutes long. Be sure to leave a few minutes for questions or discussion if your session format allows it."
+
+  - context: |
+      Sponsorships are a key part of AWS User Group Vienna meetups, providing venues, food, and drinks for attendees. Sponsors are acknowledged during the event and have the opportunity to give a short introduction or provide swag, as long as it aligns with the community's vendor-neutral focus.
+    questions_and_answers:
+      - question: "What does a sponsorship typically include for AWS User Group Vienna?"
+        answer: "Sponsorship usually includes hosting the meetup at your office, covering snacks and drinks, and giving a short welcome intro at the beginning of the event. Optionally, you may provide a speaker if the content aligns with our event criteria."
+      - question: "Can a sponsor give a talk at the AWS User Group Vienna event?"
+        answer: "Yes, but only if the talk is vendor-neutral, technically valuable, and fits our diversity and content criteria. Pure sales pitches or marketing talks are not permitted."
+      - question: "How can we apply to become a sponsor for a future AWS User Group Vienna meetup?"
+        answer: "To become a sponsor, you can contact the AWS User Group Vienna organizers via Meetup.com or LinkedIn, or by reaching out through your AWS Partner Manager if applicable."
+      - question: "Can a company sponsor AWS User Group Vienna without providing a venue?"
+        answer: "Yes, if the meetup already has a confirmed venue, companies can still sponsor by covering food, drinks, or swag. Their support will be acknowledged in the agenda and during the welcome intro."
+      - question: "What’s the visibility benefit of sponsoring an AWS User Group Vienna meetup?"
+        answer: "Sponsors get mentioned on Meetup.com, LinkedIn, during the event intro, and on the event agenda. It’s a great way to increase visibility among AWS professionals and potential recruits."
+
+  - context: |
+      The AWS User Group Vienna organizes special events like Stammtisch gatherings during the summer months and re:Invent recap meetups to keep the community engaged. These events provide opportunities for informal networking and discussions about AWS technologies and announcements.
+    questions_and_answers:
+      - question: "What is the Stammtisch format and when is it used at AWS User Group Vienna?"
+        answer: "The Stammtisch format is used during July and August instead of formal meetups. It’s a casual gathering without scheduled talks, focused on community networking and AWS-themed discussions, sometimes combined with pub quizzes or special formats in partnership with other user groups."
+      - question: "What is the re:Invent Recap event about at AWS User Group Vienna?"
+        answer: "The re:Invent Recap at AWS User Group Vienna is a special meetup held in December or January where community members who attended AWS re:Invent share the most important announcements, services, and insights from the event."
+      - question: "What activities take place during Stammtisch events at AWS User Group Vienna?"
+        answer: "Stammtisch events include informal networking, discussions about AWS and cloud technologies, and casual conversations about the community. Attendees enjoy food and drinks in a relaxed setting, fostering connections and idea-sharing."
+      - question: "Are there any talks or presentations during Stammtisch events at AWS User Group Vienna?"
+        answer: "No, Stammtisch events do not include talks or presentations. They are purely informal gatherings focused on networking, community discussions, and enjoying food and drinks together."
+      - question: "How can I stay informed about upcoming Stammtisch events at AWS User Group Vienna?"
+        answer: "You can stay informed by following the AWS User Group Vienna Meetup.com page and subscribing to event notifications. Details about Stammtisch events are posted well in advance."
+
+
+  - context: |
+      AWS User Group Vienna meetups are structured to provide a balance of technical learning and networking opportunities. The agenda typically includes two talks, each lasting 30–40 minutes, with a networking break in between. The first talk starts at 18:10 after a welcome and sponsor introduction, and the second talk begins at 19:10. The meetup concludes with closing remarks and open networking.
+    questions_and_answers:
+      - question: "What is the typical timing for an AWS User Group Vienna meetup agenda?"
+        answer: "A typical agenda includes: 17:00 - Entry & Networking, 18:00 - Welcome and Introduction, 18:10 - First Talk, 18:50 - Networking Break, 19:10 - Second Talk, 19:50 - Closing, 20:00 - Open Networking."
+      - question: "What time does the first talk usually start at AWS User Group Vienna?"
+        answer: "The first talk usually starts at 18:10, following the welcome and introductions."
+      - question: "What time does the networking break usually start at AWS User Group Vienna?"
+        answer: "The networking break typically starts at 18:50, right after the first talk."
+      - question: "What time does the second talk usually start at AWS User Group Vienna?"
+        answer: "The second talk usually starts at 19:10, following the networking break."
+      - question: "What time does the AWS User Group Vienna meetup typically end?"
+        answer: "The meetup typically ends around 20:00, after the thank-you and closing segment. However, attendees are welcome to stay for open networking, which continues until the venue closes."
+
+  - context: |
+      The AWS User Group Vienna encourages diverse and high-quality talks that align with the interests of the community. Talks are selected based on technical depth, relevance to AWS, and speaker diversity. The group also supports first-time speakers and welcomes joint presentations.
+    questions_and_answers:
+      - question: "What kind of talks are accepted at AWS User Group Vienna?"
+        answer: "AWS User Group Vienna welcomes technical talks about real-world AWS usage, architecture lessons, DevOps, AI/ML, data, and cloud-native technologies. Talks should be vendor-neutral or show AWS integration if you're from a tech provider."
+      - question: "Can I submit a talk even if I’ve never spoken at a meetup before at AWS User Group Vienna?"
+        answer: "Yes, first-time speakers are welcome and encouraged! The community is supportive, and organizers can help you prepare if needed."
+      - question: "Can I co-present with someone else at AWS User Group Vienna?"
+        answer: "Yes, co-presenting is allowed and often encouraged, especially when it brings diverse perspectives or showcases collaboration between teams or companies."
+      - question: "Can I present a talk that I've already given elsewhere at AWS User Group Vienna?"
+        answer: "Yes, you can present a talk you’ve given before, especially if it hasn’t been shown to the Vienna audience yet. The focus is on delivering value, not exclusivity."
+      - question: "How long should my talk be at AWS User Group Vienna?"
+        answer: "Talks are usually 30 to 40 minutes long. Be sure to leave a few minutes for questions or discussion if your session format allows it."
+
+  - context: |
+      The AWS User Group Vienna actively supports the AWS Community Builders program, which recognizes and rewards individuals who are passionate about sharing knowledge and building the AWS community. Community Builders gain access to exclusive resources, mentorship, and networking opportunities.
+    questions_and_answers:
+      - question: "What is the AWS Community Builders program?"
+        answer: "The AWS Community Builders program recognizes and rewards individuals who are passionate about sharing knowledge and building the AWS community."
+      - question: "What benefits do AWS Community Builders receive?"
+        answer: "AWS Community Builders gain access to exclusive resources, mentorship, and networking opportunities."
+      - question: "How can I become an AWS Community Builder?"
+        answer: "You can apply to the AWS Community Builders program through the official AWS website. Selection is based on your contributions to the AWS community and your passion for sharing knowledge."
+
+  - context: |
+      The AWS User Group Vienna collaborates with other AWS user groups in the DACH region (Germany, Austria, Switzerland) to organize large-scale events like AWS Community Day DACH. These events bring together AWS enthusiasts, experts, and partners for a day of learning, networking, and collaboration.
+    questions_and_answers:
+      - question: "What is AWS Community Day DACH?"
+        answer: "AWS Community Day DACH is a large-scale event that brings together AWS enthusiasts, experts, and partners from the DACH region for a day of learning, networking, and collaboration."
+      - question: "Who organizes AWS Community Day DACH?"
+        answer: "AWS Community Day DACH is organized by AWS user groups in the DACH region, including the AWS User Group Vienna."
+      - question: "What activities take place at AWS Community Day DACH?"
+        answer: "Activities include technical talks, workshops, networking sessions, and panel discussions featuring AWS experts and community members."
+
+  - context: |
+      The AWS User Group Vienna encourages attendees to actively participate in meetups by asking questions, sharing feedback, and engaging with speakers and other community members. This interactive approach fosters a collaborative and inclusive environment.
+    questions_and_answers:
+      - question: "How can attendees actively participate in AWS User Group Vienna meetups?"
+        answer: "Attendees can actively participate by asking questions, sharing feedback, and engaging with speakers and other community members."
+      - question: "Why is active participation encouraged at AWS User Group Vienna meetups?"
+        answer: "Active participation fosters a collaborative and inclusive environment, enhancing the learning and networking experience for everyone."
+      - question: "Can attendees provide feedback on talks at AWS User Group Vienna?"
+        answer: "Yes, attendees are encouraged to provide feedback on talks to help improve future meetups."
+
+  - context: |
+      The AWS User Group Vienna occasionally hosts hands-on workshops and GameDays, providing attendees with practical experience in using AWS services. These sessions are designed for all skill levels and focus on solving real-world challenges in a collaborative environment.
+    questions_and_answers:
+      - question: "What are AWS GameDays?"
+        answer: "AWS GameDays are hands-on sessions where participants solve real-world challenges using AWS services in a collaborative environment."
+      - question: "Are AWS GameDays suitable for beginners?"
+        answer: "Yes, AWS GameDays are designed for all skill levels, allowing beginners to learn while participating."
+      - question: "What is the purpose of hands-on workshops at AWS User Group Vienna?"
+        answer: "Hands-on workshops provide practical experience in using AWS services and solving real-world challenges."
+
+  - context: |
+      The AWS User Group Vienna values feedback from its community to continuously improve meetups and events. Attendees can share their thoughts through surveys, direct communication with organizers, or during networking sessions.
+    questions_and_answers:
+      - question: "How can attendees provide feedback on AWS User Group Vienna meetups?"
+        answer: "Attendees can provide feedback through surveys, direct communication with organizers, or during networking sessions."
+      - question: "Why is feedback important for AWS User Group Vienna?"
+        answer: "Feedback helps the organizers improve meetups and events, ensuring they meet the needs and interests of the community."
+      - question: "Can I suggest topics for future AWS User Group Vienna meetups?"
+        answer: "Yes, attendees are encouraged to suggest topics for future meetups by reaching out to the organizers."
+
+  - context: |
+      The AWS User Group Vienna actively supports diversity and inclusion in its events, ensuring a welcoming environment for all attendees. The group prioritizes diverse speaker representation and encourages participation from underrepresented groups in tech. Efforts are made to balance gender, background, and expertise in speaker selection.
+    questions_and_answers:
+      - question: "How does AWS User Group Vienna promote diversity in its events?"
+        answer: "The group prioritizes diverse speaker representation and encourages participation from underrepresented groups in tech, balancing gender, background, and expertise."
+      - question: "Can speakers from underrepresented groups present at AWS User Group Vienna?"
+        answer: "Yes, AWS User Group Vienna actively encourages speakers from underrepresented groups to share their knowledge and experiences."
+      - question: "What steps does AWS User Group Vienna take to ensure inclusivity?"
+        answer: "The group ensures a welcoming environment, promotes diverse speaker selection, and fosters an inclusive atmosphere for all attendees."
+
+  - context: |
+      The AWS User Group Vienna collaborates with other AWS user groups and organizations to host joint events and share resources. These collaborations include partnerships with AWS Community Builders, AWS Heroes, and other regional user groups to enhance the quality and reach of events.
+    questions_and_answers:
+      - question: "Does AWS User Group Vienna collaborate with other AWS user groups?"
+        answer: "Yes, AWS User Group Vienna collaborates with other AWS user groups and organizations to host joint events and share resources."
+      - question: "Who are some of the collaborators of AWS User Group Vienna?"
+        answer: "Collaborators include AWS Community Builders, AWS Heroes, and other regional user groups in the DACH region."
+      - question: "What are the benefits of collaboration for AWS User Group Vienna?"
+        answer: "Collaboration enhances the quality and reach of events, bringing diverse perspectives and expertise to the community."
+
+  - context: |
+      AWS User Group Vienna meetups often feature interactive elements such as live demos, Q&A sessions, and hands-on activities. These elements are designed to engage attendees and provide practical insights into AWS technologies and best practices.
+    questions_and_answers:
+      - question: "What interactive elements are included in AWS User Group Vienna meetups?"
+        answer: "Interactive elements include live demos, Q&A sessions, and hands-on activities to engage attendees and provide practical insights."
+      - question: "Are live demos a common feature at AWS User Group Vienna?"
+        answer: "Yes, live demos are often included to showcase AWS technologies and real-world applications."
+      - question: "How do Q&A sessions enhance AWS User Group Vienna meetups?"
+        answer: "Q&A sessions allow attendees to interact with speakers, clarify concepts, and gain deeper insights into the topics discussed."
+
+  - context: |
+      The AWS User Group Vienna encourages feedback and suggestions from its community to improve future events. Attendees can share their thoughts through surveys, direct communication with organizers, or during networking sessions.
+    questions_and_answers:
+      - question: "How can attendees provide feedback on AWS User Group Vienna events?"
+        answer: "Attendees can provide feedback through surveys, direct communication with organizers, or during networking sessions."
+      - question: "Why is feedback important for AWS User Group Vienna?"
+        answer: "Feedback helps organizers improve events and ensure they meet the needs and interests of the community."
+      - question: "Can attendees suggest topics for future AWS User Group Vienna meetups?"
+        answer: "Yes, attendees are encouraged to suggest topics for future meetups by reaching out to the organizers."
+
+
 document_outline: |
   This document introduces the AWS User Group Vienna, detailing its community size, meetup schedule, communication channels, major events, leadership team, and how to become a leader. It also outlines the standard agenda for meetups, talk formats, and technical levels.
 document:
@@ -75,3 +314,24 @@ document:
   commit: HEAD
   patterns:
     - knowledge/aws_user_groups/austria/general_aws_user_groups/aws_ug_vienna/aws_ug_vienna.md
+    - knowledge/aws_community_information/aws_user_group_meetup_formats/aws_user_group_meetup_gameday.md
+    - knowledge/aws_community_information/aws_user_group_meetup_formats/aws_user_group_meetup_pubquiz.md
+    - knowledge/aws_community_information/aws_user_group_meetup_formats/aws_user_group_meetup_stammtisch.md
+    - knowledge/aws_community_information/aws_user_group_meetup_formats/aws_user_group_meetup_workshop.md
+    - knowledge/aws_community_information/aws_user_group_meetup_formats/aws_user_group_meetup.md
+    - knowledge/aws_community_information/aws_community_personas/aws_cloud_club_captain.md
+    - knowledge/aws_community_information/aws_community_personas/aws_community_builder.md
+    - knowledge/aws_community_information/aws_community_personas/aws_hero.md
+    - knowledge/aws_community_information/aws_community_personas/aws_partner_ambassador.md
+    - knowledge/aws_community_information/aws_community_personas/aws_ug_firsttimer.md
+    - knowledge/aws_community_information/aws_community_personas/aws_ug_host.md
+    - knowledge/aws_community_information/aws_community_personas/aws_ug_leader.md
+    - knowledge/aws_community_information/aws_community_personas/aws_ug_member.md
+    - knowledge/aws_community_information/aws_community_personas/aws_ug_speaker.md
+    - knowledge/aws_community_information/aws_community_event_organization/aws_community_meetup_catering.md
+    - knowledge/aws_community_information/aws_community_event_organization/aws_community_meetup_planning.md
+    - knowledge/aws_community_information/aws_community_event_organization/aws_community_meetup_speaker_management.md
+    - knowledge/aws_community_information/aws_community/aws_community.md
+    - knowledge/aws_community_information/aws_community/aws_community_purpose.md
+    - knowledge/aws_community_information/aws_community/aws_community_overview.md
+    - knowledge/aws_community_information/aws_community/aws_community_events.md

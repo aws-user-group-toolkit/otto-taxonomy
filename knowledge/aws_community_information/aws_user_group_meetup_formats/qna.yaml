@@ -1,0 +1,231 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      An AWS User Group Meetup is a community-led event where developers and AWS enthusiasts come together to discuss the latest in AWS technology, learn new skills, and network with peers. These meetups can be held virtually or in-person and are usually scheduled on platforms like Meetup.com.
+    questions_and_answers:
+      - question: "What is an AWS User Group Meetup?"
+        answer: "An AWS User Group Meetup is a community-led event where developers and AWS enthusiasts discuss the latest in AWS technology, learn new skills, and network with peers."
+      - question: "How are AWS User Group Meetups held?"
+        answer: "AWS User Group Meetups can be held virtually or in-person."
+      - question: "Where are AWS User Group Meetups usually scheduled?"
+        answer: "AWS User Group Meetups are usually scheduled on platforms like Meetup.com."
+      - question: "Who can attend AWS User Group Meetups?"
+        answer: "Developers and AWS enthusiasts can attend AWS User Group Meetups."
+      - question: "What can you do at an AWS User Group Meetup?"
+        answer: "At an AWS User Group Meetup, you can discuss AWS technology, learn new skills, and network with peers."
+
+  - context: |
+      Joining an AWS User Group allows you to learn from others who have experience with AWS services and solutions. These groups often host regular meetups, workshops, and webinars where members can share their knowledge and experiences.
+    questions_and_answers:
+      - question: "What are the benefits of joining an AWS User Group?"
+        answer: "Joining an AWS User Group allows you to learn from others with experience in AWS services and solutions."
+      - question: "What types of events do AWS User Groups host?"
+        answer: "AWS User Groups host regular meetups, workshops, and webinars."
+      - question: "How can AWS User Groups help you learn?"
+        answer: "AWS User Groups provide opportunities to learn from others' knowledge and experiences."
+      - question: "What can you learn at AWS User Group events?"
+        answer: "You can learn about AWS services, cloud architecture, security best practices, and new AWS features."
+      - question: "Can AWS User Groups help with AWS certification exams?"
+        answer: "Yes, AWS User Groups often have study groups to help prepare for AWS certification exams."
+
+  - context: |
+      AWS User Groups provide a platform to connect with like-minded individuals who share an interest in cloud computing. Networking with other developers can lead to collaborations, mentorship, and job opportunities.
+    questions_and_answers:
+      - question: "What is the purpose of AWS User Groups?"
+        answer: "The purpose of AWS User Groups is to connect like-minded individuals interested in cloud computing."
+      - question: "What opportunities can networking in AWS User Groups lead to?"
+        answer: "Networking in AWS User Groups can lead to collaborations, mentorship, and job opportunities."
+      - question: "Who can you meet at AWS User Group events?"
+        answer: "You can meet other developers and AWS enthusiasts at AWS User Group events."
+      - question: "How can AWS User Groups help with career growth?"
+        answer: "AWS User Groups can help with career growth by providing networking opportunities and mentorship."
+      - question: "Can AWS User Groups help with finding job opportunities?"
+        answer: "Yes, AWS User Groups can help with finding job opportunities through networking."
+
+  - context: |
+      Being part of an AWS User Group can inspire you to explore new ideas and technologies. Seeing what others have built and hearing their success stories can motivate you to push your own boundaries.
+    questions_and_answers:
+      - question: "How can AWS User Groups inspire you?"
+        answer: "AWS User Groups can inspire you by exposing you to new ideas and technologies."
+      - question: "What can you gain from hearing others' success stories in AWS User Groups?"
+        answer: "Hearing others' success stories can motivate you to push your own boundaries."
+      - question: "How can AWS User Groups help with innovative projects?"
+        answer: "AWS User Groups can help with innovative projects by providing inspiration and new ideas."
+      - question: "Can AWS User Groups help with personal growth?"
+        answer: "Yes, AWS User Groups can help with personal growth by developing soft skills like public speaking and leadership."
+      - question: "What kind of projects can you be inspired to start in AWS User Groups?"
+        answer: "You can be inspired to start projects using new AWS services or combining them in unique ways."
+
+
+  - context: |
+      User group workshops are collaborative events where individuals with shared interests come together to learn, share knowledge, and work on projects. These workshops are typically organized by user groups or communities and can cover a wide range of topics, from programming languages to cloud computing.
+    questions_and_answers:
+      - question: "What are user group workshops?"
+        answer: "User group workshops are collaborative events where individuals with shared interests come together to learn, share knowledge, and work on projects."
+      - question: "Who typically organizes these workshops?"
+        answer: "They are typically organized by user groups or communities."
+      - question: "What topics can these workshops cover?"
+        answer: "They can cover a wide range of topics, from programming languages to cloud computing."
+
+
+  - context: |
+      These workshops are typically organized by user groups or communities and can cover a wide range of topics, from programming languages to cloud computing.
+    questions_and_answers:
+      - question: "How can one find user group workshops?"
+        answer: "Look for events in your area or online, often through community forums or event websites."
+      - question: "What should participants do to prepare for a workshop?"
+        answer: "Follow any pre-workshop instructions, such as installing necessary software or reading provided materials."
+      - question: "What are the benefits of attending these workshops?"
+        answer: "Benefits include hands-on learning, expert guidance, networking opportunities, and often being free or low-cost."
+
+
+  - context: |
+      A Stammtisch is a traditional German concept referring to a regular informal gathering of people, typically held in a pub or beer garden. It is a social event where participants come together to enjoy drinks, food, and conversation in a relaxed atmosphere. The term "Stammtisch" translates to "regulars' table," indicating a recurring event where community members can connect and network.
+    questions_and_answers:
+      - question: "What is a Stammtisch?"
+        answer: "A Stammtisch is a traditional German concept referring to a regular informal gathering of people, typically held in a pub or beer garden."
+      - question: "What does the term 'Stammtisch' translate to?"
+        answer: "The term 'Stammtisch' translates to 'regulars' table,' indicating a recurring event where community members can connect and network."
+      - question: "What is the atmosphere like at a Stammtisch?"
+        answer: "The atmosphere at a Stammtisch is relaxed, with participants enjoying drinks, food, and conversation."
+      - question: "Where are Stammtisch events typically held?"
+        answer: "Stammtisch events are typically held in a pub or beer garden."
+      - question: "What is the purpose of a Stammtisch?"
+        answer: "The purpose of a Stammtisch is to provide a social event where participants can come together to enjoy drinks, food, and conversation in a relaxed atmosphere."
+
+  - context: |
+      In the context of the AWS community, a Stammtisch serves as an informal networking event for AWS enthusiasts, professionals, and user group members. These events are scheduled on Meetup.com and provide an opportunity for participants to meet, share experiences, and discuss AWS-related topics in a casual setting without a formal agenda or specific content.
+    questions_and_answers:
+      - question: "What is an AWS Community Stammtisch?"
+        answer: "An AWS Community Stammtisch is an informal networking event for AWS enthusiasts, professionals, and user group members."
+      - question: "Where are AWS Community Stammtisch events scheduled?"
+        answer: "AWS Community Stammtisch events are scheduled on Meetup.com."
+      - question: "What is the purpose of an AWS Community Stammtisch?"
+        answer: "The purpose of an AWS Community Stammtisch is to provide an opportunity for participants to meet, share experiences, and discuss AWS-related topics in a casual setting."
+      - question: "Is there a formal agenda for AWS Community Stammtisch events?"
+        answer: "No, there is no formal agenda or specific content for AWS Community Stammtisch events."
+      - question: "Who can attend AWS Community Stammtisch events?"
+        answer: "AWS enthusiasts, professionals, and user group members can attend AWS Community Stammtisch events."
+
+  - context: |
+      Organizing an AWS Community Stammtisch involves several steps: choosing a venue, scheduling the event on Meetup.com, securing sponsorship, promoting the event, hosting the Stammtisch, and following up after the event. These steps ensure a successful and well-attended event.
+    questions_and_answers:
+      - question: "What are the steps to organize an AWS Community Stammtisch?"
+        answer: "The steps to organize an AWS Community Stammtisch include choosing a venue, scheduling the event on Meetup.com, securing sponsorship, promoting the event, hosting the Stammtisch, and following up after the event."
+      - question: "Where should you choose a venue for an AWS Community Stammtisch?"
+        answer: "You should choose a bar, restaurant, or beer garden that can accommodate your group and has a comfortable atmosphere for networking."
+      - question: "How do you schedule an AWS Community Stammtisch on Meetup.com?"
+        answer: "Create a new event on your AWS user group's Meetup.com page, provide a detailed description, and mention that the event is informal and focused on networking."
+      - question: "Why is securing sponsorship important for an AWS Community Stammtisch?"
+        answer: "Securing sponsorship is important to cover the cost of drinks and food for a specified time period."
+      - question: "How can you promote an AWS Community Stammtisch?"
+        answer: "Promote the event using social media, email newsletters, and other communication channels to spread the word."
+
+  - context: |
+      Organizing an AWS Community Stammtisch provides several benefits, including networking, knowledge sharing, community building, and a relaxed atmosphere. These benefits help strengthen the user group and foster a sense of community among AWS enthusiasts.
+    questions_and_answers:
+      - question: "What are the benefits of organizing an AWS Community Stammtisch?"
+        answer: "The benefits include networking, knowledge sharing, community building, and a relaxed atmosphere."
+      - question: "How does an AWS Community Stammtisch help with networking?"
+        answer: "Participants can build connections with other AWS professionals and enthusiasts, fostering a sense of community and collaboration."
+      - question: "What kind of knowledge sharing happens at an AWS Community Stammtisch?"
+        answer: "Informal conversations can lead to valuable insights and knowledge exchange about AWS services, best practices, and industry trends."
+      - question: "How does an AWS Community Stammtisch contribute to community building?"
+        answer: "Regular Stammtisch events help strengthen the user group by creating a welcoming and inclusive environment for all members."
+      - question: "Why is a relaxed atmosphere important for an AWS Community Stammtisch?"
+        answer: "A relaxed atmosphere allows participants to unwind and enjoy themselves, making it easier to form genuine connections."
+
+  - context: |
+      Tips for a successful Stammtisch include choosing a convenient time, encouraging participation, creating a welcoming environment, and highlighting the social aspect of the event. These tips help ensure a well-attended and enjoyable event for all participants.
+    questions_and_answers:
+      - question: "What are some tips for a successful Stammtisch?"
+        answer: "Tips include choosing a convenient time, encouraging participation, creating a welcoming environment, and highlighting the social aspect of the event."
+      - question: "When should you schedule a Stammtisch?"
+        answer: "Schedule the Stammtisch at a time that works well for most participants, such as after work hours or on weekends."
+      - question: "How can you encourage participation in a Stammtisch?"
+        answer: "Invite all user group members and encourage them to bring friends or colleagues who might be interested in AWS."
+      - question: "How do you create a welcoming environment at a Stammtisch?"
+        answer: "Make sure new attendees feel welcome and included in conversations. Facilitate introductions and help break the ice."
+      - question: "Why is it important to highlight the social aspect of a Stammtisch?"
+        answer: "Emphasizing the relaxed and social nature of the event can attract participants who may be hesitant to attend more formal meetups."
+
+
+  - context: |
+      A pubquiz is a fun and engaging game typically held in a pub or bar setting. Participants form teams and answer questions across various categories to compete for prizes or bragging rights. The questions can range from general knowledge to specific topics, making it a versatile and enjoyable activity for all participants.
+    questions_and_answers:
+      - question: "What is a pubquiz?"
+        answer: "A pubquiz is a fun and engaging trivia game typically held in a pub or bar setting where participants form teams and answer questions across various categories to compete for prizes or bragging rights."
+      - question: "What types of questions are asked in a pubquiz?"
+        answer: "The questions can range from general knowledge to specific topics, making it a versatile and enjoyable activity for all participants."
+      - question: "Where is a pubquiz typically held?"
+        answer: "A pubquiz is typically held in a pub or bar setting."
+  - context: |
+            A pubquiz is a social event where participants answer trivia questions in teams. It is typically held in a pub or bar, but can also be organized in other venues or online. The questions cover a wide range of topics, making it an enjoyable activity for everyone involved.
+    questions_and_answers:
+      - question: "What is the purpose of a pubquiz?"
+        answer: "The purpose of a pubquiz is to provide a fun and engaging activity where participants can compete for prizes or bragging rights."
+      - question: "How do participants compete in a pubquiz?"
+        answer: "Participants form teams and answer questions across various categories to compete for prizes or bragging rights."
+      - question: "What topics are covered in a pubquiz?"
+        answer: "A pubquiz covers a wide range of topics, making it an enjoyable activity for everyone involved."
+  - context: |
+      As an AWS user group leader, you can leverage the pubquiz format to create an interactive and educational event for your community. By focusing on AWS-related questions, you can help members learn more about AWS services, best practices, and industry trends while fostering a sense of camaraderie and friendly competition.
+    questions_and_answers:
+      - question: "How can AWS user group leaders use the pubquiz format?"
+        answer: "AWS user group leaders can use the pubquiz format to create an interactive and educational event for their community."
+      - question: "What is the focus of an AWS Community Pubquiz?"
+        answer: "The focus of an AWS Community Pubquiz is on AWS-related questions to help members learn more about AWS services, best practices, and industry trends."
+      - question: "What are the benefits of an AWS Community Pubquiz?"
+        answer: "The benefits of an AWS Community Pubquiz include fostering a sense of camaraderie and friendly competition while helping members learn more about AWS services, best practices, and industry trends."
+      - question: "How does an AWS Community Pubquiz help members?"
+        answer: "An AWS Community Pubquiz helps members learn more about AWS services, best practices, and industry trends."
+      - question: "What is the purpose of an AWS Community Pubquiz?"
+        answer: "The purpose of an AWS Community Pubquiz is to create an interactive and educational event for the community, focusing on AWS-related questions."
+  - context: |
+      Organizing an AWS Community Pubquiz can be a great way to engage your user group and help members learn more about AWS services. By creating a set of challenging and fun questions, you can foster a sense of community and encourage collaboration among participants.
+    questions_and_answers:
+      - question: "What is the benefit of organizing an AWS Community Pubquiz?"
+        answer: "The benefit of organizing an AWS Community Pubquiz is to engage your user group, help members learn more about AWS services, and foster a sense of community and collaboration."
+      - question: "How can AWS user group leaders create a set of questions for the pubquiz?"
+        answer: "AWS user group leaders can create a set of questions by focusing on various AWS topics such as services, architecture, security, and best practices, ensuring the questions are challenging yet accessible."
+      - question: "What should be included in the event description on Meetup.com?"
+        answer: "The event description on Meetup.com should include the date, time, location (virtual or physical), and a detailed description of the pubquiz, encouraging members to register and form teams in advance."
+
+  - context: |
+      Promoting your AWS Community Pubquiz is essential to ensure a good turnout and create excitement around the event. Utilize social media, email newsletters, and other communication channels to spread the word and highlight the fun and educational aspects of the pubquiz.
+    questions_and_answers:
+      - question: "Why is promoting your AWS Community Pubquiz important?"
+        answer: "Promoting your AWS Community Pubquiz is important to ensure a good turnout and create excitement around the event."
+      - question: "What are some effective ways to promote the pubquiz?"
+        answer: "Effective ways to promote the pubquiz include using social media, email newsletters, and other communication channels to spread the word."
+      - question: "What should you highlight when promoting the pubquiz?"
+        answer: "When promoting the pubquiz, highlight the fun and educational aspects to attract more participants."
+
+
+  - context: |
+      To host a local GameDay, user groups should arrange a venue with a large screen, audio setup, power and stable internet access, and optionally food and drinks for participants. Teams of 2-4 members should be formed, ensuring diversity in skill levels.
+    questions_and_answers:
+      - question: "What are the venue requirements for hosting a local GameDay?"
+        answer: "A large screen, audio setup, power and stable internet access, and optionally food and drinks for participants."
+      - question: "How many members should be in a team for a local GameDay?"
+        answer: "Teams should have 2-4 members."
+      - question: "Why is it important to have diverse skill levels in teams?"
+        answer: "Diverse skill levels ensure that both beginners and experienced AWS users can participate and learn."
+      - question: "What should user groups arrange for participants at a local GameDay?"
+        answer: "A venue with necessary equipment and optionally food and drinks."
+      - question: "What is the purpose of forming teams for a local GameDay?"
+        answer: "To ensure collaboration and learning among participants."
+
+document_outline: |
+  This document introduces the purpose of AWS User Group Meetups, highlighting their benefits such as learning, networking, and inspiration. It explains how to find and join AWS User Groups and provides examples of special user groups focused on specific technologies, industries, or communities.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: HEAD
+  patterns:
+    - knowledge/aws_community_information/aws_user_group_meetup_formats/aws_user_group_meetup_gameday.md
+    - knowledge/aws_community_information/aws_user_group_meetup_formats/aws_user_group_meetup_pubquiz.md
+    - knowledge/aws_community_information/aws_user_group_meetup_formats/aws_user_group_meetup_stammtisch.md
+    - knowledge/aws_community_information/aws_user_group_meetup_formats/aws_user_group_meetup_workshop.md
+    - knowledge/aws_community_information/aws_user_group_meetup_formats/aws_user_group_meetup.md

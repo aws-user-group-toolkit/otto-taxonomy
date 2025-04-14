@@ -1,0 +1,531 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      The User Group Speaker plays a pivotal role in sharing knowledge and expertise on AWS-related topics during meetups. Speakers are encouraged to wear their badges prominently, making it easy for attendees to identify them for discussions about their talks.
+    questions_and_answers:
+      - question: "What is the role of a User Group Speaker?"
+        answer: "The User Group Speaker shares knowledge and expertise on AWS-related topics during meetups."
+      - question: "Why should speakers wear their badges prominently?"
+        answer: "Speakers should wear their badges prominently to make it easy for attendees to identify them for discussions about their talks."
+      - question: "How can User Group Speakers engage with attendees?"
+        answer: "User Group Speakers can engage with attendees by answering questions and facilitating discussions."
+      - question: "What materials should speakers prepare for their presentations?"
+        answer: "Speakers should prepare slides, demos, and other materials to support their presentations."
+      - question: "How can speakers gather feedback from attendees?"
+        answer: "Speakers can gather feedback from attendees through surveys, direct conversations, or digital feedback forms."
+
+  - context: |
+      The User Group Speaker badge signifies that the wearer is a designated speaker for the event. This badge helps attendees easily identify speakers, fostering an environment where knowledge sharing is encouraged.
+    questions_and_answers:
+      - question: "What does the User Group Speaker badge signify?"
+        answer: "The User Group Speaker badge signifies that the wearer is a designated speaker for the event."
+      - question: "How does the badge help attendees?"
+        answer: "The badge helps attendees easily identify speakers, fostering an environment where knowledge sharing is encouraged."
+      - question: "Why is it important for speakers to wear their badges?"
+        answer: "It is important for speakers to wear their badges to be easily identified by attendees for discussions."
+      - question: "When should speakers receive their badges?"
+        answer: "Speakers should receive their badges at the registration desk or prior to the event."
+      - question: "How can the visibility of badges be ensured?"
+        answer: "The visibility of badges can be ensured by encouraging speakers to wear them prominently throughout the event."
+
+  - context: |
+      Best practices for speakers include knowing your audience, being clear and concise, engaging the audience, practicing, and providing resources. These practices help ensure a successful and engaging presentation.
+    questions_and_answers:
+      - question: "What are some best practices for User Group Speakers?"
+        answer: "Best practices for User Group Speakers include knowing your audience, being clear and concise, engaging the audience, practicing, and providing resources."
+      - question: "Why is it important to know your audience?"
+        answer: "It is important to know your audience to tailor your presentation to their knowledge level and interests."
+      - question: "How can speakers engage the audience?"
+        answer: "Speakers can engage the audience by using interactive elements like Q&A sessions, live demos, and polls."
+      - question: "Why should speakers practice their presentations?"
+        answer: "Speakers should practice their presentations to ensure smooth delivery."
+      - question: "What resources should speakers provide?"
+        answer: "Speakers should provide additional resources such as links to documentation, code samples, or further reading materials."
+
+  - context: |
+      Implementing the badge system for speakers involves ensuring badge distribution, visibility, and proper introduction of speakers and their topics. This system helps enhance the overall experience for attendees.
+    questions_and_answers:
+      - question: "What is involved in implementing the badge system for speakers?"
+        answer: "Implementing the badge system for speakers involves ensuring badge distribution, visibility, and proper introduction of speakers and their topics."
+      - question: "How can badge distribution be ensured?"
+        answer: "Badge distribution can be ensured by providing badges at the registration desk or prior to the event."
+      - question: "Why is visibility of badges important?"
+        answer: "Visibility of badges is important to help attendees easily identify speakers."
+      - question: "How should speakers be introduced?"
+        answer: "Speakers should be introduced along with their topics at the beginning of the event or session."
+      - question: "What is the purpose of the badge system?"
+        answer: "The purpose of the badge system is to enhance the overall experience for attendees by making it easy to identify speakers."
+
+  - context: |
+      Feedback and improvement are crucial for User Group Speakers. Gathering feedback from attendees helps speakers continuously improve their presentations and provide better value in future talks.
+    questions_and_answers:
+      - question: "Why is feedback important for User Group Speakers?"
+        answer: "Feedback is important for User Group Speakers to continuously improve their presentations and provide better value in future talks."
+      - question: "How can speakers gather feedback?"
+        answer: "Speakers can gather feedback through surveys, direct conversations, or digital feedback forms."
+      - question: "What should speakers do with the feedback they receive?"
+        answer: "Speakers should use the feedback to make improvements to their presentations."
+      - question: "Why is continuous improvement important for speakers?"
+        answer: "Continuous improvement is important for speakers to ensure they are providing the best value to their audience."
+      - question: "What are some methods for collecting feedback?"
+        answer: "Some methods for collecting feedback include surveys, direct conversations, and digital feedback forms."
+
+
+  - context: |
+      The AWS User Group Member is an integral part of our community. While they may not have a specific badge like the leaders, speakers, hosts, or first-timers, their participation and engagement are crucial to the success of our meetups. This document provides an overview of the typical AWS User Group Member and their role within the community.
+    questions_and_answers:
+      - question: "What is the role of an AWS User Group Member?"
+        answer: "The role of an AWS User Group Member is to actively participate in discussions, ask questions, and share their experiences with AWS services, contributing to the success of meetups."
+      - question: "Why is the participation of AWS User Group Members important?"
+        answer: "Their participation is crucial as it helps create a dynamic and interactive environment that benefits all attendees."
+      - question: "Do AWS User Group Members have specific badges?"
+        answer: "No, AWS User Group Members do not have specific badges like leaders, speakers, hosts, or first-timers."
+      - question: "What does this document provide?"
+        answer: "This document provides an overview of the typical AWS User Group Member and their role within the community."
+      - question: "How do AWS User Group Members contribute to meetups?"
+        answer: "They contribute by actively participating in discussions, asking questions, and sharing their experiences with AWS services."
+
+  - context: |
+      AWS User Group Members are encouraged to actively participate in discussions, ask questions, and share their experiences with AWS services. Their engagement helps create a dynamic and interactive environment that benefits all attendees.
+    questions_and_answers:
+      - question: "How are AWS User Group Members encouraged to participate?"
+        answer: "They are encouraged to actively participate in discussions, ask questions, and share their experiences with AWS services."
+      - question: "What is the benefit of their engagement?"
+        answer: "Their engagement helps create a dynamic and interactive environment that benefits all attendees."
+      - question: "What should AWS User Group Members share?"
+        answer: "They should share their experiences with AWS services."
+      - question: "What kind of environment does their engagement create?"
+        answer: "It creates a dynamic and interactive environment."
+      - question: "Who benefits from the engagement of AWS User Group Members?"
+        answer: "All attendees benefit from their engagement."
+
+  - context: |
+      Members have the opportunity to network with other AWS enthusiasts, share knowledge, and build professional connections. This networking can lead to collaborations, job opportunities, and a stronger sense of community.
+    questions_and_answers:
+      - question: "What opportunities do AWS User Group Members have?"
+        answer: "They have the opportunity to network with other AWS enthusiasts, share knowledge, and build professional connections."
+      - question: "What can networking lead to?"
+        answer: "Networking can lead to collaborations, job opportunities, and a stronger sense of community."
+      - question: "Who can AWS User Group Members network with?"
+        answer: "They can network with other AWS enthusiasts."
+      - question: "What can members share during networking?"
+        answer: "They can share knowledge."
+      - question: "What is one benefit of building professional connections?"
+        answer: "One benefit is a stronger sense of community."
+
+  - context: |
+      Members are encouraged to provide feedback on meetups, suggest topics for future events, and share ideas for improving the user group experience. Their input is valuable in shaping the direction of the group and ensuring it meets the needs of its members.
+    questions_and_answers:
+      - question: "What are AWS User Group Members encouraged to provide?"
+        answer: "They are encouraged to provide feedback on meetups, suggest topics for future events, and share ideas for improving the user group experience."
+      - question: "Why is their input valuable?"
+        answer: "Their input is valuable in shaping the direction of the group and ensuring it meets the needs of its members."
+      - question: "What can members suggest for future events?"
+        answer: "They can suggest topics for future events."
+      - question: "What should members share to improve the user group experience?"
+        answer: "They should share ideas."
+      - question: "How does their feedback help the group?"
+        answer: "It helps in shaping the direction of the group and ensuring it meets the needs of its members."
+
+  - context: |
+      By attending meetups, members can stay up-to-date with the latest AWS developments, learn best practices, and gain insights from expert speakers. This continuous learning helps members enhance their skills and stay competitive in the field.
+    questions_and_answers:
+      - question: "How can AWS User Group Members stay up-to-date with the latest AWS developments?"
+        answer: "By attending meetups."
+      - question: "What can members learn at meetups?"
+        answer: "They can learn best practices and gain insights from expert speakers."
+      - question: "How does continuous learning help members?"
+        answer: "It helps members enhance their skills and stay competitive in the field."
+      - question: "Who provides insights at meetups?"
+        answer: "Expert speakers provide insights."
+      - question: "What is one benefit of attending meetups?"
+        answer: "One benefit is staying up-to-date with the latest AWS developments."
+
+
+  - context: |
+      Strong community leadership is the backbone of successful AWS user groups and programs. Community leaders are the volunteers and advocates who dedicate time to organize events, foster inclusive environments, and guide the growth of the community. This section covers what AWS community leadership entails, the responsibilities and best practices for leaders, and how AWS supports those leading community efforts.
+    questions_and_answers:
+      - question: "What is the role of community leaders in AWS user groups?"
+        answer: "Community leaders are volunteers and advocates who organize events, foster inclusive environments, and guide the growth of the community."
+      - question: "What are some key responsibilities of AWS community leaders?"
+        answer: "Key responsibilities include organizing regular events, community building, content curation, mentorship and knowledge sharing, upholding community standards, and administration and continuity."
+      - question: "How do AWS community leaders foster an inclusive environment?"
+        answer: "Leaders foster an inclusive environment by promoting the group, welcoming newcomers, facilitating introductions and discussions, and enforcing a code of conduct."
+      - question: "What support does AWS provide to community leaders?"
+        answer: "AWS supports community leaders by onboarding them into the AWS User Group Leaders network, providing resources like promotional credits or swag, and offering mentorship and recognition."
+      - question: "Why is it important for AWS community leaders to enforce a code of conduct?"
+        answer: "Enforcing a code of conduct ensures the community stays a safe, welcoming space where everyone feels included and encouraged to participate."
+
+  - context: |
+      In AWS communities, leadership often refers to user group leaders/organizers as well as influencers like AWS Heroes or Community Builders who take on mentoring roles. A user group leader is typically the person (or team) that coordinates meetup logistics, decides on topics, finds speakers, and engages members.
+    questions_and_answers:
+      - question: "Who are considered leaders in AWS communities?"
+        answer: "Leaders in AWS communities include user group leaders/organizers, AWS Heroes, and Community Builders."
+      - question: "What are the main tasks of a user group leader?"
+        answer: "Main tasks include coordinating meetup logistics, deciding on topics, finding speakers, and engaging members."
+      - question: "How do user group leaders decide on relevant topics for meetups?"
+        answer: "Leaders may survey members for interests or observe industry trends to choose meetup themes that provide value."
+      - question: "What role do AWS Heroes and Community Builders play in the community?"
+        answer: "AWS Heroes and Community Builders often take on mentoring roles, sharing their expertise and supporting community members."
+      - question: "How do user group leaders engage members during events?"
+        answer: "Leaders engage members by facilitating introductions and discussions, ensuring everyone feels connected and included."
+  - context: |
+      Effective community leadership in AWS circles has evolved with input from many experienced organizers, AWS Community Heroes, and the AWS community team. This section covers best practices for AWS community leaders, including knowing your audience, maintaining consistency, fostering an inclusive leadership style, delegating tasks, leveraging AWS support, and recognizing and growing the community.
+    questions_and_answers:
+      - question: "What are some best practices for AWS community leaders?"
+        answer: "Best practices include knowing your audience, maintaining consistency, fostering an inclusive leadership style, delegating tasks, leveraging AWS support, and recognizing and growing the community."
+      - question: "How can AWS community leaders know their audience?"
+        answer: "Leaders can know their audience by polling the group about preferred meetup times and topics, gathering info on members’ AWS experience levels and interests, and tailoring content accordingly."
+      - question: "Why is consistency important for AWS community leaders?"
+        answer: "Consistency is important because it helps build momentum and a habit of attending events. Regular meetups, clear communication, and sharing event details well in advance contribute to a reliable community experience."
+
+  - context: |
+      Building an inclusive and sustainable community is a core trait of effective community leadership. This section discusses the importance of enforcing a code of conduct, encouraging diverse voices, maintaining a community feedback loop, mentoring new leaders, and ensuring the community evolves based on member feedback.
+    questions_and_answers:
+      - question: "Why is enforcing a code of conduct important for AWS community leaders?"
+        answer: "Enforcing a code of conduct ensures the community remains a safe, welcoming space where everyone feels included and encouraged to participate."
+      - question: "How can AWS community leaders encourage diverse voices?"
+        answer: "Leaders can encourage diverse voices by reaching out to underrepresented groups, partnering with diversity-focused tech groups, and ensuring event marketing uses inclusive language and imagery."
+      - question: "What is the role of a community feedback loop in AWS communities?"
+        answer: "A community feedback loop helps ensure the community evolves based on member feedback, encouraging loyalty and active participation while preventing stagnation."
+
+  - context: |
+      AWS values its community leaders and provides various support mechanisms. This section covers the AWS Community Network, mentorship by AWS Heroes and Core Team, resource kits, and events for leaders. These resources help leaders connect, share best practices, and receive support from AWS.
+    questions_and_answers:
+      - question: "What is the AWS Community Network?"
+        answer: "The AWS Community Network is an official portal and Slack where leaders globally connect, share best practices, and ask questions from AWS community managers."
+      - question: "How do AWS Heroes and Core Team support community leaders?"
+        answer: "AWS Heroes and Core Team provide mentorship, advice, and support to new user group leaders, helping them run successful events and grow their communities."
+      - question: "What resources does AWS provide to community leaders?"
+        answer: "AWS provides resource kits, slide templates, credits, merchandise packs, and early access to workshops or demos to help community leaders run events and engage their members."
+
+
+  - context: |
+      The User Group Host plays a crucial role in the success of our AWS meetups. Hosts provide the venue and often refreshments, creating a welcoming environment for attendees. Their contribution is vital for the smooth operation and overall experience of the event.
+    questions_and_answers:
+      - question: "What is the role of the User Group Host?"
+        answer: "The User Group Host provides the venue and often refreshments, creating a welcoming environment for attendees and ensuring the smooth operation of the event."
+      - question: "Why is the User Group Host's contribution important?"
+        answer: "The Host's contribution is vital for the smooth operation and overall experience of the event."
+      - question: "What does the User Group Host provide?"
+        answer: "The User Group Host provides the venue and often refreshments."
+      - question: "How does the User Group Host create a welcoming environment?"
+        answer: "By providing a suitable venue and refreshments, and engaging with attendees."
+      - question: "What is the main responsibility of the User Group Host?"
+        answer: "The main responsibility is to provide the venue and ensure it is suitable for the event."
+
+  - context: |
+      Hosts offer a space for the meetup, ensuring it is suitable for the number of attendees and the activities planned. Often, hosts provide food and beverages, enhancing the social aspect of the meetup. They assist with setup and teardown, ensuring the venue is ready for the event and returned to its original state afterward. Hosts engage with attendees, sharing information about their company and services, and fostering networking opportunities.
+    questions_and_answers:
+      - question: "What do hosts offer for the meetup?"
+        answer: "Hosts offer a space for the meetup, ensuring it is suitable for the number of attendees and the activities planned."
+      - question: "How do hosts enhance the social aspect of the meetup?"
+        answer: "By providing food and beverages."
+      - question: "What support do hosts provide during the event?"
+        answer: "Hosts assist with setup and teardown, ensuring the venue is ready for the event and returned to its original state afterward."
+      - question: "How do hosts engage with attendees?"
+        answer: "Hosts engage with attendees by sharing information about their company and services, and fostering networking opportunities."
+      - question: "What is the role of hosts in setup and teardown?"
+        answer: "Hosts assist with setup and teardown, ensuring the venue is ready for the event and returned to its original state afterward."
+
+  - context: |
+      The Host badge highlights the host's contribution and opens the door for attendees to learn more about the hosting company. It also serves as a point of contact for any venue-related questions or issues during the event.
+    questions_and_answers:
+      - question: "What does the Host badge highlight?"
+        answer: "The Host badge highlights the host's contribution."
+      - question: "How does the Host badge benefit attendees?"
+        answer: "It opens the door for attendees to learn more about the hosting company."
+      - question: "What is the Host badge's role during the event?"
+        answer: "It serves as a point of contact for any venue-related questions or issues."
+      - question: "Why is the Host badge important?"
+        answer: "It highlights the host's contribution and provides a point of contact for attendees."
+      - question: "What information can attendees learn from the Host badge?"
+        answer: "Attendees can learn more about the hosting company."
+
+  - context: |
+      Ensure the venue is prepared and all necessary equipment is available. Greet attendees as they arrive, making them feel welcome and comfortable. Be available to assist with any logistical needs during the event. Engage with attendees, sharing insights about your company and services.
+    questions_and_answers:
+      - question: "What should hosts ensure before the event?"
+        answer: "Hosts should ensure the venue is prepared and all necessary equipment is available."
+      - question: "How should hosts greet attendees?"
+        answer: "Hosts should greet attendees as they arrive, making them feel welcome and comfortable."
+      - question: "What support should hosts provide during the event?"
+        answer: "Hosts should be available to assist with any logistical needs during the event."
+      - question: "How can hosts engage with attendees?"
+        answer: "Hosts can engage with attendees by sharing insights about their company and services."
+      - question: "What is the role of hosts in preparation?"
+        answer: "Hosts should ensure the venue is prepared and all necessary equipment is available."
+
+  - context: |
+      Coordinate with the User Group Leader to understand the event's requirements and schedule. Create a welcoming atmosphere with refreshments and a friendly demeanor. After the event, gather feedback from attendees and the organizing team to improve future hosting experiences.
+    questions_and_answers:
+      - question: "How should hosts coordinate for the event?"
+        answer: "Hosts should coordinate with the User Group Leader to understand the event's requirements and schedule."
+      - question: "How can hosts create a welcoming atmosphere?"
+        answer: "Hosts can create a welcoming atmosphere with refreshments and a friendly demeanor."
+      - question: "What should hosts do after the event?"
+        answer: "Hosts should gather feedback from attendees and the organizing team to improve future hosting experiences."
+      - question: "Why is feedback important for hosts?"
+        answer: "Feedback helps improve future hosting experiences."
+      - question: "What is the role of hosts in coordination?"
+        answer: "Hosts should coordinate with the User Group Leader to understand the event's requirements and schedule."
+
+
+  - context: |
+      The **User Group First-Timer** badge is designed to identify attendees who are participating in an AWS User Group meetup for the first time. This badge serves as an invitation for existing members to welcome them and for leaders to ensure they have a great first experience. The primary goal of the First-Timer badge is to foster a welcoming and inclusive environment for newcomers. By clearly identifying first-timers, the badge encourages experienced members to engage with them, offer assistance, and make them feel part of the community. The badge is visually distinct to ensure it stands out, typically including a unique color, clear "First-Timer" text, and an optional icon. Templates for printing badges on Avery L3415 stickers and high-quality PNG files are available for digital use or professional printing. Usage tips include conducting a briefing session, explaining the badge system during the welcome speech, and gathering feedback from first-timers after the event. This badge system is part of a community project initiated by the AWS Meetup Vienna, Austria, and is not officially affiliated with or endorsed by AWS.
+    questions_and_answers:
+      - question: "What is the purpose of the User Group First-Timer badge?"
+        answer: "The purpose of the First-Timer badge is to foster a welcoming and inclusive environment for newcomers by encouraging experienced members to engage with them and make them feel part of the community."
+      - question: "What elements are typically included in the First-Timer badge design?"
+        answer: "The First-Timer badge typically includes a unique color, clear 'First-Timer' text, and an optional icon."
+      - question: "Who initiated the First-Timer badge system?"
+        answer: "The First-Timer badge system is part of a community project initiated by the AWS Meetup Vienna, Austria, and is not officially affiliated with or endorsed by AWS."
+
+
+  - context: |
+      The AWS Ambassador Program is a community initiative within the AWS Partner Network (APN) that recognizes and empowers AWS experts who work at AWS Partner companies. These individuals (called AWS Ambassadors) are usually solutions architects, engineers, or technical leads at consulting firms or ISVs that are AWS Partners. Ambassadors are passionate AWS advocates within their organizations and externally. They are typically AWS Certified professionals who have proven technical expertise and a track record of knowledge-sharing.
+    questions_and_answers:
+      - question: "What is the AWS Ambassador Program?"
+        answer: "The AWS Ambassador Program is a community initiative within the AWS Partner Network (APN) that recognizes and empowers AWS experts who work at AWS Partner companies."
+      - question: "Who can become an AWS Ambassador?"
+        answer: "AWS Ambassadors are usually solutions architects, engineers, or technical leads at consulting firms or ISVs that are AWS Partners."
+      - question: "What are the typical qualifications of an AWS Ambassador?"
+        answer: "They are typically AWS Certified professionals who have proven technical expertise and a track record of knowledge-sharing."
+      - question: "What roles do AWS Ambassadors usually hold?"
+        answer: "AWS Ambassadors are usually solutions architects, engineers, or technical leads."
+      - question: "What is the main passion of AWS Ambassadors?"
+        answer: "Ambassadors are passionate AWS advocates within their organizations and externally."
+
+  - context: |
+      While both Heroes and Ambassadors are AWS champions, Ambassadors are partner-focused (driving AWS adoption in customer projects and within their companies), whereas Heroes are community-focused at large. It’s not uncommon for an AWS Ambassador to also be active in user groups or even become a Hero, but the Ambassador title specifically ties to one’s role in an AWS Partner organization.
+    questions_and_answers:
+      - question: "What is the main focus of AWS Ambassadors?"
+        answer: "Ambassadors are partner-focused, driving AWS adoption in customer projects and within their companies."
+      - question: "What is the main focus of AWS Heroes?"
+        answer: "Heroes are community-focused at large."
+      - question: "Can an AWS Ambassador also be an AWS Hero?"
+        answer: "It’s not uncommon for an AWS Ambassador to also be active in user groups or even become a Hero."
+      - question: "What does the Ambassador title specifically tie to?"
+        answer: "The Ambassador title specifically ties to one’s role in an AWS Partner organization."
+      - question: "How do the roles of AWS Ambassadors and AWS Heroes differ?"
+        answer: "Ambassadors are partner-focused, whereas Heroes are community-focused at large."
+
+
+  - context: |
+      The AWS Heroes program is a global recognition initiative designed to honor and celebrate AWS experts who go above and beyond to share their knowledge and mentor others in the tech community. These individuals are true community heroes, making significant contributions through blogs, open-source projects, videos, meetups, and more. Their efforts have a profound impact on AWS users worldwide.
+    questions_and_answers:
+      - question: "What is the AWS Heroes program?"
+        answer: "The AWS Heroes program is a global recognition initiative designed to honor and celebrate AWS experts who share their knowledge and mentor others in the tech community."
+      - question: "How do AWS Heroes contribute to the community?"
+        answer: "AWS Heroes contribute through blogs, open-source projects, videos, meetups, and more."
+      - question: "What impact do AWS Heroes have?"
+        answer: "Their efforts have a profound impact on AWS users worldwide."
+      - question: "How does one become an AWS Hero?"
+        answer: "Nobody knows how to become an AWS Hero."
+      - question: "Who selects AWS Heroes?"
+        answer: "Nobody knows who selects AWS Heroes."
+
+  - context: |
+      AWS Heroes are enthusiasts and technologists recognized for their tireless contributions and leadership within the AWS community. They are nominated by AWS employees or community members and selected based on their significant knowledge-sharing efforts and community involvement.
+    questions_and_answers:
+      - question: "Who are AWS Heroes?"
+        answer: "AWS Heroes are enthusiasts and technologists recognized for their tireless contributions and leadership within the AWS community."
+      - question: "How are AWS Heroes selected?"
+        answer: "Nobody knows who selects AWS Heroes."
+      - question: "What qualities do AWS Heroes possess?"
+        answer: "AWS Heroes possess significant knowledge-sharing efforts and community involvement."
+      - question: "Who can nominate an AWS Hero?"
+        answer: "Nobody knows who nominates AWS Heroes."
+      - question: "What is the role of an AWS Hero?"
+        answer: "The role of an AWS Hero is to share knowledge and mentor others in the tech community."
+
+  - context: |
+      AWS Heroes specialize in various domains, often categorized by their technical focus: Community Heroes, Serverless Heroes, Data Heroes, Machine Learning Heroes, Container Heroes, DevTools Heroes, and Security Heroes. This specialization highlights the areas where they have deep expertise and have contributed extensively.
+    questions_and_answers:
+      - question: "What are the different specializations of AWS Heroes?"
+        answer: "The specializations include Community Heroes, Serverless Heroes, Data Heroes, Machine Learning Heroes, Container Heroes, DevTools Heroes, and Security Heroes."
+      - question: "What do Community Heroes specialize in?"
+        answer: "Community Heroes are known for their broad engagement and support within the AWS community."
+      - question: "Who are Serverless Heroes?"
+        answer: "Serverless Heroes are experts in Lambda and event-driven architectures."
+      - question: "What do Data Heroes focus on?"
+        answer: "Data Heroes focus on analytics, databases, and big data innovations."
+      - question: "Who are Machine Learning Heroes?"
+        answer: "Machine Learning Heroes specialize in AI and machine learning technologies."
+
+  - context: |
+      Regardless of their category, all AWS Heroes actively educate and inspire the community. They speak at conferences and user groups, publish how-to content and technical articles, answer questions and provide support online, and act as force-multipliers for AWS knowledge.
+    questions_and_answers:
+      - question: "What activities do AWS Heroes engage in?"
+        answer: "AWS Heroes speak at conferences and user groups, publish how-to content and technical articles, answer questions and provide support online, and act as force-multipliers for AWS knowledge."
+      - question: "How do AWS Heroes educate the community?"
+        answer: "They educate the community by speaking at conferences, publishing content, and providing support online."
+      - question: "What is the role of AWS Heroes in conferences?"
+        answer: "AWS Heroes speak at conferences and user groups."
+      - question: "How do AWS Heroes support the community online?"
+        answer: "They answer questions and provide support online."
+      - question: "What is the impact of AWS Heroes on AWS knowledge?"
+        answer: "They act as force-multipliers for AWS knowledge."
+
+
+
+  - context: |
+      The AWS Community Builders program offers emerging community enthusiasts a pathway to deepen their AWS knowledge, expand their network, and increase their reach as thought leaders. Community Builders are typically AWS practitioners (developers, architects, etc.) who are passionate about sharing AWS knowledge – perhaps through blogging, speaking at meetups, creating tutorials, or contributing to open source. The program is open to applicants worldwide and seeks a diverse cohort of individuals who actively create content or help others learn AWS.
+    questions_and_answers:
+      - question: "What is the AWS Community Builders program?"
+        answer: "The AWS Community Builders program offers emerging community enthusiasts a pathway to deepen their AWS knowledge, expand their network, and increase their reach as thought leaders."
+      - question: "Who can become a Community Builder?"
+        answer: "Community Builders are typically AWS practitioners (developers, architects, etc.) who are passionate about sharing AWS knowledge."
+      - question: "How do Community Builders share their knowledge?"
+        answer: "Community Builders share their knowledge through blogging, speaking at meetups, creating tutorials, or contributing to open source."
+      - question: "Is the AWS Community Builders program open to everyone?"
+        answer: "Yes, the program is open to applicants worldwide and seeks a diverse cohort of individuals."
+      - question: "What is the main goal of a Community Builder?"
+        answer: "The main goal of a Community Builder is to actively create content or help others learn AWS."
+
+  - context: |
+      A Community Builder is an AWS practitioner who actively shares their AWS knowledge and expertise with the broader community. They create content such as blog posts, tutorials, and videos, speak at events, contribute to open source projects, and engage in forums and social media to help others learn and grow with AWS.
+    questions_and_answers:
+      - question: "What is a Community Builder?"
+        answer: "A Community Builder is an AWS practitioner who actively shares their AWS knowledge and expertise with the broader community."
+      - question: "What types of content do Community Builders create?"
+        answer: "Community Builders create content such as blog posts, tutorials, and videos."
+      - question: "How do Community Builders engage with the community?"
+        answer: "Community Builders engage with the community by speaking at events, contributing to open source projects, and participating in forums and social media."
+      - question: "What is the purpose of a Community Builder's activities?"
+        answer: "The purpose of a Community Builder's activities is to help others learn and grow with AWS."
+      - question: "Do Community Builders only create content?"
+        answer: "No, they also speak at events, contribute to open source projects, and engage in forums and social media."
+
+  - context: |
+      Accepted Community Builders gain access to a wealth of resources from AWS, including technical resources & education, mentorship, networking opportunities, AWS credits, and swag. Members get exclusive webinars and sessions with AWS subject matter experts, guidance from AWS experts and Heroes, and connect with a global network of like-minded AWS enthusiasts.
+    questions_and_answers:
+      - question: "What resources do accepted Community Builders gain access to?"
+        answer: "Accepted Community Builders gain access to technical resources & education, mentorship, networking opportunities, AWS credits, and swag."
+      - question: "What kind of technical resources are provided to Community Builders?"
+        answer: "Community Builders get exclusive webinars and sessions with AWS subject matter experts."
+      - question: "Who provides mentorship to Community Builders?"
+        answer: "AWS experts and Heroes provide mentorship to Community Builders."
+      - question: "What networking opportunities are available to Community Builders?"
+        answer: "Community Builders connect with a global network of like-minded AWS enthusiasts."
+      - question: "What additional perks do Community Builders receive?"
+        answer: "Community Builders receive AWS credits and swag."
+
+  - context: |
+      The program runs in cohorts (annual or biannual intakes). Selection is based on an application highlighting one’s contributions (blog posts, talks, answers on forums, etc.), with emphasis on quality, accuracy, and impact of content. AWS specifically encourages people from all regions and underrepresented demographics to apply, ensuring the community builder pool remains diverse and inclusive.
+    questions_and_answers:
+      - question: "How often does the AWS Community Builders program run?"
+        answer: "The program runs in cohorts (annual or biannual intakes)."
+      - question: "What is the selection process for the AWS Community Builders program?"
+        answer: "Selection is based on an application highlighting one’s contributions, with emphasis on quality, accuracy, and impact of content."
+      - question: "Who is encouraged to apply for the AWS Community Builders program?"
+        answer: "AWS specifically encourages people from all regions and underrepresented demographics to apply."
+      - question: "Why does AWS encourage diverse applicants for the Community Builders program?"
+        answer: "To ensure the community builder pool remains diverse and inclusive."
+      - question: "What should applicants highlight in their application?"
+        answer: "Applicants should highlight their contributions such as blog posts, talks, and answers on forums."
+
+  - context: |
+      Community Builders are located worldwide and engage in a variety of activities to share their AWS knowledge. They write blog posts, create video tutorials, speak at conferences and meetups, contribute to open source projects, and participate in online forums and social media discussions. Their goal is to help others learn and succeed with AWS, fostering a vibrant and supportive community.
+    questions_and_answers:
+      - question: "Where are Community Builders located?"
+        answer: "Community Builders are located worldwide."
+      - question: "What activities do Community Builders engage in?"
+        answer: "Community Builders write blog posts, create video tutorials, speak at conferences and meetups, contribute to open source projects, and participate in online forums and social media discussions."
+      - question: "What is the goal of Community Builders?"
+        answer: "The goal of Community Builders is to help others learn and succeed with AWS."
+      - question: "How do Community Builders foster a supportive community?"
+        answer: "By engaging in activities that help others learn and succeed with AWS."
+      - question: "Do Community Builders only focus on online activities?"
+        answer: "No, they also speak at conferences and meetups, and contribute to open source projects."
+
+
+  - context: |
+      AWS Cloud Clubs are a community program tailored for students (typically university level) who are interested in cloud computing. Each Cloud Club is a campus-based AWS user group for students, by students. These clubs are led by select student leaders known as AWS Cloud Captains. The mission is to cultivate the next generation of cloud professionals by creating an inclusive space for students to learn AWS, build projects, and share knowledge, without any sales or marketing agenda.
+    questions_and_answers:
+      - question: "What are AWS Cloud Clubs?"
+        answer: "AWS Cloud Clubs are a community program tailored for university-level students interested in cloud computing, led by student leaders known as AWS Cloud Captains."
+      - question: "Who leads AWS Cloud Clubs?"
+        answer: "AWS Cloud Clubs are led by select student leaders known as AWS Cloud Captains."
+      - question: "What is the mission of AWS Cloud Clubs?"
+        answer: "The mission of AWS Cloud Clubs is to cultivate the next generation of cloud professionals by creating an inclusive space for students to learn AWS, build projects, and share knowledge."
+      - question: "Are there any sales or marketing agendas in AWS Cloud Clubs?"
+        answer: "No, AWS Cloud Clubs focus purely on skills development and community growth without any sales or marketing agenda."
+      - question: "Who can join AWS Cloud Clubs?"
+        answer: "University-level students interested in cloud computing can join AWS Cloud Clubs."
+
+  - context: |
+      A Cloud Captain is a student who has been chosen (through a competitive application process) to start and lead an AWS Cloud Club at their college/university. They act as the president/organizer of the club, responsible for planning activities like study sessions, AWS workshops, tech talks, and even local mini hackathons or AWS Community Days for students. Cloud Captains receive direct support from AWS’s student advocacy team – they get guidance on how to run the club, resources for learning, and mentorship to develop their leadership skills. Captains also enjoy some perks such as AWS Certification vouchers, resume review sessions, invites to AWS webinars, and cool swag to help attract club membership. This support helps them succeed in not only improving their own AWS skills but also empowering dozens or hundreds of fellow students on campus.
+    questions_and_answers:
+      - question: "What is a Cloud Captain?"
+        answer: "A Cloud Captain is a student chosen to start and lead an AWS Cloud Club at their college/university."
+      - question: "What responsibilities does a Cloud Captain have?"
+        answer: "A Cloud Captain is responsible for planning activities like study sessions, AWS workshops, tech talks, and local mini hackathons or AWS Community Days for students."
+      - question: "What support do Cloud Captains receive from AWS?"
+        answer: "Cloud Captains receive guidance on how to run the club, resources for learning, mentorship, AWS Certification vouchers, resume review sessions, invites to AWS webinars, and cool swag."
+      - question: "How does AWS support help Cloud Captains?"
+        answer: "AWS support helps Cloud Captains improve their own AWS skills and empower dozens or hundreds of fellow students on campus."
+      - question: "What are some perks of being a Cloud Captain?"
+        answer: "Perks include AWS Certification vouchers, resume review sessions, invites to AWS webinars, and cool swag to help attract club membership."
+
+  - context: |
+      The clubs are entirely focused on learning and community building. Typical Cloud Club activities might include AWS 101 bootcamps for beginners, hands-on labs in things like building a web app on AWS, sessions on cloud career guidance, and guest lectures possibly by AWS Heroes or community experts (virtually). A key aspect is that no one is selling AWS or charging fees – it’s purely about skills development and community growth. By participating, students gain practical cloud experience in a collaborative environment and can showcase their work (projects, presentations) which is great for their resumes.
+    questions_and_answers:
+      - question: "What is the focus of AWS Cloud Clubs?"
+        answer: "The focus of AWS Cloud Clubs is on learning and community building."
+      - question: "What are some typical activities in AWS Cloud Clubs?"
+        answer: "Typical activities include AWS 101 bootcamps, hands-on labs, cloud career guidance sessions, and guest lectures by AWS Heroes or community experts."
+      - question: "Are there any fees for participating in AWS Cloud Clubs?"
+        answer: "No, there are no fees for participating in AWS Cloud Clubs."
+      - question: "What do students gain by participating in AWS Cloud Clubs?"
+        answer: "Students gain practical cloud experience in a collaborative environment and can showcase their work, which is great for their resumes."
+      - question: "Who might give guest lectures in AWS Cloud Clubs?"
+        answer: "Guest lectures might be given by AWS Heroes or community experts."
+
+  - context: |
+      AWS runs this as a cohort-based program. This means not every campus has a club yet, but AWS is expanding the program. Students interested in starting a club must go through an application, demonstrating leadership experience and AWS knowledge, and even get their university’s support for the club. The exclusivity ensures committed leaders. AWS Cloud Clubs are quickly becoming a cornerstone of the student developer community in cloud – they create a pipeline of cloud-fluent graduates and strengthen the overall AWS community by bringing in new, young talent.
+    questions_and_answers:
+      - question: "How does AWS run the Cloud Clubs program?"
+        answer: "AWS runs the Cloud Clubs program as a cohort-based program."
+      - question: "Does every campus have an AWS Cloud Club?"
+        answer: "No, not every campus has an AWS Cloud Club yet, but AWS is expanding the program."
+      - question: "What must students do to start an AWS Cloud Club?"
+        answer: "Students must go through an application, demonstrating leadership experience and AWS knowledge, and get their university’s support for the club."
+      - question: "Why is the AWS Cloud Clubs program exclusive?"
+        answer: "The exclusivity ensures committed leaders."
+      - question: "What impact are AWS Cloud Clubs having on the student developer community?"
+        answer: "AWS Cloud Clubs are creating a pipeline of cloud-fluent graduates and strengthening the overall AWS community by bringing in new, young talent."
+
+  - context: |
+      Joining an AWS Cloud Club offers numerous benefits: Networking Opportunities, Skill Development, Career Advancement, and Exclusive Resources. Students can connect with like-minded peers and industry professionals, gain hands-on experience with AWS technologies, enhance their resumes with practical projects and leadership experience, and access AWS learning materials, certification vouchers, and more.
+    questions_and_answers:
+      - question: "What are the benefits of joining an AWS Cloud Club?"
+        answer: "Benefits include networking opportunities, skill development, career advancement, and exclusive resources."
+      - question: "How can students benefit from networking in AWS Cloud Clubs?"
+        answer: "Students can connect with like-minded peers and industry professionals."
+      - question: "What kind of experience can students gain in AWS Cloud Clubs?"
+        answer: "Students can gain hands-on experience with AWS technologies."
+      - question: "How can AWS Cloud Clubs help with career advancement?"
+        answer: "Students can enhance their resumes with practical projects and leadership experience."
+      - question: "What exclusive resources are available to AWS Cloud Club members?"
+        answer: "Exclusive resources include AWS learning materials, certification vouchers, and more."
+
+
+
+document_outline: |
+  This document introduces the role of the User Group Speaker, highlighting their responsibilities, the significance of the speaker badge, best practices for presentations, the implementation of the badge system, and the importance of feedback and continuous improvement.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: HEAD
+  patterns:
+    - knowledge/aws_community_information/aws_community_personas/aws_cloud_club_captain.md
+    - knowledge/aws_community_information/aws_community_personas/aws_community_builder.md
+    - knowledge/aws_community_information/aws_community_personas/aws_hero.md
+    - knowledge/aws_community_information/aws_community_personas/aws_partner_ambassador.md
+    - knowledge/aws_community_information/aws_community_personas/aws_ug_firsttimer.md
+    - knowledge/aws_community_information/aws_community_personas/aws_ug_host.md
+    - knowledge/aws_community_information/aws_community_personas/aws_ug_leader.md
+    - knowledge/aws_community_information/aws_community_personas/aws_ug_member.md
+    - knowledge/aws_community_information/aws_community_personas/aws_ug_speaker.md

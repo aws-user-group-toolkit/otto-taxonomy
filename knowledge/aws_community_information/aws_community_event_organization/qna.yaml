@@ -1,0 +1,156 @@
+version: 3
+created_by: your_github_username
+domain: aws_community_ecosystem
+seed_examples:
+  - context: |
+      Scheduling an AWS Community Meetup involves careful planning and organization. The AWS User Group Vienna serves as an example, with meetups typically held once per month on the second Wednesday. The event format includes networking, welcome introductions, two talks, and closing remarks, followed by more networking.
+    questions_and_answers:
+      - question: "How often are AWS Community Meetups held by the AWS User Group Vienna?"
+        answer: "Once per month, usually on the second Wednesday."
+      - question: "What is the typical event duration for an AWS Community Meetup?"
+        answer: "Typically from 17:00 to Open End."
+      - question: "What are some fallback venues for the meetups in Vienna?"
+        answer: "Fallback venues include the EBCONT Office and the AWS Office in Vienna."
+
+  - context: |
+      The planning process for an AWS Community Meetup starts two months in advance. Key steps include picking a date and venue, confirming with AWS User Group Leaders, and securing a venue. If no venue is available, alternatives are discussed with sponsors.
+    questions_and_answers:
+      - question: "When does the planning process for an AWS Community Meetup begin?"
+        answer: "Two months before the meetup."
+      - question: "Who needs to confirm the event date?"
+        answer: "The AWS User Group Leaders."
+      - question: "What should be done if no venue is available?"
+        answer: "Discuss alternatives with sponsors."
+
+  - context: |
+      Four to six weeks before the meetup, the topic and speakers are selected. The topic should align with AWS themes, and two speakers are found, preferably one from the community and one from an AWS Partner or Sponsor. Speaker details are collected via Sessionize.
+    questions_and_answers:
+      - question: "When should the topic and speakers be selected for the meetup?"
+        answer: "Four to six weeks before the meetup."
+      - question: "How many speakers are typically found for the meetup?"
+        answer: "Two speakers."
+      - question: "Where are speaker details collected?"
+        answer: "Via Sessionize."
+
+  - context: |
+      Three to four weeks before the meetup, promotion is prepared, and the event is scheduled on meetup.com. Promotional graphics are generated using Canva templates, and promo material is distributed on LinkedIn, Twitter, AWS UG DACH Slack, and shared with speakers and sponsors.
+    questions_and_answers:
+      - question: "When should promotion for the meetup be prepared?"
+        answer: "Three to four weeks before the meetup."
+      - question: "Where is the meetup event scheduled?"
+        answer: "On meetup.com."
+      - question: "What tools are used to generate promotional graphics?"
+        answer: "Canva templates."
+
+  - context: |
+      On the day of the meetup, the event execution involves arriving early, checking catering orders, setting up the room, coordinating with sponsors and speakers, and monitoring the event flow. This ensures a smooth and engaging experience for all attendees.
+    questions_and_answers:
+      - question: "What time should organizers arrive on the day of the meetup?"
+        answer: "Early, before check-in starts at 17:00."
+      - question: "What needs to be checked regarding catering orders?"
+        answer: "Confirm the catering order and delivery time."
+      - question: "What should be set up in the room?"
+        answer: "Seating, projector, microphone, name tags, food, and drinks."
+
+
+  - context: |
+      The host is responsible for ensuring the catering order is confirmed and delivered on time. Proper storage and setup at the venue are crucial to maintain food quality. Offering a balanced variety of vegan, vegetarian, and meat/fish options is essential to cater to all dietary preferences.
+    questions_and_answers:
+      - question: "What are the host's responsibilities for catering at an AWS Community Meetup?"
+        answer: "The host must confirm the catering order, ensure timely delivery, and properly store and set up the food at the venue."
+      - question: "Why is it important to offer a variety of dietary options?"
+        answer: "Offering a variety of dietary options ensures that all attendees have suitable food choices, enhancing their overall experience and inclusivity."
+      - question: "How should food be stored and set up at the venue?"
+        answer: "Food should be stored cold, using refrigerators if necessary, and set up at the beginning of the event with clear labeling for dietary restrictions."
+
+  - context: |
+      Catering guidelines emphasize the importance of providing a balanced variety of vegan, vegetarian, and meat/fish options. Fresh fruits and vegetables should also be included to ensure a nutritious and enjoyable meal for all attendees.
+    questions_and_answers:
+      - question: "What are the key catering guidelines for an AWS Community Meetup?"
+        answer: "Key guidelines include offering a balanced variety of vegan, vegetarian, and meat/fish options, along with fresh fruits and vegetables."
+      - question: "Why is it important to include fresh fruits and vegetables in the catering?"
+        answer: "Including fresh fruits and vegetables ensures that the catering is nutritious and provides healthy options for attendees."
+      - question: "How can organizers ensure a balanced variety of food options?"
+        answer: "Organizers can ensure a balanced variety by planning the menu to include 30% vegan, 30% vegetarian, and 30% meat/fish options, along with fresh fruits and vegetables."
+
+  - context: |
+      Proper storage and serving of food are crucial to maintain its quality and safety. Tips include keeping food fresh, setting up catering stations, and labeling dietary restrictions clearly.
+    questions_and_answers:
+      - question: "What are the best practices for storing and serving food at an AWS Community Meetup?"
+        answer: "Best practices include storing food cold, setting up catering stations at the beginning of the event, and clearly labeling dietary restrictions."
+      - question: "Why is it important to label dietary restrictions clearly?"
+        answer: "Clear labeling of dietary restrictions helps attendees easily identify suitable food options, ensuring their dietary needs are met."
+      - question: "How can organizers keep food fresh until serving?"
+        answer: "Organizers can keep food fresh by storing it in refrigerators and setting up catering stations just before the event starts."
+
+  - context: |
+      Drink options should include a mix of non-alcoholic and alcoholic beverages to cater to all attendees. Offering both sparkling and still varieties ensures that everyone has a suitable drink choice.
+    questions_and_answers:
+      - question: "What types of drink options should be provided at an AWS Community Meetup?"
+        answer: "Drink options should include a mix of non-alcoholic and alcoholic beverages, with both sparkling and still varieties."
+      - question: "Why is it important to offer both non-alcoholic and alcoholic beverages?"
+        answer: "Offering both non-alcoholic and alcoholic beverages ensures that all attendees have suitable drink choices, catering to different preferences."
+      - question: "How can organizers ensure a balanced mix of drink options?"
+        answer: "Organizers can ensure a balanced mix by providing a variety of non-alcoholic drinks (water, juices, soft drinks) and alcoholic drinks (beer, wine, prosecco)."
+
+  - context: |
+      Specific catering plans for different group sizes help ensure that the right quantities and types of food and drinks are provided. This includes detailed plans for groups of 40 and 60 people.
+    questions_and_answers:
+      - question: "Why is it important to have specific catering plans for different group sizes?"
+        answer: "Specific catering plans ensure that the right quantities and types of food and drinks are provided, preventing shortages or excess."
+      - question: "What should be included in a catering plan for 40 people?"
+        answer: "A catering plan for 40 people should include a variety of vegan, vegetarian, and meat/fish options, fresh fruits and vegetables, and a mix of non-alcoholic and alcoholic drinks."
+      - question: "How can organizers adjust catering plans for larger groups?"
+        answer: "Organizers can adjust catering plans for larger groups by increasing the quantities of each food and drink item proportionally to the number of attendees."
+
+
+  - context: |
+      Planning and executing events is a core function of AWS community engagement – whether it’s a small local meetup or a larger community-led conference. This section provides a detailed guide to event planning in the AWS community context, including regular user group meetups and special events like AWS Community Days. The focus is on best practices for organizing effective, inclusive, and engaging events.
+    questions_and_answers:
+      - question: "What is the focus of this section?"
+        answer: "The focus is on best practices for organizing effective, inclusive, and engaging AWS community events."
+      - question: "What types of events are covered in this section?"
+        answer: "This section covers regular user group meetups and special events like AWS Community Days."
+      - question: "Why is event planning important in the AWS community?"
+        answer: "Event planning is important because it helps in organizing effective, inclusive, and engaging events that foster community engagement."
+
+  - context: |
+      Start by deciding how often to hold meetups (e.g., monthly, bi-monthly) and whether they will be in-person, virtual, or hybrid. Many groups found that a 4-8 week cadence works well – frequent enough to maintain interest but not so frequent that organizers or attendees burn out. Use a poll or questionnaire to identify the best day and time for most members.
+    questions_and_answers:
+      - question: "How often should meetups be held?"
+        answer: "Many groups found that a 4-8 week cadence works well."
+      - question: "What formats can meetups take?"
+        answer: "Meetups can be in-person, virtual, or hybrid."
+      - question: "How can organizers determine the best day and time for meetups?"
+        answer: "Organizers can use a poll or questionnaire to identify the best day and time for most members."
+
+  - context: |
+      Finding a suitable location is often the first big task for an organizer. Ideal venues are accessible, comfortable, and free of charge. Good options include: your own company’s conference room, local co-working spaces, tech company offices, university halls, or community centers.
+    questions_and_answers:
+      - question: "What are some good venue options for in-person events?"
+        answer: "Good options include your own company’s conference room, local co-working spaces, tech company offices, university halls, or community centers."
+      - question: "What should organizers consider when choosing a venue?"
+        answer: "Organizers should consider accessibility, comfort, and cost (ideally free of charge)."
+      - question: "How can organizers find a host for their events?"
+        answer: "Organizers can reach out through their network or LinkedIn to find a host."
+
+  - context: |
+      If events are virtual, pick a platform (Amazon Chime, Zoom, etc.) that can handle your expected audience size. Enable features like screen sharing (for speakers) and Q&A or chat for interactivity. Do a dry run to test audio/video quality.
+    questions_and_answers:
+      - question: "What platforms can be used for virtual events?"
+        answer: "Platforms like Amazon Chime, Zoom, etc. can be used for virtual events."
+      - question: "What features should be enabled for virtual events?"
+        answer: "Features like screen sharing and Q&A or chat should be enabled for interactivity."
+      - question: "Why is it important to do a dry run before the event?"
+        answer: "A dry run helps test audio/video quality and ensures everything runs smoothly during the event."
+
+
+document_outline: |
+  This document provides a detailed guide on scheduling an AWS Community Meetup on meetup.com, covering key steps such as creating an account, proposing a new event, choosing a suitable date and time, promoting the event, and preparing an engaging agenda.
+document:
+  repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
+  commit: HEAD
+  patterns:
+    - knowledge/aws_community_information/aws_community_event_organization/aws_community_meetup_catering.md
+    - knowledge/aws_community_information/aws_community_event_organization/aws_community_meetup_planning.md
+    - knowledge/aws_community_information/aws_community_event_organization/aws_community_meetup_speaker_management.md

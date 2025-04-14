@@ -27,16 +27,16 @@
 - **Venue**: Rotating sponsor-provided locations
 - **Standard Agenda**:
   1. 17:00–18:00: Arrival & Networking
-  2. 18:00–18:10: Welcome & Introduction
-  3. 18:10–18:20: Sponsor Introduction
-  4. 18:30–19:00: Talk 1
-  5. 19:10–19:40: Talk 2
-  6. 19:40–19:45: Closing
+  2. 18:00–18:05: Welcome & Introduction
+  3. 18:05–18:10: Sponsor Introduction
+  4. 18:10–18:50: Talk 1
+  5. 19:10–19:50: Talk 2
+  6. 19:50–20:00: Closing
   7. 19:45–Open End: Networking
 
 ### 2.2 Talk Types & Levels
-- **Panel Discussions**: 60–90 mins (Level 200–300)
-- **Breakout Sessions**: 30–45 mins + Q&A (Level 300–400)
+- **Panel Discussions**: 40–60 mins (Level 200–300)
+- **Breakout Sessions**: 30–50 mins incl. Q&A (Level 300–400)
 - **Talk Levels**:
   - Level 200 – Intermediate
   - Level 300 – Advanced

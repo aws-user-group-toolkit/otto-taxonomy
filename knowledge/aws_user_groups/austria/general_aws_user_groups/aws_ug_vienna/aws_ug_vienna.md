@@ -34,13 +34,14 @@
   - Rotating sponsor locations
 
 ### 2.2 Standard Agenda
-1. 17:00–18:00: Arrival & Networking
-2. 18:00–18:10: Welcome & Introduction
-3. 18:10–18:20: Sponsor Introduction
-4. 18:30–19:00: Talk 1
-5. 19:10–19:40: Talk 2
-6. 19:40–19:45: Closing
-7. 19:45–Open End: Networking
+17:00–18:00: Arrival & Networking
+18:00–18:05: Welcome & Introduction
+18:05–18:10: Sponsor Introduction
+18:10–18:50: Talk 1
+18:50-19:10: Networking Break
+19:10–19:50: Talk 2
+19:50–20:00: Closing
+19:45–Open End: Networking
 
 ### 2.3 Talk Formats
 - **Panel Discussions**: 60–90 mins (Level 200–300)
