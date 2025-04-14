@@ -70,16 +70,6 @@ seed_examples:
         answer: "Yes, the AWS User Group Vienna also focuses on industry-specific solutions."
 
   - context: |
-      AWS User Group Vienna meetups are structured to provide a balance of technical learning and networking opportunities. The agenda typically includes two talks, each lasting 30–40 minutes, with a networking break in between. The first talk starts at 18:10 after a welcome and sponsor introduction, and the second talk begins at 19:10. The meetup concludes with closing remarks and open networking.
-    questions_and_answers:
-      - question: "What is the typical timing for an AWS User Group Vienna meetup agenda?"
-        answer: "A typical agenda includes: 17:00 - Entry & Networking, 18:00 - Welcome and Introduction, 18:10 - First Talk, 18:50 - Networking Break, 19:10 - Second Talk, 19:50 - Closing, 20:00 - Open Networking."
-      - question: "What time does the first talk usually start at AWS User Group Vienna?"
-        answer: "The first talk usually starts at 18:10, following the welcome and introductions."
-      - question: "What time does the networking break usually start at AWS User Group Vienna?"
-        answer: "The networking break typically starts at 18:50, right after the first talk."
-
-  - context: |
       The AWS User Group Vienna encourages diversity in speaker selection and topics. Talks are chosen based on technical depth, relevance to AWS, and community interest. Speakers from AWS, partners, and the broader community are welcome, provided their content aligns with the group's focus on AWS technologies and best practices.
     questions_and_answers:
       - question: "What kind of talks are accepted at AWS User Group Vienna?"
@@ -120,16 +110,6 @@ seed_examples:
         answer: "The group aims to create an inclusive environment where attendees can learn, network, and share knowledge about AWS technologies."
 
   - context: |
-      AWS User Group Vienna values community-driven content and avoids sales-oriented presentations. Talks should focus on technical insights, real-world use cases, and lessons learned, providing value to the audience while maintaining a vendor-neutral approach.
-    questions_and_answers:
-      - question: "What type of content is preferred for talks at AWS User Group Vienna?"
-        answer: "Talks should focus on technical insights, real-world use cases, and lessons learned, avoiding sales-oriented content."
-      - question: "Are vendor-neutral talks encouraged at AWS User Group Vienna?"
-        answer: "Yes, vendor-neutral talks are encouraged as long as they focus on AWS technologies or integrations."
-      - question: "Can I present a talk about AWS cost optimization at AWS User Group Vienna?"
-        answer: "Yes, cost optimization is a highly relevant topic. Talks should focus on practical strategies, tools like AWS Cost Explorer, or real-world examples of reducing AWS costs effectively."
-
-  - context: |
       AWS User Group Vienna meetups are designed to provide a structured yet engaging experience for attendees. The agenda typically includes entry and networking, a welcome and sponsor introduction, two technical talks, and a closing segment. The group also organizes pre-meetup events like GameDays and informal Stammtisch gatherings during summer months.
     questions_and_answers:
       - question: "What is the usual start time for AWS User Group Vienna meetups?"
@@ -144,26 +124,8 @@ seed_examples:
         answer: "When there's a pre-event like GameDay, it usually starts at 15:00, followed by the regular meetup entry at 17:00 and talks starting at 18:00."
 
   - context: |
-      The AWS User Group Vienna encourages diverse and high-quality talks that align with the interests of the community. Talks are selected based on technical depth, relevance to AWS, and speaker diversity. The group also supports first-time speakers and welcomes joint presentations.
-    questions_and_answers:
-      - question: "What kind of talks are accepted at AWS User Group Vienna?"
-        answer: "AWS User Group Vienna welcomes technical talks about real-world AWS usage, architecture lessons, DevOps, AI/ML, data, and cloud-native technologies. Talks should be vendor-neutral or show AWS integration if you're from a tech provider."
-      - question: "Can I submit a talk even if I’ve never spoken at a meetup before at AWS User Group Vienna?"
-        answer: "Yes, first-time speakers are welcome and encouraged! The community is supportive, and organizers can help you prepare if needed."
-      - question: "Can I co-present with someone else at AWS User Group Vienna?"
-        answer: "Yes, co-presenting is allowed and often encouraged, especially when it brings diverse perspectives or showcases collaboration between teams or companies."
-      - question: "Can I present a talk that I've already given elsewhere at AWS User Group Vienna?"
-        answer: "Yes, you can present a talk you’ve given before, especially if it hasn’t been shown to the Vienna audience yet. The focus is on delivering value, not exclusivity."
-      - question: "How long should my talk be at AWS User Group Vienna?"
-        answer: "Talks are usually 30 to 40 minutes long. Be sure to leave a few minutes for questions or discussion if your session format allows it."
-
-  - context: |
       Sponsorships are a key part of AWS User Group Vienna meetups, providing venues, food, and drinks for attendees. Sponsors are acknowledged during the event and have the opportunity to give a short introduction or provide swag, as long as it aligns with the community's vendor-neutral focus.
     questions_and_answers:
-      - question: "What does a sponsorship typically include for AWS User Group Vienna?"
-        answer: "Sponsorship usually includes hosting the meetup at your office, covering snacks and drinks, and giving a short welcome intro at the beginning of the event. Optionally, you may provide a speaker if the content aligns with our event criteria."
-      - question: "Can a sponsor give a talk at the AWS User Group Vienna event?"
-        answer: "Yes, but only if the talk is vendor-neutral, technically valuable, and fits our diversity and content criteria. Pure sales pitches or marketing talks are not permitted."
       - question: "How can we apply to become a sponsor for a future AWS User Group Vienna meetup?"
         answer: "To become a sponsor, you can contact the AWS User Group Vienna organizers via Meetup.com or LinkedIn, or by reaching out through your AWS Partner Manager if applicable."
       - question: "Can a company sponsor AWS User Group Vienna without providing a venue?"
@@ -252,16 +214,6 @@ seed_examples:
         answer: "Yes, AWS GameDays are designed for all skill levels, allowing beginners to learn while participating."
       - question: "What is the purpose of hands-on workshops at AWS User Group Vienna?"
         answer: "Hands-on workshops provide practical experience in using AWS services and solving real-world challenges."
-
-  - context: |
-      The AWS User Group Vienna values feedback from its community to continuously improve meetups and events. Attendees can share their thoughts through surveys, direct communication with organizers, or during networking sessions.
-    questions_and_answers:
-      - question: "How can attendees provide feedback on AWS User Group Vienna meetups?"
-        answer: "Attendees can provide feedback through surveys, direct communication with organizers, or during networking sessions."
-      - question: "Why is feedback important for AWS User Group Vienna?"
-        answer: "Feedback helps the organizers improve meetups and events, ensuring they meet the needs and interests of the community."
-      - question: "Can I suggest topics for future AWS User Group Vienna meetups?"
-        answer: "Yes, attendees are encouraged to suggest topics for future meetups by reaching out to the organizers."
 
   - context: |
       The AWS User Group Vienna actively supports diversity and inclusion in its events, ensuring a welcoming environment for all attendees. The group prioritizes diverse speaker representation and encourages participation from underrepresented groups in tech. Efforts are made to balance gender, background, and expertise in speaker selection.
