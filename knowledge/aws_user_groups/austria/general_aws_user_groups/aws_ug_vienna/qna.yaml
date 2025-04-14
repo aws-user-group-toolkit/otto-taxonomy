@@ -331,7 +331,8 @@ document:
     - knowledge/aws_community_information/aws_community_event_organization/aws_community_meetup_catering.md
     - knowledge/aws_community_information/aws_community_event_organization/aws_community_meetup_planning.md
     - knowledge/aws_community_information/aws_community_event_organization/aws_community_meetup_speaker_management.md
-    - knowledge/aws_community_information/aws_community/aws_community.md
-    - knowledge/aws_community_information/aws_community/aws_community_purpose.md
     - knowledge/aws_community_information/aws_community/aws_community_overview.md
     - knowledge/aws_community_information/aws_community/aws_community_events.md
+    - knowledge/aws_community_information/aws_community/aws_community_leadership.md
+    - knowledge/aws_community_information/aws_community/aws_community_user_groups.md
+

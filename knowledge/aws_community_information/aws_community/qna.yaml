@@ -468,7 +468,8 @@ document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
   commit: HEAD
   patterns:
-    - knowledge/aws_community_information/aws_community/aws_community.md
-    - knowledge/aws_community_information/aws_community/aws_community_purpose.md
     - knowledge/aws_community_information/aws_community/aws_community_overview.md
     - knowledge/aws_community_information/aws_community/aws_community_events.md
+    - knowledge/aws_community_information/aws_community/aws_community_leadership.md
+    - knowledge/aws_community_information/aws_community/aws_community_user_groups.md
+
