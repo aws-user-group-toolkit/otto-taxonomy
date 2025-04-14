@@ -86,8 +86,6 @@ seed_examples:
       - question: "What makes AWS Community Days unique?"
         answer: "AWS Community Days are unique because they are community-led, feature a variety of technical sessions, offer networking opportunities, and are accessible to a wide audience."
 
-
-
   - context: |
       Overview of AWS Open Source Contributions:
       The AWS community actively contributes to open-source projects, sharing tools, libraries, and frameworks that help others succeed with AWS. AWS supports these contributions through initiatives like the AWS Open Source Program, which provides resources and support to open-source contributors.
@@ -240,8 +238,6 @@ seed_examples:
         answer: "AWS User Group Leaders play a crucial role in fostering a collaborative environment for AWS enthusiasts to learn and share knowledge."
       - question: "What activities do AWS User Group Leaders coordinate?"
         answer: "AWS User Group Leaders coordinate events, engage with members, and often collaborate with AWS to bring valuable resources to their groups."
-
-
 
   - context: |
       AWS Community Events are gatherings organized by AWS enthusiasts and professionals to share knowledge, network, and collaborate on AWS-related topics. These events are a great way to learn from experts, meet like-minded individuals, and stay updated on the latest AWS developments.
@@ -456,7 +452,6 @@ seed_examples:
       - question: "What kind of insights can members gain from user groups?"
         answer: "Members can gain insights from real-world implementations."
 
-
 document_outline: |
   This document briefly introduces the AWS Community Ecosystem, highlighting
   its core components: AWS User Groups, leadership and recognition programs,
@@ -472,4 +467,3 @@ document:
     - knowledge/aws_community_information/aws_community/aws_community_events.md
     - knowledge/aws_community_information/aws_community/aws_community_leadership.md
     - knowledge/aws_community_information/aws_community/aws_community_user_groups.md
-

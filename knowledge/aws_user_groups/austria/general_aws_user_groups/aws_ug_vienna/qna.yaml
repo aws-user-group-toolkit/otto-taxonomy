@@ -69,7 +69,6 @@ seed_examples:
       - question: "Does the AWS User Group Vienna focus on industry-specific solutions?"
         answer: "Yes, the AWS User Group Vienna also focuses on industry-specific solutions."
 
-
   - context: |
       AWS User Group Vienna meetups are structured to provide a balance of technical learning and networking opportunities. The agenda typically includes two talks, each lasting 30–40 minutes, with a networking break in between. The first talk starts at 18:10 after a welcome and sponsor introduction, and the second talk begins at 19:10. The meetup concludes with closing remarks and open networking.
     questions_and_answers:
@@ -130,7 +129,6 @@ seed_examples:
       - question: "Can I present a talk about AWS cost optimization at AWS User Group Vienna?"
         answer: "Yes, cost optimization is a highly relevant topic. Talks should focus on practical strategies, tools like AWS Cost Explorer, or real-world examples of reducing AWS costs effectively."
 
-
   - context: |
       AWS User Group Vienna meetups are designed to provide a structured yet engaging experience for attendees. The agenda typically includes entry and networking, a welcome and sponsor introduction, two technical talks, and a closing segment. The group also organizes pre-meetup events like GameDays and informal Stammtisch gatherings during summer months.
     questions_and_answers:
@@ -186,7 +184,6 @@ seed_examples:
         answer: "No, Stammtisch events do not include talks or presentations. They are purely informal gatherings focused on networking, community discussions, and enjoying food and drinks together."
       - question: "How can I stay informed about upcoming Stammtisch events at AWS User Group Vienna?"
         answer: "You can stay informed by following the AWS User Group Vienna Meetup.com page and subscribing to event notifications. Details about Stammtisch events are posted well in advance."
-
 
   - context: |
       AWS User Group Vienna meetups are structured to provide a balance of technical learning and networking opportunities. The agenda typically includes two talks, each lasting 30–40 minutes, with a networking break in between. The first talk starts at 18:10 after a welcome and sponsor introduction, and the second talk begins at 19:10. The meetup concludes with closing remarks and open networking.
@@ -305,7 +302,6 @@ seed_examples:
         answer: "Feedback helps organizers improve events and ensure they meet the needs and interests of the community."
       - question: "Can attendees suggest topics for future AWS User Group Vienna meetups?"
         answer: "Yes, attendees are encouraged to suggest topics for future meetups by reaching out to the organizers."
-
 
 document_outline: |
   This document introduces the AWS User Group Vienna, detailing its community size, meetup schedule, communication channels, major events, leadership team, and how to become a leader. It also outlines the standard agenda for meetups, talk formats, and technical levels.

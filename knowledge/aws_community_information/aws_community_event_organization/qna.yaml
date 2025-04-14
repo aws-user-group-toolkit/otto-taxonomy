@@ -52,7 +52,6 @@ seed_examples:
       - question: "What should be set up in the room?"
         answer: "Seating, projector, microphone, name tags, food, and drinks."
 
-
   - context: |
       The host is responsible for ensuring the catering order is confirmed and delivered on time. Proper storage and setup at the venue are crucial to maintain food quality. Offering a balanced variety of vegan, vegetarian, and meat/fish options is essential to cater to all dietary preferences.
     questions_and_answers:
@@ -103,7 +102,6 @@ seed_examples:
       - question: "How can organizers adjust catering plans for larger groups?"
         answer: "Organizers can adjust catering plans for larger groups by increasing the quantities of each food and drink item proportionally to the number of attendees."
 
-
   - context: |
       Planning and executing events is a core function of AWS community engagement – whether it’s a small local meetup or a larger community-led conference. This section provides a detailed guide to event planning in the AWS community context, including regular user group meetups and special events like AWS Community Days. The focus is on best practices for organizing effective, inclusive, and engaging events.
     questions_and_answers:
@@ -143,7 +141,6 @@ seed_examples:
         answer: "Features like screen sharing and Q&A or chat should be enabled for interactivity."
       - question: "Why is it important to do a dry run before the event?"
         answer: "A dry run helps test audio/video quality and ensures everything runs smoothly during the event."
-
 
 document_outline: |
   This document provides a detailed guide on scheduling an AWS Community Meetup on meetup.com, covering key steps such as creating an account, proposing a new event, choosing a suitable date and time, promoting the event, and preparing an engaging agenda.

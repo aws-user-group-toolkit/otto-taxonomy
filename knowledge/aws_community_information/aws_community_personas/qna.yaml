@@ -72,7 +72,6 @@ seed_examples:
       - question: "What are some methods for collecting feedback?"
         answer: "Some methods for collecting feedback include surveys, direct conversations, and digital feedback forms."
 
-
   - context: |
       The AWS User Group Member is an integral part of our community. While they may not have a specific badge like the leaders, speakers, hosts, or first-timers, their participation and engagement are crucial to the success of our meetups. This document provides an overview of the typical AWS User Group Member and their role within the community.
     questions_and_answers:
@@ -143,7 +142,6 @@ seed_examples:
       - question: "What is one benefit of attending meetups?"
         answer: "One benefit is staying up-to-date with the latest AWS developments."
 
-
   - context: |
       Strong community leadership is the backbone of successful AWS user groups and programs. Community leaders are the volunteers and advocates who dedicate time to organize events, foster inclusive environments, and guide the growth of the community. This section covers what AWS community leadership entails, the responsibilities and best practices for leaders, and how AWS supports those leading community efforts.
     questions_and_answers:
@@ -200,7 +198,6 @@ seed_examples:
         answer: "AWS Heroes and Core Team provide mentorship, advice, and support to new user group leaders, helping them run successful events and grow their communities."
       - question: "What resources does AWS provide to community leaders?"
         answer: "AWS provides resource kits, slide templates, credits, merchandise packs, and early access to workshops or demos to help community leaders run events and engage their members."
-
 
   - context: |
       The User Group Host plays a crucial role in the success of our AWS meetups. Hosts provide the venue and often refreshments, creating a welcoming environment for attendees. Their contribution is vital for the smooth operation and overall experience of the event.
@@ -272,7 +269,6 @@ seed_examples:
       - question: "What is the role of hosts in coordination?"
         answer: "Hosts should coordinate with the User Group Leader to understand the event's requirements and schedule."
 
-
   - context: |
       The **User Group First-Timer** badge is designed to identify attendees who are participating in an AWS User Group meetup for the first time. This badge serves as an invitation for existing members to welcome them and for leaders to ensure they have a great first experience. The primary goal of the First-Timer badge is to foster a welcoming and inclusive environment for newcomers. By clearly identifying first-timers, the badge encourages experienced members to engage with them, offer assistance, and make them feel part of the community. The badge is visually distinct to ensure it stands out, typically including a unique color, clear "First-Timer" text, and an optional icon. Templates for printing badges on Avery L3415 stickers and high-quality PNG files are available for digital use or professional printing. Usage tips include conducting a briefing session, explaining the badge system during the welcome speech, and gathering feedback from first-timers after the event. This badge system is part of a community project initiated by the AWS Meetup Vienna, Austria, and is not officially affiliated with or endorsed by AWS.
     questions_and_answers:
@@ -282,7 +278,6 @@ seed_examples:
         answer: "The First-Timer badge typically includes a unique color, clear 'First-Timer' text, and an optional icon."
       - question: "Who initiated the First-Timer badge system?"
         answer: "The First-Timer badge system is part of a community project initiated by the AWS Meetup Vienna, Austria, and is not officially affiliated with or endorsed by AWS."
-
 
   - context: |
       The AWS Ambassador Program is a community initiative within the AWS Partner Network (APN) that recognizes and empowers AWS experts who work at AWS Partner companies. These individuals (called AWS Ambassadors) are usually solutions architects, engineers, or technical leads at consulting firms or ISVs that are AWS Partners. Ambassadors are passionate AWS advocates within their organizations and externally. They are typically AWS Certified professionals who have proven technical expertise and a track record of knowledge-sharing.
@@ -311,7 +306,6 @@ seed_examples:
         answer: "The Ambassador title specifically ties to one’s role in an AWS Partner organization."
       - question: "How do the roles of AWS Ambassadors and AWS Heroes differ?"
         answer: "Ambassadors are partner-focused, whereas Heroes are community-focused at large."
-
 
   - context: |
       The AWS Heroes program is a global recognition initiative designed to honor and celebrate AWS experts who go above and beyond to share their knowledge and mentor others in the tech community. These individuals are true community heroes, making significant contributions through blogs, open-source projects, videos, meetups, and more. Their efforts have a profound impact on AWS users worldwide.
@@ -368,8 +362,6 @@ seed_examples:
         answer: "They answer questions and provide support online."
       - question: "What is the impact of AWS Heroes on AWS knowledge?"
         answer: "They act as force-multipliers for AWS knowledge."
-
-
 
   - context: |
       The AWS Community Builders program offers emerging community enthusiasts a pathway to deepen their AWS knowledge, expand their network, and increase their reach as thought leaders. Community Builders are typically AWS practitioners (developers, architects, etc.) who are passionate about sharing AWS knowledge – perhaps through blogging, speaking at meetups, creating tutorials, or contributing to open source. The program is open to applicants worldwide and seeks a diverse cohort of individuals who actively create content or help others learn AWS.
@@ -441,7 +433,6 @@ seed_examples:
       - question: "Do Community Builders only focus on online activities?"
         answer: "No, they also speak at conferences and meetups, and contribute to open source projects."
 
-
   - context: |
       AWS Cloud Clubs are a community program tailored for students (typically university level) who are interested in cloud computing. Each Cloud Club is a campus-based AWS user group for students, by students. These clubs are led by select student leaders known as AWS Cloud Captains. The mission is to cultivate the next generation of cloud professionals by creating an inclusive space for students to learn AWS, build projects, and share knowledge, without any sales or marketing agenda.
     questions_and_answers:
@@ -511,8 +502,6 @@ seed_examples:
         answer: "Students can enhance their resumes with practical projects and leadership experience."
       - question: "What exclusive resources are available to AWS Cloud Club members?"
         answer: "Exclusive resources include AWS learning materials, certification vouchers, and more."
-
-
 
 document_outline: |
   This document introduces the role of the User Group Speaker, highlighting their responsibilities, the significance of the speaker badge, best practices for presentations, the implementation of the badge system, and the importance of feedback and continuous improvement.

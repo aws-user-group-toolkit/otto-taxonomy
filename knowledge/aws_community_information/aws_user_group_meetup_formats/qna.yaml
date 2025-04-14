@@ -58,7 +58,6 @@ seed_examples:
       - question: "What kind of projects can you be inspired to start in AWS User Groups?"
         answer: "You can be inspired to start projects using new AWS services or combining them in unique ways."
 
-
   - context: |
       User group workshops are collaborative events where individuals with shared interests come together to learn, share knowledge, and work on projects. These workshops are typically organized by user groups or communities and can cover a wide range of topics, from programming languages to cloud computing.
     questions_and_answers:
@@ -69,7 +68,6 @@ seed_examples:
       - question: "What topics can these workshops cover?"
         answer: "They can cover a wide range of topics, from programming languages to cloud computing."
 
-
   - context: |
       These workshops are typically organized by user groups or communities and can cover a wide range of topics, from programming languages to cloud computing.
     questions_and_answers:
@@ -79,7 +77,6 @@ seed_examples:
         answer: "Follow any pre-workshop instructions, such as installing necessary software or reading provided materials."
       - question: "What are the benefits of attending these workshops?"
         answer: "Benefits include hands-on learning, expert guidance, networking opportunities, and often being free or low-cost."
-
 
   - context: |
       A Stammtisch is a traditional German concept referring to a regular informal gathering of people, typically held in a pub or beer garden. It is a social event where participants come together to enjoy drinks, food, and conversation in a relaxed atmosphere. The term "Stammtisch" translates to "regulars' table," indicating a recurring event where community members can connect and network.
@@ -151,7 +148,6 @@ seed_examples:
       - question: "Why is it important to highlight the social aspect of a Stammtisch?"
         answer: "Emphasizing the relaxed and social nature of the event can attract participants who may be hesitant to attend more formal meetups."
 
-
   - context: |
       A pubquiz is a fun and engaging game typically held in a pub or bar setting. Participants form teams and answer questions across various categories to compete for prizes or bragging rights. The questions can range from general knowledge to specific topics, making it a versatile and enjoyable activity for all participants.
     questions_and_answers:
@@ -202,7 +198,6 @@ seed_examples:
         answer: "Effective ways to promote the pubquiz include using social media, email newsletters, and other communication channels to spread the word."
       - question: "What should you highlight when promoting the pubquiz?"
         answer: "When promoting the pubquiz, highlight the fun and educational aspects to attract more participants."
-
 
   - context: |
       To host a local GameDay, user groups should arrange a venue with a large screen, audio setup, power and stable internet access, and optionally food and drinks for participants. Teams of 2-4 members should be formed, ensuring diversity in skill levels.
