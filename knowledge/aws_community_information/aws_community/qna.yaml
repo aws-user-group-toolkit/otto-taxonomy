@@ -135,6 +135,7 @@ document_outline: |
   - AWS Meetups: Informal gatherings for AWS users to connect and share insights.
   - AWS GameDays: Team-based learning exercises to challenge AWS skills.
   - AWS Leadership Programs: Initiatives empowering individuals to lead and innovate within the AWS ecosystem.
+document:
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
   commit: HEAD
   patterns:
