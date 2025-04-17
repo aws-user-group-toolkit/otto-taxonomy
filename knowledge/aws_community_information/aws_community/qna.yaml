@@ -3,467 +3,139 @@ created_by: your_github_username
 domain: aws_community_ecosystem
 seed_examples:
   - context: |
-      Overview of AWS User Groups:
-      AWS User Groups are independent, community-organized gatherings of AWS enthusiasts who meet regularly to share knowledge, discuss new AWS services, and collaborate on projects. These groups provide a platform for members to learn from each other, host guest speakers, and participate in workshops and hackathons.
+      AWS User Groups are local communities where AWS enthusiasts gather to share knowledge, discuss AWS topics, and network. These groups provide a supportive environment for learning and collaboration.
     questions_and_answers:
       - question: "What are AWS User Groups?"
-        answer: "AWS User Groups are community-organized gatherings where AWS users meet to share knowledge, discuss new services, and collaborate on projects."
+        answer: "AWS User Groups are local communities where AWS enthusiasts gather to share knowledge, discuss AWS topics, and network."
+      - question: "What benefits do AWS User Groups offer?"
+        answer: "They provide a supportive environment for learning, networking, and staying updated on AWS developments."
       - question: "How can I join an AWS User Group?"
-        answer: "You can find and join an AWS User Group by visiting the AWS User Groups Official Page."
-      - question: "What activities do AWS User Groups typically organize?"
-        answer: "AWS User Groups organize meetups, workshops, hackathons, and guest speaker sessions to foster learning and collaboration."
+        answer: "You can join by visiting the AWS User Groups Official Page or searching for a local group online."
+      - question: "What types of events do AWS User Groups organize?"
+        answer: "They organize meetups, workshops, hackathons, and technical talks to foster collaboration and learning."
+      - question: "Are AWS User Groups free to join?"
+        answer: "Yes, most AWS User Groups are free to join and open to anyone interested in AWS."
+      - question: "Can beginners participate in AWS User Groups?"
+        answer: "Absolutely! AWS User Groups welcome members of all skill levels, from beginners to experts."
 
   - context: |
-      Overview of AWS Heroes:
-      AWS Heroes are individuals recognized by AWS for their significant contributions to the community through content creation, open-source projects, and community leadership. They are experts who share their knowledge and help others succeed with AWS.
+      AWS Heroes are individuals recognized for their significant contributions to the AWS community through knowledge sharing, content creation, and leadership.
     questions_and_answers:
       - question: "Who are AWS Heroes?"
-        answer: "AWS Heroes are individuals recognized by AWS for their significant contributions to the community through content creation, open-source projects, and community leadership."
+        answer: "AWS Heroes are individuals recognized for their significant contributions to the AWS community."
       - question: "How can I become an AWS Hero?"
-        answer: "To become an AWS Hero, you need to make significant contributions to the AWS community, such as creating content, contributing to open-source projects, and demonstrating leadership. But keep in mind that the process is not open to applications and nobody knows any details of the selection."
-      - question: "What benefits do AWS Heroes receive?"
-        answer: "AWS Heroes receive recognition and opportunities to connect with AWS teams and other community leaders."
+        answer: "You need to make impactful contributions to the AWS community, but the selection process is invitation-only."
+      - question: "What are the different categories of AWS Heroes?"
+        answer: "AWS Heroes are categorized into Community Heroes, Container Heroes, Data Heroes, Serverless Heroes, Machine Learning Heroes and many more categories, based on their expertise."
+      - question: "Can AWS Heroes collaborate with AWS teams?"
+        answer: "Yes, AWS Heroes often collaborate with AWS teams to provide feedback and share insights from the community."
 
   - context: |
-      Overview of AWS Community Builders:
-      AWS Community Builders is a program that offers participants access to exclusive resources, mentorship opportunities, and a platform to share their expertise with a broader audience. It aims to support and recognize individuals who are passionate about sharing their AWS knowledge.
+      The AWS Community Builders program supports individuals passionate about sharing AWS knowledge by providing resources, mentorship, and a platform for collaboration.
     questions_and_answers:
       - question: "What is the AWS Community Builders program?"
-        answer: "The AWS Community Builders program offers participants access to exclusive resources, mentorship opportunities, and a platform to share their AWS expertise."
+        answer: "It is a program offering resources, mentorship, and a platform for sharing AWS expertise."
       - question: "How can I join the AWS Community Builders program?"
-        answer: "You can apply to join the AWS Community Builders program by visiting the AWS Community Builders Official Page and submitting an application."
+        answer: "You can apply by visiting the AWS Community Builders Official Page and submitting an application."
       - question: "What are the benefits of being an AWS Community Builder?"
-        answer: "AWS Community Builders gain access to exclusive resources, mentorship opportunities, and a platform to share their expertise with a broader audience."
+        answer: "Benefits include access to exclusive resources, mentorship, and opportunities to share expertise."
+      - question: "What kind of resources do AWS Community Builders receive?"
+        answer: "They receive AWS credits, training materials, and access to private technical webinars."
+      - question: "How often can individuals apply to the AWS Community Builders program?"
+        answer: "Applications are typically open twice a year, and interested individuals can apply during these periods."
+      - question: "What is the role of mentorship in the AWS Community Builders program?"
+        answer: "Mentorship helps participants grow their skills, share knowledge effectively, and contribute meaningfully to the AWS community."
 
   - context: |
-      Overview of AWS Community Days:
-      AWS Community Days are community-organized events where AWS enthusiasts gather to share real-world solutions, demos, and best practices. These events provide an opportunity for attendees to learn from AWS experts, network with peers, and gain insights into the latest AWS trends and technologies.
+      AWS Community Days are community-organized events where AWS enthusiasts share knowledge, network, and learn through technical sessions and workshops.
     questions_and_answers:
       - question: "What are AWS Community Days?"
-        answer: "AWS Community Days are community-organized events where AWS enthusiasts gather to share real-world solutions, demos, and best practices."
+        answer: "They are community-organized events for sharing knowledge, networking, and learning about AWS."
+      - question: "What activities are featured at AWS Community Days?"
+        answer: "Activities include technical sessions, workshops, and networking opportunities."
       - question: "How can I participate in an AWS Community Day?"
-        answer: "You can participate in an AWS Community Day by finding an event near you on the AWS Community Day Overview page and registering to attend."
-      - question: "What can I expect at an AWS Community Day event?"
-        answer: "At an AWS Community Day event, you can expect to learn from AWS experts, network with peers, and gain insights into the latest AWS trends and technologies."
-      - question: "What is the purpose of the AWS Community?"
-        answer: "The purpose of the AWS Community is to foster collaboration, share knowledge, and support each other in leveraging AWS services to build innovative solutions."
-      - question: "How does the AWS Community share knowledge?"
-        answer: "The community shares knowledge through events, documentation, tutorials, forums, and discussion groups."
-      - question: "What networking opportunities are available in the AWS Community?"
-        answer: "Networking opportunities include AWS Meetups, online communities, AWS User Groups, AWS Community Days, Community Stages at AWS re:Invent and AWS Summits, and CDK Happy Hour."
-      - question: "What are AWS Community Day events?"
-        answer: "AWS Community Day events are community-led conferences organized by AWS user groups around the world, featuring technical sessions, workshops, and networking opportunities."
-      - question: "Who organizes AWS Community Day events?"
-        answer: "AWS Community Day events are organized by AWS user groups."
-      - question: "What can attendees expect at AWS Community Day events?"
-        answer: "Attendees can expect technical sessions, workshops, and networking opportunities at AWS Community Day events."
-      - question: "What is the purpose of AWS Community Day events?"
-        answer: "The purpose of AWS Community Day events is to allow attendees to learn from AWS experts and peers."
-      - question: "How often are AWS Community Day events held?"
-        answer: "AWS Community Day events are held regularly by various AWS user groups around the world."
-      - question: "What are AWS Community Days?"
-        answer: "AWS Community Days are community-led events organized by AWS user groups around the world to bring together AWS enthusiasts, developers, and experts to share knowledge, network, and learn from each other."
-      - question: "What is the primary purpose of AWS Community Days?"
-        answer: "The primary purpose of AWS Community Days is to foster a sense of community among AWS users, provide a platform for sharing best practices and success stories, and offer learning opportunities through technical sessions and workshops."
+        answer: "You can find and register for events on the AWS Community Day Overview page."
       - question: "Who organizes AWS Community Days?"
-        answer: "AWS Community Days are organized by local AWS user groups."
-      - question: "What types of sessions are featured at AWS Community Days?"
-        answer: "AWS Community Days feature a variety of technical sessions, including keynotes from industry leaders, deep dives into AWS services and solutions, and hands-on workshops and labs."
-      - question: "What networking opportunities are available at AWS Community Days?"
-        answer: "Attendees have the chance to connect with AWS experts and peers, participate in discussions and Q&A sessions, and build professional relationships within the AWS community."
-      - question: "Are AWS Community Days accessible to everyone?"
-        answer: "Yes, AWS Community Days are often free or low-cost, making them accessible to a wide audience, including students, professionals, and hobbyists."
-      - question: "Are AWS Community Days free to attend?"
-        answer: "AWS Community Days are often free or low-cost, making them accessible to a wide audience."
-      - question: "What is the benefit of attending AWS Community Days?"
-        answer: "The benefit of attending AWS Community Days is the opportunity to share knowledge, network, and learn from other AWS enthusiasts, developers, and experts."
-      - question: "What types of technical sessions are available at AWS Community Days?"
-        answer: "Technical sessions at AWS Community Days include keynotes from industry leaders, deep dives into AWS services and solutions, and hands-on workshops and labs."
-      - question: "What is the environment like at AWS Community Days?"
-        answer: "The environment at AWS Community Days is supportive and collaborative, providing a unique opportunity to learn, share, and connect with the AWS community."
-      - question: "Who benefits from attending AWS Community Days?"
-        answer: "Anyone interested in AWS, including students, professionals, and hobbyists, can benefit from attending AWS Community Days."
-      - question: "What makes AWS Community Days unique?"
-        answer: "AWS Community Days are unique because they are community-led, feature a variety of technical sessions, offer networking opportunities, and are accessible to a wide audience."
+        answer: "They are organized by local AWS User Groups with support from AWS."
+      - question: "Are AWS Community Days suitable for beginners?"
+        answer: "Yes, AWS Community Days offer sessions for all skill levels, from beginner to advanced."
+      - question: "What topics are typically covered at AWS Community Days?"
+        answer: "Topics range from cloud architecture and DevOps to AI/ML, serverless, and security."
 
   - context: |
-      Overview of AWS Open Source Contributions:
-      The AWS community actively contributes to open-source projects, sharing tools, libraries, and frameworks that help others succeed with AWS. AWS supports these contributions through initiatives like the AWS Open Source Program, which provides resources and support to open-source contributors.
+      The AWS community actively contributes to open-source projects, sharing tools and frameworks to help others succeed with AWS.
     questions_and_answers:
       - question: "How does the AWS community contribute to open source?"
-        answer: "The AWS community contributes to open-source projects by sharing tools, libraries, and frameworks that help others succeed with AWS."
+        answer: "By sharing tools, libraries, and frameworks that help others succeed with AWS."
       - question: "What is the AWS Open Source Program?"
-        answer: "The AWS Open Source Program is an initiative that provides resources and support to open-source contributors within the AWS community."
+        answer: "It is an initiative providing resources and support to open-source contributors."
       - question: "How can I get involved in AWS open-source projects?"
-        answer: "You can get involved in AWS open-source projects by exploring AWS-focused repositories on GitHub, checking the AWS Open Source site, and collaborating with peers during community-organized hackathons and workshops."
+        answer: "Explore AWS-focused repositories on GitHub or participate in community-organized hackathons."
+      - question: "What are some popular AWS open-source projects?"
+        answer: "Popular projects include AWS CDK, AWS Amplify, and AWS SDKs for various programming languages."
+      - question: "Does AWS provide funding for open-source projects?"
+        answer: "Yes, AWS offers grants and sponsorships for impactful open-source projects."
+      - question: "How can I showcase my open-source contributions to the AWS community?"
+        answer: "You can share your work on GitHub, write blog posts, or present at AWS community events."
 
   - context: |
-      The AWS Community Ecosystem is a thriving network designed to bring together individuals who are passionate about Amazon Web Services (AWS). Whether you are a beginner just starting your cloud journey or an experienced professional, the AWS Community offers a wealth of resources and opportunities to help you grow and succeed.
-    questions_and_answers:
-      - question: "What is the AWS Community Ecosystem?"
-        answer: "The AWS Community Ecosystem is a network designed to bring together individuals passionate about AWS, offering resources and opportunities for growth."
-      - question: "Who can benefit from the AWS Community?"
-        answer: "Both beginners and experienced professionals can benefit from the AWS Community."
-      - question: "What are the core principles of the AWS Community?"
-        answer: "The core principles of the AWS Community are knowledge sharing, collaboration, and innovation."
-      - question: "What does the AWS Community encompass?"
-        answer: "The AWS Community encompasses a variety of programs and initiatives catering to different interests and expertise levels."
-      - question: "Is the AWS Community limited to a specific location?"
-        answer: "No, the AWS Community spans the globe, connecting people from diverse backgrounds and cultures."
-
-  - context: |
-      Much of the AWS Community’s success can be attributed to the dedication of its volunteers. These individuals organize events, lead user groups, and contribute to open-source projects.
-    questions_and_answers:
-      - question: "What drives the success of the AWS Community?"
-        answer: "The dedication of its volunteers drives the success of the AWS Community."
-      - question: "What roles do volunteers play in the AWS Community?"
-        answer: "Volunteers organize events, lead user groups, and contribute to open-source projects."
-      - question: "What are some key programs offered by the AWS Community?"
-        answer: "Key programs include AWS Heroes, AWS Community Builders, and AWS Cloud Clubs."
-      - question: "What is the AWS Heroes program?"
-        answer: "The AWS Heroes program highlights individuals who have made significant contributions to the community."
-      - question: "What is the AWS Community Builders initiative?"
-        answer: "The AWS Community Builders initiative provides participants with access to exclusive resources, mentorship, and a platform to share their expertise."
-      - question: "What are AWS Cloud Clubs?"
-        answer: "AWS Cloud Clubs are student-led groups that focus on learning and experimenting with AWS technologies."
-
-  - context: |
-      Community events play a crucial role in the AWS Community Ecosystem. They provide a platform for members to come together, share their experiences, and learn from one another.
-    questions_and_answers:
-      - question: "What role do community events play in the AWS Community Ecosystem?"
-        answer: "Community events provide a platform for members to come together, share experiences, and learn from one another."
-      - question: "What types of events are held in the AWS Community?"
-        answer: "Events range from small local meetups to large-scale conferences like AWS Community Days."
-      - question: "What role does open source play in the AWS Community?"
-        answer: "Open source is a significant aspect, with many tools, libraries, and frameworks developed and shared by community members."
-      - question: "How does AWS support open-source efforts?"
-        answer: "AWS supports open-source efforts through programs that provide resources and recognition to contributors."
-      - question: "What are the benefits of joining the AWS Community?"
-        answer: "Benefits include access to knowledge, networking opportunities, mentorship, exclusive resources, and staying informed about the latest trends."
-  - context: |
-      The AWS Community Ecosystem is built on the foundation of knowledge sharing, collaboration, and innovation. These principles guide the various programs and initiatives that make up the community.
-    questions_and_answers:
-      - question: "What are the foundational principles of the AWS Community Ecosystem?"
-        answer: "The foundational principles are knowledge sharing, collaboration, and innovation."
-      - question: "How do these principles manifest in the AWS Community?"
-        answer: "These principles guide the programs and initiatives, fostering a supportive and innovative environment."
-      - question: "Why are these principles important for the AWS Community?"
-        answer: "They ensure that the community remains a dynamic and inclusive space for learning and growth."
-  - context: |
-      The AWS Community offers numerous opportunities for professional development and networking. Members can participate in events, join user groups, and contribute to open-source projects.
-    questions_and_answers:
-      - question: "What opportunities does the AWS Community offer for professional development?"
-        answer: "Opportunities include participating in events, joining user groups, and contributing to open-source projects."
-      - question: "How can members benefit from networking within the AWS Community?"
-        answer: "Members can build relationships, collaborate on projects, and gain insights from peers."
-      - question: "What role do open-source projects play in the AWS Community?"
-        answer: "Open-source projects allow members to collaborate, innovate, and share their work with the broader community."
-
-  - context: |
-      AWS Meetups are local gatherings where AWS enthusiasts can connect, share insights, and build professional relationships. These meetups provide a platform for members to discuss AWS topics, share experiences, and learn from each other. They are often organized by local user groups and can include presentations, workshops, and networking sessions.
+      AWS Meetups are informal gatherings where AWS users connect, share insights, and learn from each other.
     questions_and_answers:
       - question: "What are AWS Meetups?"
-        answer: "AWS Meetups are local gatherings where AWS enthusiasts can connect, share insights, and build professional relationships."
+        answer: "They are informal gatherings where AWS users connect, share insights, and learn from each other."
       - question: "Who organizes AWS Meetups?"
-        answer: "AWS Meetups are often organized by local user groups."
-      - question: "What activities can you expect at an AWS Meetup?"
-        answer: "Activities at an AWS Meetup can include presentations, workshops, and networking sessions."
-  - context: |
-      AWS User Groups are local communities of AWS enthusiasts who come together to discuss AWS topics, share experiences, and learn from each other. These groups provide a supportive environment for members to ask questions, share solutions, and stay updated on the latest AWS developments. Joining a user group can help members build their professional network and gain valuable insights from peers.
-    questions_and_answers:
-      - question: "What are AWS User Groups?"
-        answer: "AWS User Groups are local communities of AWS enthusiasts who come together to discuss AWS topics, share experiences, and learn from each other."
-      - question: "What benefits do AWS User Groups offer?"
-        answer: "AWS User Groups offer a supportive environment for members to ask questions, share solutions, and stay updated on the latest AWS developments."
-      - question: "How can joining an AWS User Group help you?"
-        answer: "Joining an AWS User Group can help you build your professional network and gain valuable insights from peers."
+        answer: "They are organized by local AWS User Groups."
+      - question: "What activities are included in AWS Meetups?"
+        answer: "Activities include presentations, workshops, and networking sessions."
+      - question: "How can I find AWS Meetups in my area?"
+        answer: "You can search for AWS Meetups on Meetup.com or the AWS User Groups directory."
+      - question: "What is the typical duration of an AWS Meetup?"
+        answer: "AWS Meetups usually last 1-2 hours, depending on the agenda."
+      - question: "Can I present at an AWS Meetup?"
+        answer: "Yes, many AWS Meetups welcome community members to share their knowledge through presentations."
 
   - context: |
-      The CDK Happy Hour is an online event focused on the AWS Cloud Development Kit (CDK). It provides a platform for developers to learn about the CDK, share their experiences, and discuss best practices. The event includes presentations, live coding sessions, and Q&A segments, making it an excellent opportunity for both new and experienced CDK users to enhance their skills and knowledge.
-    questions_and_answers:
-      - question: "What is the CDK Happy Hour?"
-        answer: "The CDK Happy Hour is an online event focused on the AWS Cloud Development Kit (CDK)."
-      - question: "What activities are included in the CDK Happy Hour?"
-        answer: "The CDK Happy Hour includes presentations, live coding sessions, and Q&A segments."
-      - question: "Who can benefit from attending the CDK Happy Hour?"
-        answer: "Both new and experienced CDK users can benefit from attending the CDK Happy Hour to enhance their skills and knowledge."
-
-  - context: |
-      At AWS Summits and re:Invent, community stages provide a platform for AWS users to share their knowledge and experiences. These stages feature presentations, demos, and discussions led by community members, offering diverse insights into AWS technologies and best practices.
-    questions_and_answers:
-      - question: "What are community stages at AWS Summits and re:Invent?"
-        answer: "Community stages at AWS Summits and re:Invent are platforms for AWS users to share their knowledge and experiences through presentations, demos, and discussions."
-      - question: "Who leads the sessions at community stages?"
-        answer: "Sessions at community stages are led by community members."
-      - question: "What types of content are featured at community stages?"
-        answer: "Community stages feature presentations, demos, and discussions."
-      - question: "What is the benefit of attending community stages at AWS Summits and re:Invent?"
-        answer: "Attending community stages provides diverse insights into AWS technologies and best practices."
-      - question: "How can community members participate in community stages?"
-        answer: "Community members can participate by presenting, demoing, or leading discussions at community stages."
-
-  - context: |
-      AWS Meetups are informal gatherings organized by AWS user groups. These events provide a space for AWS enthusiasts to connect, share knowledge, and discuss the latest AWS developments. Meetups often include presentations, hands-on sessions, and networking opportunities.
-    questions_and_answers:
-      - question: "What are AWS Meetups?"
-        answer: "AWS Meetups are informal gatherings organized by AWS user groups for AWS enthusiasts to connect, share knowledge, and discuss the latest AWS developments."
-      - question: "Who organizes AWS Meetups?"
-        answer: "AWS Meetups are organized by AWS user groups."
-      - question: "What activities are typically included in AWS Meetups?"
-        answer: "AWS Meetups typically include presentations, hands-on sessions, and networking opportunities."
-      - question: "What is the purpose of AWS Meetups?"
-        answer: "The purpose of AWS Meetups is to provide a space for AWS enthusiasts to connect, share knowledge, and discuss the latest AWS developments."
-      - question: "How can I find an AWS Meetup to attend?"
-        answer: "You can find an AWS Meetup by searching online, checking the AWS website, or joining social media groups and forums."
-
-  - context: |
-      AWS GameDays are interactive, team-based learning exercises designed to challenge participants' AWS skills. During a GameDay, teams compete to solve real-world problems using AWS services, fostering collaboration and practical learning in a fun, competitive environment.
+      AWS GameDays are team-based learning exercises designed to challenge participants' AWS skills in a fun, competitive environment.
     questions_and_answers:
       - question: "What are AWS GameDays?"
-        answer: "AWS GameDays are interactive, team-based learning exercises designed to challenge participants' AWS skills."
+        answer: "They are team-based learning exercises that challenge participants' AWS skills."
       - question: "What do participants do during an AWS GameDay?"
-        answer: "During an AWS GameDay, participants compete in teams to solve real-world problems using AWS services."
+        answer: "They solve real-world problems using AWS services in a team-based competition."
       - question: "What is the purpose of AWS GameDays?"
-        answer: "The purpose of AWS GameDays is to foster collaboration and practical learning in a fun, competitive environment."
-      - question: "How are AWS GameDays structured?"
-        answer: "AWS GameDays are structured as team-based competitions where participants solve real-world problems using AWS services."
-      - question: "What skills can participants develop during AWS GameDays?"
-        answer: "Participants can develop their AWS skills, problem-solving abilities, and teamwork during AWS GameDays."
-  - context: |
-      AWS User Group Leaders are volunteers who organize and manage AWS user groups in their local communities. They play a crucial role in fostering a collaborative environment for AWS enthusiasts to learn and share knowledge. User Group Leaders coordinate events, engage with members, and often collaborate with AWS to bring valuable resources to their groups.
-    questions_and_answers:
-      - question: "Who are AWS User Group Leaders?"
-        answer: "AWS User Group Leaders are volunteers who organize and manage AWS user groups in their local communities."
-      - question: "What role do AWS User Group Leaders play?"
-        answer: "AWS User Group Leaders play a crucial role in fostering a collaborative environment for AWS enthusiasts to learn and share knowledge."
-      - question: "What activities do AWS User Group Leaders coordinate?"
-        answer: "AWS User Group Leaders coordinate events, engage with members, and often collaborate with AWS to bring valuable resources to their groups."
+        answer: "To foster collaboration and practical learning in a fun, competitive environment."
+      - question: "Are AWS GameDays suitable for beginners?"
+        answer: "Yes, AWS GameDays are designed to be inclusive and provide learning opportunities for all skill levels."
+      - question: "How can I prepare for an AWS GameDay?"
+        answer: "Familiarize yourself with AWS services and practice solving real-world scenarios."
+      - question: "Do AWS GameDays offer prizes for participants?"
+        answer: "Yes, many AWS GameDays offer prizes for top-performing teams as an incentive."
 
   - context: |
-      AWS Community Events are gatherings organized by AWS enthusiasts and professionals to share knowledge, network, and collaborate on AWS-related topics. These events are a great way to learn from experts, meet like-minded individuals, and stay updated on the latest AWS developments.
+      AWS Leadership Programs include initiatives like AWS Heroes, Community Builders, and User Group Leaders, empowering individuals to lead and innovate within the AWS ecosystem.
     questions_and_answers:
-      - question: "What are AWS Community Events?"
-        answer: "AWS Community Events are gatherings organized by AWS enthusiasts and professionals to share knowledge, network, and collaborate on AWS-related topics."
-      - question: "What are the benefits of attending AWS Community Events?"
-        answer: "These events are a great way to learn from experts, meet like-minded individuals, and stay updated on the latest AWS developments."
-      - question: "What are AWS User Groups?"
-        answer: "AWS User Groups are local communities that meet regularly to discuss AWS topics, share best practices, and network."
-      - question: "Who can join AWS User Groups?"
-        answer: "These groups are open to everyone, from beginners to experts."
-      - question: "What are AWS Community Days?"
-        answer: "AWS Community Days are community-organized events that provide a platform for AWS users to come together to network, learn, and share their experiences."
-      - question: "What activities are typically featured at AWS Community Days?"
-        answer: "These events typically feature technical sessions, workshops, and networking opportunities."
-  - context: |
-      AWS Meetups are informal gatherings where AWS users can discuss specific topics, share experiences, and learn from each other. These events are usually smaller and more focused than Community Days.
-    questions_and_answers:
-      - question: "What are AWS Meetups?"
-        answer: "AWS Meetups are informal gatherings where AWS users can discuss specific topics, share experiences, and learn from each other."
-      - question: "How do AWS Meetups differ from AWS Community Days?"
-        answer: "AWS Meetups are usually smaller and more focused than Community Days."
-      - question: "What are AWS Summits?"
-        answer: "AWS Summits are free events hosted by AWS that bring the cloud computing community together to connect, collaborate, and learn about AWS."
-      - question: "What activities are featured at AWS Summits?"
-        answer: "These events feature keynote speakers, technical sessions, and hands-on workshops."
-      - question: "How can I get involved with AWS Community Events?"
-        answer: |
-          To get involved with AWS Community Events, you can:
-          - Join a local [AWS User Group](https://aws.amazon.com/developer/community/usergroups/)
-          - Attend an [AWS Community Day](https://aws.amazon.com/events/community-day/)
-          - Join the [Global AWS User Group Community on Meetup](https://www.meetup.com/pro/global-aws-user-group-community/)
-          - Register for an [AWS Summit](https://aws.amazon.com/events/summits/)
-      - question: "Where can I find more information on AWS Community Events?"
-        answer: "For more information on AWS Community Events, visit the [official AWS Community page](https://aws.amazon.com/developer/community/)."
-  - context: |
-      AWS User Groups are local communities that meet regularly to discuss AWS topics, share best practices, and network. These groups are open to everyone, from beginners to experts.
-    questions_and_answers:
-      - question: "What is the purpose of AWS User Groups?"
-        answer: "The purpose of AWS User Groups is to provide a platform for AWS users to discuss AWS topics, share best practices, and network."
-      - question: "Who can join AWS User Groups?"
-        answer: "AWS User Groups are open to everyone, from beginners to experts."
-      - question: "How often do AWS User Groups meet?"
-        answer: "The frequency of meetings varies by group, but they typically meet regularly."
-
-  - context: |
-      AWS Summits are free events hosted by AWS that bring the cloud computing community together to connect, collaborate, and learn about AWS. These events feature keynote speakers, technical sessions, and hands-on workshops.
-    questions_and_answers:
-      - question: "What are AWS Summits?"
-        answer: "AWS Summits are free events hosted by AWS that bring the cloud computing community together to connect, collaborate, and learn about AWS."
-      - question: "What activities are featured at AWS Summits?"
-        answer: "These events feature keynote speakers, technical sessions, and hands-on workshops."
-      - question: "How can I register for an AWS Summit?"
-        answer: "You can register for an AWS Summit by visiting the [AWS Summit page](https://aws.amazon.com/events/summits/)."
-
-  - context: |
-      AWS Community Meetups or AWS User Group Meetups are organized events where AWS enthusiasts in AWS User Groups gather to share knowledge, network, and collaborate on AWS-related topics. These meetups typically feature presentations from AWS experts, hands-on workshops, and opportunities for attendees to discuss their experiences and challenges with AWS services. The agenda for a typical AWS Community Meetup includes an introduction, keynote presentations, breakout sessions, networking breaks, Q&A sessions, and a closing session. Each session is carefully timed to ensure a smooth flow of events, with keynote presentations usually lasting around 45 minutes, breakout sessions around 30 minutes, and Q&A sessions around 15 minutes. Effective time management and clear communication are key to the success of these meetups.
-    questions_and_answers:
-      - question: "What is the typical agenda for an AWS Community or User Group Meetup?"
-        answer: "The typical agenda includes an introduction, keynote presentations, breakout sessions, networking breaks, Q&A sessions, and a closing session."
-      - question: "How long do Intro presentations of the Meetup Group and Sponsors usually last at AWS Communityor User Group  Meetups?"
-        answer: "Intro presentations usually last around 5-10 minutes."
-      - question: "How long are breakout sessions at AWS Community or User Group Meetups?"
-        answer: "Breakout sessions typically last around 30 minutes."
-      - question: "Is there a Q&A session planned in the AWS Community or User Group Meetup agenda?"
-        answer: "Yes, Q&A sessions are typically included in the agenda and usually last around 15 minutes."
-      - question: "How is time managed during AWS Community or User Group Meetups?"
-        answer: "Each session is carefully timed to ensure a smooth flow of events, with effective time management and clear communication being key to the success of the meetups."
-  - context: |
-      Planning an agenda for each AWS Community Meetup is crucial for its success. The agenda should be published beforehand on the event invite page. A typical agenda might include a welcome and news segment, presentations on AWS topics, Q&A sessions, optional lightning talks or member shout-outs, and a networking session. The welcome segment usually lasts 5-10 minutes, presentations 20-30 minutes each, Q&A sessions 5-10 minutes, and networking sessions 30+ minutes. Effective time management and clear communication are essential.
-    questions_and_answers:
-      - question: "What should be included in the agenda for an AWS Community Meetup?"
-        answer: "The agenda should include a welcome and news segment, presentations on AWS topics, Q&A sessions, optional lightning talks or member shout-outs, and a networking session."
-      - question: "How long should the welcome and news segment last?"
-        answer: "The welcome and news segment usually lasts 5-10 minutes."
-      - question: "What is the typical duration for presentations at AWS Community Meetups?"
-        answer: "Presentations typically last 20-40 minutes each."
-  - context: |
-      AWS Community Meetups often feature a mix of deep-dive presentations and higher-level case studies. It's important to ensure that the topics align with the interests of the members. Early on, organizers might have to rely on themselves or close colleagues to speak. Introductory topics are also valuable as they help new AWS users and provide refreshers for experienced members. Feedback from attendees can help in selecting future topics.
-    questions_and_answers:
-      - question: "What types of presentations are featured at AWS Community Meetups?"
-        answer: "Presentations can include deep-dive sessions on specific AWS services and higher-level case studies."
-      - question: "Who usually speaks at the early AWS Community Meetups?"
-        answer: "Early on, organizers or close colleagues might have to speak."
-      - question: "Are introductory topics valuable at AWS Community Meetups?"
-        answer: "Yes, introductory topics help new AWS users and provide refreshers for experienced members."
-  - context: |
-      Q&A sessions are an integral part of AWS Community Meetups. They typically follow each presentation and last around 5-10 minutes. As an organizer, it's important to be prepared to spark the Q&A by asking a question yourself if the audience is initially shy. This encourages others to participate and ask their own questions. Effective facilitation of Q&A sessions can enhance the overall experience for attendees.
-    questions_and_answers:
-      - question: "When do Q&A sessions typically occur during AWS Community Meetups?"
-        answer: "Q&A sessions typically follow each presentation."
-      - question: "How long do Q&A sessions usually last?"
-        answer: "Q&A sessions usually last around 5-10 minutes."
-      - question: "What should an organizer do if the audience is shy during the Q&A session?"
-        answer: "The organizer should be prepared to ask a question themselves to spark the Q&A and encourage others to participate."
-  - context: |
-      Networking sessions are a valuable part of AWS Community Meetups. They usually occur after the formal talks and can last 30 minutes or more. In-person networking sessions often include pizza, snacks, and drinks provided by a sponsor or host. Virtual networking sessions can be facilitated using breakout rooms or open discussions. Unstructured social time during these sessions helps attendees form connections and discuss what they heard in the talks.
-    questions_and_answers:
-      - question: "When do networking sessions typically occur during AWS Community Meetups?"
-        answer: "Networking sessions usually occur after the formal talks."
-      - question: "How long do networking sessions usually last?"
-        answer: "Networking sessions usually last 30 minutes or more."
-      - question: "What is the value of unstructured social time during networking sessions?"
-        answer: "Unstructured social time helps attendees form connections and discuss what they heard in the talks."
-
-  - context: |
-      The AWS Leadership & Community Programs encompass various roles and initiatives designed to empower individuals to lead, innovate, and educate within the AWS ecosystem. These programs include AWS Heroes, AWS Community Builders, AWS User Group Leaders, AWS Ambassadors, and AWS Cloud Captains.
-    questions_and_answers:
-      - question: "What is the primary goal of AWS Heroes?"
-        answer: "The primary goal of AWS Heroes is to educate and empower the community by providing technical guidance, mentorship, and thought leadership."
-      - question: "What are the key traits of an AWS Hero?"
-        answer: "Key traits of an AWS Hero include proven technical excellence with AWS services, passion for community-driven knowledge sharing, and a commitment to staying current with AWS advancements."
-      - question: "How do AWS Community Builders contribute to the AWS ecosystem?"
-        answer: "AWS Community Builders contribute by fostering a supportive environment for collaboration, sharing best practices, and promoting diversity and inclusion within the community."
-      - question: "What are the leadership goals of AWS User Group Leaders?"
-        answer: "The leadership goals of AWS User Group Leaders include building a vibrant local forum for learning, facilitating knowledge exchange, and addressing regional needs with relevant AWS insights."
-      - question: "What distinguishes AWS Ambassadors from other community leaders?"
-        answer: "AWS Ambassadors are distinguished by their advanced AWS certifications, exceptional technical expertise, and their role in driving customer success and promoting thought leadership within the AWS Partner Network."
-  - context: |
-      This section provides detailed questions and answers about the roles and contributions of various AWS community leaders, including AWS Cloud Captains, AWS Heroes, AWS Community Builders, AWS User Group Leaders, and AWS Ambassadors. It highlights their focus areas, key traits, and the ways they inspire and facilitate knowledge exchange within the AWS ecosystem.
-    questions_and_answers:
-      - question: "What is the focus of AWS Cloud Captains in student clubs?"
-        answer: "AWS Cloud Captains focus on empowering future builders through hands-on learning, bridging theory and practice, and cultivating peer mentorship among students."
-      - question: "How do AWS Heroes inspire continuous learning?"
-        answer: "AWS Heroes inspire continuous learning by serving as catalysts for innovation and encouraging others to explore and experiment with AWS solutions."
-      - question: "What role do AWS Community Builders play in advancing diversity and inclusion?"
-        answer: "AWS Community Builders play a role in advancing diversity and inclusion by promoting a welcoming culture for individuals from diverse backgrounds and encouraging peer learning."
-      - question: "How do AWS User Group Leaders facilitate knowledge exchange?"
-        answer: "AWS User Group Leaders facilitate knowledge exchange by organizing sessions that cover AWS updates, use cases, and hands-on demos."
-      - question: "What are the key traits of an AWS Ambassador?"
-        answer: "Key traits of an AWS Ambassador include mastery of AWS services, strong commitment to continuous learning, and a desire to share successes and challenges openly for community benefit."
-      - question: "How do AWS Cloud Captains bridge theory and practice?"
-        answer: "AWS Cloud Captains bridge theory and practice by demonstrating how AWS services solve real-world problems in various industries through workshops, hackathons, and collaborative projects."
-  - context: |
-      The AWS Community Leadership Principles are inspired by Amazon's Leadership Principles but tailored to foster a collaborative and inclusive community. These principles guide leaders in various AWS community roles to create a thriving, innovative, and high-performing environment.
-    questions_and_answers:
-      - question: "What is the principle of Customer Obsession?"
-        answer: "Customer Obsession means leaders start with the community and work backwards. They work vigorously to earn and keep community trust."
-      - question: "How do leaders demonstrate Ownership?"
-        answer: "Leaders demonstrate Ownership by acting on behalf of the entire community, beyond just their own team. They never say 'that’s not my job.'"
-      - question: "What does Learn and Be Curious entail?"
-        answer: "Learn and Be Curious means leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them."
-
-  - context: |
-      AWS User Groups (UGs) are community-led meetups where cloud builders of all levels gather to discuss the latest AWS technologies, share experiences, and learn from peers. These groups provide a platform for individuals to connect, collaborate, and grow their knowledge in AWS services and solutions. Whether you are a beginner or an experienced professional, AWS User Groups offer valuable opportunities to enhance your skills and network with like-minded individuals.
-    questions_and_answers:
-      - question: "What are AWS User Groups?"
-        answer: "AWS User Groups are community-led meetups where cloud builders of all levels gather to discuss the latest AWS technologies, share experiences, and learn from peers."
-      - question: "Who can benefit from AWS User Groups?"
-        answer: "Both beginners and experienced professionals can benefit from AWS User Groups by enhancing their skills and networking with like-minded individuals."
-      - question: "What opportunities do AWS User Groups provide?"
-        answer: "AWS User Groups provide opportunities to connect, collaborate, and grow knowledge in AWS services and solutions."
-      - question: "How do AWS User Groups help individuals?"
-        answer: "AWS User Groups help individuals by offering a platform to discuss AWS technologies, share experiences, and learn from peers."
-      - question: "What is the purpose of AWS User Groups?"
-        answer: "The purpose of AWS User Groups is to provide a platform for individuals to connect, collaborate, and grow their knowledge in AWS services and solutions."
-
-  - context: |
-      There are over 590+ AWS User Groups globally, spanning cities and regions worldwide. User Group events are typically free and occur regularly (monthly or quarterly), either in-person or virtual. Each group is organized by volunteer leaders who coordinate meetups featuring tech talks, demos, or workshops.
-    questions_and_answers:
-      - question: "How many AWS User Groups are there globally?"
-        answer: "There are over 590+ AWS User Groups globally."
-      - question: "Are AWS User Group events free?"
-        answer: "Yes, AWS User Group events are typically free."
-      - question: "How often do AWS User Group events occur?"
-        answer: "AWS User Group events occur regularly, either monthly or quarterly."
-      - question: "Who organizes AWS User Group events?"
-        answer: "AWS User Group events are organized by volunteer leaders."
-      - question: "What activities are featured in AWS User Group meetups?"
-        answer: "AWS User Group meetups feature tech talks, demos, or workshops."
-
-  - context: |
-      AWS User Groups provide an informal, peer-to-peer learning environment to ask questions, network, and get inspired by real-world use cases. AWS supports user groups by listing them in the official directory and often connecting organizers with resources (speakers, event support, etc.). Many user groups focus on broad AWS topics, while some may cater to specific interests (e.g. serverless, AI/ML) depending on the local community's demand.
-    questions_and_answers:
-      - question: "What kind of learning environment do AWS User Groups provide?"
-        answer: "AWS User Groups provide an informal, peer-to-peer learning environment."
-      - question: "How does AWS support user groups?"
-        answer: "AWS supports user groups by listing them in the official directory and often connecting organizers with resources like speakers and event support."
-      - question: "What topics do AWS User Groups focus on?"
-        answer: "Many user groups focus on broad AWS topics, while some may cater to specific interests like serverless or AI/ML."
-      - question: "What can members do in AWS User Groups?"
-        answer: "Members can ask questions, network, and get inspired by real-world use cases in AWS User Groups."
-      - question: "How are AWS User Groups listed?"
-        answer: "AWS User Groups are listed in the official directory."
-
-  - context: |
-      User Groups enable knowledge sharing and networking on a local level. Discussions range from new AWS service announcements to best practices and member project showcases. Meetings often include one or two presentations followed by Q&A and a networking session. The atmosphere is typically welcoming and vendor-neutral – no sales pitches or recruiting, just builders helping each other learn.
-    questions_and_answers:
-      - question: "What do User Groups enable on a local level?"
-        answer: "User Groups enable knowledge sharing and networking on a local level."
-      - question: "What topics are discussed in User Group meetings?"
-        answer: "Discussions range from new AWS service announcements to best practices and member project showcases."
-      - question: "What do User Group meetings typically include?"
-        answer: "Meetings often include one or two presentations followed by Q&A and a networking session."
-      - question: "What is the atmosphere like in User Group meetings?"
-        answer: "The atmosphere is typically welcoming and vendor-neutral, with no sales pitches or recruiting."
-      - question: "What is the focus of User Group meetings?"
-        answer: "The focus is on builders helping each other learn."
-
-  - context: |
-      Joining a user group is an excellent way to learn tangible AWS skills from like-minded peers and build your professional network. By participating in these groups, members can stay updated with the latest AWS developments, gain insights from real-world implementations, and find inspiration for their own projects.
-    questions_and_answers:
-      - question: "What can you learn by joining a user group?"
-        answer: "You can learn tangible AWS skills from like-minded peers."
-      - question: "How can user groups help with professional growth?"
-        answer: "User groups help with professional growth by allowing members to build their professional network."
-      - question: "What benefits do members get from participating in user groups?"
-        answer: "Members can stay updated with the latest AWS developments, gain insights from real-world implementations, and find inspiration for their own projects."
-      - question: "How do user groups help members stay updated?"
-        answer: "User groups help members stay updated with the latest AWS developments."
-      - question: "What kind of insights can members gain from user groups?"
-        answer: "Members can gain insights from real-world implementations."
+      - question: "What are AWS Leadership Programs?"
+        answer: "They are initiatives like AWS Heroes and Community Builders that empower individuals to lead and innovate."
+      - question: "What is the role of AWS User Group Leaders?"
+        answer: "They organize events, engage with members, and foster collaboration within their local communities."
+      - question: "What distinguishes AWS Ambassadors?"
+        answer: "They are advanced AWS-certified professionals who promote thought leadership and customer success."
+      - question: "How can I become an AWS User Group Leader?"
+        answer: "You can apply to start or lead a group through the AWS User Groups directory."
+      - question: "What support does AWS provide to User Group Leaders?"
+        answer: "AWS provides resources like credits, speakers, and event support with volunteers if needed to help leaders succeed."
+      - question: "What is the impact of AWS Leadership Programs on the community?"
+        answer: "They inspire innovation, foster collaboration, and empower individuals to share knowledge and grow professionally."
 
 document_outline: |
-  This document briefly introduces the AWS Community Ecosystem, highlighting
-  its core components: AWS User Groups, leadership and recognition programs,
-  community-led events, and open source initiatives. It explains how members
-  benefit from networking, knowledge sharing, and mentorship, and directs
-  readers to official AWS resources or separate markdown files for in-depth
-  details on specific programs (such as AWS Heroes or Community Builders).
-document:
+  - AWS User Groups: Local communities for AWS enthusiasts to share knowledge and network.
+  - AWS Heroes: Recognized individuals contributing significantly to the AWS community.
+  - AWS Community Builders: Program supporting individuals passionate about sharing AWS knowledge.
+  - AWS Community Days: Community-organized events for learning and networking.
+  - AWS Open Source Contributions: Sharing tools and frameworks to help others succeed with AWS.
+  - AWS Meetups: Informal gatherings for AWS users to connect and share insights.
+  - AWS GameDays: Team-based learning exercises to challenge AWS skills.
+  - AWS Leadership Programs: Initiatives empowering individuals to lead and innovate within the AWS ecosystem.
   repo: https://github.com/aws-user-group-toolkit/otto-taxonomy
   commit: HEAD
   patterns:
-    - knowledge/aws_community_information/aws_community/aws_community_overview.md
-    - knowledge/aws_community_information/aws_community/aws_community_events.md
-    - knowledge/aws_community_information/aws_community/aws_community_leadership.md
-    - knowledge/aws_community_information/aws_community/aws_community_user_groups.md
+    - knowledge/aws_community_information/aws_community/global_aws_community.md

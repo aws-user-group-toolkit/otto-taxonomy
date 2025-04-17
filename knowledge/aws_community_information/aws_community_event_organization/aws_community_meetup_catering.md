@@ -121,7 +121,7 @@ As we're hosting after-work events, it’s important to offer a balanced mix of 
 
 #### **On Meetup Day**
 **Event Execution**
-- Arrive early and check catering orders (check-in starts at **17:00**).
+- Arrive early and check catering orders (check-in starts at **17:00** and talks start at **18:00**).
 - Setup room (seating, projector, microphone, name tags, food & drinks).
 - Coordinate with sponsors and speakers.
 - Monitor event flow and assist attendees as needed.

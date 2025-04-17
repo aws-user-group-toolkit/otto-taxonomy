@@ -47,35 +47,6 @@ AWS User Groups are spread across the globe, making it easy to find one near you
 
 If you live in New York City, you can visit the AWS User Groups page and search for groups in your area. You might find the "AWS NYC User Group" which hosts monthly meetups. By joining this group, you can stay updated on upcoming events, connect with local AWS enthusiasts, and start benefiting from the community.
 
-
-### User Groups by Region
-- **Asia Pacific**
-- **Australia & New Zealand**
-- **Europe, Middle East, & Africa**
-- **Greater China Region**
-- **Japan**
-- **Latin America**
-- **North America**
-
-### User Groups by Interest
-- **AI/ML**
-- **Analytics**
-- **Amazon Connect**
-- **AWS Startups**
-- **Containers**
-- **Customer Enablement/ProServe**
-- **Databases**
-- **EC2/Windows**
-- **Front-End Web & Mobile**
-- **Game Tech**
-- **General AWS User Group**
-- **IoT**
-- **Media Services**
-- **Migration**
-- **Security**
-- **Serverless**
-- **Women's User Groups**
-
 ## Starting a New User Group
 
 Interested in starting a new user group? Visit the [AWS User Groups page](https://aws.amazon.com/developer/community/usergroups/) to learn how to build, lead, and grow your own user group.

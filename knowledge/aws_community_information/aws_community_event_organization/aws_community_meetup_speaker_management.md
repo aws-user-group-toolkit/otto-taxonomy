@@ -15,6 +15,9 @@ Sessionize is a popular platform for managing speaker submissions and building a
 - Automated scheduling.
 - Integration with event platforms.
 
+### Example:
+[Sessionize AWS User Groups Austria](https://sessionize.com/aws-community-austria/)
+
 ---
 
 ## 2. Google Forms

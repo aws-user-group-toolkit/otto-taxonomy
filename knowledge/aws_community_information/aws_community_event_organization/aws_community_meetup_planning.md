@@ -12,12 +12,13 @@ This guide provides a step-by-step process for scheduling and organizing AWS Com
 
 ### Event Format
 - **17:00 - 18:00**: Entry & Networking
-- **18:00 - 18:10**: Welcome & Introduction AWS User Group Vienna
-- **18:10 - 18:20**: Welcome & Introduction Sponsor
-- **18:30 - 19:00**: Talk 1
-- **19:10 - 19:40**: Talk 2
-- **19:40 - 19:45**: Thank You & Closing
-- **19:45 - Open End**: Networking
+- **18:00 - 18:05**: Welcome & Introduction AWS User Group Vienna
+- **18:05 - 18:10**: Welcome & Introduction Sponsor
+- **18:10 - 18:50**: Talk 1
+- **18:50 - 19:10**: Networking & refreshment break
+- **19:10 - 19:50**: Talk 2
+- **19:50 - 19:55**: Thank You & Closing
+- **Open End**: Networking
 
 ## Meetup Planning Process
 
